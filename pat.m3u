@@ -1,0 +1,69 @@
+#EXTINF:-1, Rudaw HD
+rtsp://livestreaming.itworkscdn.net/rudawlive/rudawtv_240p
+#EXTINF:-1, MED MUZIK TV
+rtmp://178.33.61.33:1936/medmuzik//muzikakurdi
+#EXTINF:-1, NRT HD
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
+#EXTINF:-1, NRT2
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
+#EXTINF:-1, Kurdistan TV
+rtmp://84.244.187.12/live/livestream
+#EXTINF:-1, KurdSat News
+rtmp://68.168.105.117:1935/live/livestream
+#EXTINF:-1, KKN Channel
+rtmp://51.254.209.160:1935/live/livestream
+#EXTINF:-1, Gali Kurdistan
+http://64.150.177.45:1935/live/_definst_/mp4:myStream/playlist.m3u8
+#EXTINF:-1, WAAR TV
+rtmp://war471.srfms.com:2253/live//livestream
+
+#EXTINF:-1,oooo_NILESAT_ROTANA_oooo
+http://www.t12v.com:8000/live/damiano/damiano/1051.ts
+#EXTINF:-1,AR_ROTANA_AFLAM
+http://www.t12v.com:8000/live/damiano/damiano/88.ts
+#EXTINF:-1,AR_ROTANA_CINEMA
+http://www.t12v.com:8000/live/damiano/damiano/15.ts
+#EXTINF:-1,AR_ROTANA_CLASSIC
+http://www.t12v.com:8000/live/damiano/damiano/89.ts
+#EXTINF:-1,AR_ROTANA_CLIP
+http://www.t12v.com:8000/live/damiano/damiano/90.ts
+#EXTINF:-1,AR_ROTANA_KHALIGI
+http://www.t12v.com:8000/live/damiano/damiano/91.ts
+#EXTINF:-1,AR_ROTANA_MASRIYA
+http://www.t12v.com:8000/live/damiano/damiano/92.ts
+#EXTINF:-1,AR_ROTANA_MUSIC
+http://www.t12v.com:8000/live/damiano/damiano/93.ts
+#EXTINF:-1,oooo_NILESAT_MOVIES_oooo
+http://www.t12v.com:8000/live/damiano/damiano/1052.ts
+#EXTINF:-1,AR_BEIN_MOVIES_1
+http://www.t12v.com:8000/live/damiano/damiano/1815.ts
+#EXTINF:-1,AR_BEIN_MOVIES_2
+http://www.t12v.com:8000/live/damiano/damiano/1816.ts
+#EXTINF:-1,AR_FOX_MOVIES
+http://www.t12v.com:8000/live/damiano/damiano/48.ts
+#EXTINF:-1,oooo_NILESAT_MBC_oooo
+http://www.t12v.com:8000/live/damiano/damiano/1053.ts
+#EXTINF:-1,AR_MBC_1
+http://www.t12v.com:8000/live/damiano/damiano/155.ts
+#EXTINF:-1,AR_MBC_2
+http://www.t12v.com:8000/live/damiano/damiano/136.ts
+#EXTINF:-1,AR_MBC_3
+http://www.t12v.com:8000/live/damiano/damiano/131.ts
+#EXTINF:-1,AR_MBC_4
+http://www.t12v.com:8000/live/damiano/damiano/55.ts
+#EXTINF:-1,AR_MBC_MAX
+http://www.t12v.com:8000/live/damiano/damiano/135.ts
+#EXTINF:-1,AR_MBC_MASR
+http://www.t12v.com:8000/live/damiano/damiano/133.ts
+#EXTINF:-1,AR_MBC_ACTION
+http://www.t12v.com:8000/live/damiano/damiano/53.ts
+#EXTINF:-1,AR_MBC_DRAMA
+http://www.t12v.com:8000/live/damiano/damiano/54.ts
+#EXTINF:-1,AR_MBC_MASR_2
+http://www.t12v.com:8000/live/damiano/damiano/134.ts
+#EXTINF:-1,AR_MBC_BOLLYWOOD
+http://www.t12v.com:8000/live/damiano/damiano/132.ts
+#EXTINF:-1,AR_ABU_DHABI
+http://www.t12v.com:8000/live/damiano/damiano/50.ts
+#EXTINF:-1,AR_ABU_DHABI_DRAMA
+http://www.t12v.com:8000/live/damiano/damiano/107.ts
