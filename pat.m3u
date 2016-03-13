@@ -1,5 +1,5 @@
 #EXTINF:-1, Rudaw HD
-rtsp://livestreaming.itworkscdn.net/rudawlive/rudawtv_240p
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1, MED MUZIK TV
 rtmp://178.33.61.33:1936/medmuzik//muzikakurdi
 #EXTINF:-1, NRT HD
