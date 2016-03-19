@@ -1,35 +1,53 @@
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_1_HD"
+#EXTINF:-1 tvg-name="beIN Sports 1 HD" tvg-logo"http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" , AR_BEIN_SPORTS_1_HD
 http://www.t12v.com:8000/live/damiano/damiano/186.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_2_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 2 HD" tvg-logo"http://vignette3.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_2_HD_2013.jpg" , AR_BEIN_SPORTS_2_HD
 http://www.t12v.com:8000/live/damiano/damiano/187.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_3_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 3 HD" tvg-logo"http://vignette2.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" , AR_BEIN_SPORTS_3_HD
 http://www.t12v.com:8000/live/damiano/damiano/188.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_4_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 4 HD" tvg-logo"http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" , AR_BEIN_SPORTS_4_HD
 http://www.t12v.com:8000/live/damiano/damiano/189.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_5_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 5 HD" tvg-logo"http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" , AR_BEIN_SPORTS_5_HD
 http://www.t12v.com:8000/live/damiano/damiano/190.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_6_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 6 HD" tvg-logo"http://vignette4.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" , AR_BEIN_SPORTS_6_HD
 http://www.t12v.com:8000/live/damiano/damiano/191.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_7_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 7 HD" tvg-logo"http://vignette1.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" , AR_BEIN_SPORTS_7_HD
 http://www.t12v.com:8000/live/damiano/damiano/192.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_8_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 8 HD" tvg-logo"http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" , AR_BEIN_SPORTS_8_HD
 http://www.t12v.com:8000/live/damiano/damiano/193.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_9_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 9 HD" tvg-logo"http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" , AR_BEIN_SPORTS_9_HD
 http://www.t12v.com:8000/live/damiano/damiano/194.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_10_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 10 HD" tvg-logo"http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Bein_10.png" , AR_BEIN_SPORTS_10_HD
 http://www.t12v.com:8000/live/damiano/damiano/195.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_11_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 11 HD" tvg-logo"http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png" , AR_BEIN_SPORTS_11_HD
 http://www.t12v.com:8000/live/damiano/damiano/196.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_12_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 12 HD" tvg-logo"http://vignette1.wikia.nocookie.net/logopedia/images/a/a0/Bein_12.png" , AR_BEIN_SPORTS_12_HD
 http://www.t12v.com:8000/live/damiano/damiano/197.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_13_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 13 HD" tvg-logo"http://vignette2.wikia.nocookie.net/logopedia/images/3/34/Bein_13.png" , AR_BEIN_SPORTS_13_HD
 http://www.t12v.com:8000/live/damiano/damiano/451.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_14_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 14 HD" tvg-logo"http://vignette1.wikia.nocookie.net/logopedia/images/d/dd/Bein_14.png" , AR_BEIN_SPORTS_14_HD
 http://www.t12v.com:8000/live/damiano/damiano/452.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_15_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 15 HD" tvg-logo"http://vignette1.wikia.nocookie.net/logopedia/images/d/d6/BeIN_15.png" , AR_BEIN_SPORTS_15_HD
 http://www.t12v.com:8000/live/damiano/damiano/453.ts
-#EXTINF:-1,tvg-name="AR_BEIN_SPORTS_16_HD"
+
+#EXTINF:-1 tvg-name="beIN Sports 16 HD" tvg-logo"http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Bein_16.png" , AR_BEIN_SPORTS_16_HD
 http://www.t12v.com:8000/live/damiano/damiano/1230.ts
+
+
+
 #EXTINF:-1,tvg-name="oooo_NILESAT_BEIN_SPORT_oooo"
 http://www.t12v.com:8000/live/damiano/damiano/18.ts
 #EXTINF:-1,tvg-name="AR_BEIN_SPORTS_1HD"
