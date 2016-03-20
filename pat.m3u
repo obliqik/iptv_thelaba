@@ -2,45 +2,45 @@
 
 #EXTINF:-1 tvg-logo="http://www.kurdologie-wien.at/home/images/web_link_logo/rudaw_logo.jpg", Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/4/43/K24logo%28linkedin%29.jpg" , Kurdistan24
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/4/43/K24logo%28linkedin%29.jpg", Kurdistan24
 http://62.210.100.139:1935/kurdistan24tv/smil:kurdistan24/list.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" , NRT HD
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png", NRT HD
 http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
-#EXTINF:-1 tvg-logo"https://yt3.ggpht.com/-xBVL1MGmff8/AAAAAAAAAAI/AAAAAAAAAAA/_LX3b3wWMYc/s512-c-k-no/photo.jpg" , NRT2
+#EXTINF:-1 tvg-logo"https://yt3.ggpht.com/-xBVL1MGmff8/AAAAAAAAAAI/AAAAAAAAAAA/_LX3b3wWMYc/s512-c-k-no/photo.jpg", NRT2
 http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/de/e/e7/Logo_Kurdistan_TV.JPG" , Kurdistan TV
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/de/e/e7/Logo_Kurdistan_TV.JPG", Kurdistan TV
 rtmp://84.244.187.12/live/livestream
-#EXTINF:-1 tvg-logo"https://pbs.twimg.com/profile_images/436546339355123713/47oJPpa6.png" , KurdSat News
+#EXTINF:-1 tvg-logo"https://pbs.twimg.com/profile_images/436546339355123713/47oJPpa6.png", KurdSat News
 http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
-#EXTINF:-1 tvg-logo"http://www.shahidfree.com/files/channel/138/KNN.jpg" , KKN Channel
+#EXTINF:-1 tvg-logo"http://www.shahidfree.com/files/channel/138/KNN.jpg", KKN Channel
 rtmp://51.254.209.160:1935/live/livestream
-#EXTINF:-1 tvg-logo"http://kurtcekanalfrekanslari.kurtcebilgi.com/wp-content/uploads/2015/01/gk1.png" , Gali Kurdistan
+#EXTINF:-1 tvg-logo"http://kurtcekanalfrekanslari.kurtcebilgi.com/wp-content/uploads/2015/01/gk1.png", Gali Kurdistan
 https://hevitv.link/kanal7/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo"https://mir-s3-cdn-cf.behance.net/project_modules/disp/5a227914632201.562e185e7d171.jpg" , WAAR TV
+#EXTINF:-1 tvg-logo"https://mir-s3-cdn-cf.behance.net/project_modules/disp/5a227914632201.562e185e7d171.jpg", WAAR TV
 http://war471.srfms.com:2253/live//livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo"http://image.cdn.iha.com.tr/Contents/store/img/768000/768840.jpg" , TRT Kurdi
+#EXTINF:-1 tvg-logo"http://image.cdn.iha.com.tr/Contents/store/img/768000/768840.jpg", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/tr/a/a1/Newroz_tv.jpg" , Newroz
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/tr/a/a1/Newroz_tv.jpg", Newroz
 http://62.210.100.139:1935/newroztv/smil:newroz.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/en/0/04/Vin_tv.png" , Vin TV
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/en/0/04/Vin_tv.png", Vin TV
 http://95.170.203.140:1213/hls/vinlive.m3u8
-#EXTINF:-1 tvg-logo"https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" , Kurdmax TV HD
+#EXTINF:-1 tvg-logo"https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png", Kurdmax TV HD
 rtmp://live.kurdstream.net:1935/liveTrans/_definst_/mp4:myStream_720p
-#EXTINF:-1 tvg-logo"http://cihanhd.com/cihan.jpg" ,Cihan TV HD
+#EXTINF:-1 tvg-logo"http://cihanhd.com/cihan.jpg", Cihan TV HD
 rtmp://kurd-live.com/live/cihan
-#EXTINF:-1 tvg-logo"http://www.altkia.com/wp-content/uploads/2015/04/R%C3%AAga-TV-550x367.png" ,Rega TV
+#EXTINF:-1 tvg-logo"http://www.altkia.com/wp-content/uploads/2015/04/R%C3%AAga-TV-550x367.png", Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/list.m3u8
-#EXTINF:-1 tvg-logo"http://kurtce.tvfrekansi.com/wp-content/uploads/2014/12/gem-kurd.png" ,Gem Kurd
+#EXTINF:-1 tvg-logo"http://kurtce.tvfrekansi.com/wp-content/uploads/2014/12/gem-kurd.png", Gem Kurd
 http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1 tvg-logo"http://kurtcetvizle.com/wp-content/uploads/2014/08/speda-tv-frekans-471x360.jpg" ,Speda TV
+#EXTINF:-1 tvg-logo"http://kurtcetvizle.com/wp-content/uploads/2014/08/speda-tv-frekans-471x360.jpg", Speda TV
 http://kurd-live.com:1935/live/speda/list.m3u8
-#EXTINF:-1 tvg-logo"http://www.yeniozgurpolitika.org/wene/news/11012.jpg" ,Sterk TV
+#EXTINF:-1 tvg-logo"http://www.yeniozgurpolitika.org/wene/news/11012.jpg", Sterk TV
 http://62.210.100.139:1935/sterktv/smil:sterk.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo"http://www.bestanuce1.com/tv/images/ronahitv.jpg" ,Ronahi TV
+#EXTINF:-1 tvg-logo"http://www.bestanuce1.com/tv/images/ronahitv.jpg", Ronahi TV
 http://62.210.100.139:1935/ronahitv/smil:ronahi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo"http://serketin.com/tv_files/cira-tv-zindi-live-canli.jpg" ,Cira TV
+#EXTINF:-1 tvg-logo"http://serketin.com/tv_files/cira-tv-zindi-live-canli.jpg", Cira TV
 http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo"http://www.bestanuce1.com/tv/images/medmuzik.jpg" , MED MUZIK TV
+#EXTINF:-1 tvg-logo"http://www.bestanuce1.com/tv/images/medmuzik.jpg", MED MUZIK TV
 http://62.210.100.139:1935/medmuziktv/smil:medmuzik.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo"" , Al Arabiya
