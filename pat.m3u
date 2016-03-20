@@ -17,7 +17,7 @@ rtmp://51.254.209.160:1935/live/livestream
 #EXTINF:-1 tvg-logo"http://kurtcekanalfrekanslari.kurtcebilgi.com/wp-content/uploads/2015/01/gk1.png" , Gali Kurdistan
 https://hevitv.link/kanal7/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo"https://mir-s3-cdn-cf.behance.net/project_modules/disp/5a227914632201.562e185e7d171.jpg" , WAAR TV
-rtmp://war471.srfms.com:2253/live//livestream
+http://war471.srfms.com:2253/live//livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo"http://image.cdn.iha.com.tr/Contents/store/img/768000/768840.jpg" , TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/tr/a/a1/Newroz_tv.jpg" , Newroz
