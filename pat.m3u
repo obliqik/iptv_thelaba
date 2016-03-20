@@ -1,14 +1,14 @@
 #EXTM3U
- 
+
 #EXTINF:-1 tvg-logo="http://www.kurdologie-wien.at/home/images/web_link_logo/rudaw_logo.jpg", Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo"https://lh3.googleusercontent.com/XRmT3APIZ_AXWsbYwxxoosVucoqHIvWRfL8UD0nl0oWygXrv8ryO-wT9XfIdx2Kw2vY=w300" , Kurdistan24
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/4/43/K24logo%28linkedin%29.jpg" , Kurdistan24
 http://62.210.100.139:1935/kurdistan24tv/smil:kurdistan24/list.m3u8
-#EXTINF:-1 tvg-logo"https://i.ytimg.com/vi/C1mMxqzYH8w/maxresdefault.jpg" , NRT HD
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" , NRT HD
 http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
 #EXTINF:-1 tvg-logo"https://yt3.ggpht.com/-xBVL1MGmff8/AAAAAAAAAAI/AAAAAAAAAAA/_LX3b3wWMYc/s512-c-k-no/photo.jpg" , NRT2
 http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo"https://lh3.ggpht.com/9vKL5IPfO5kKoQ97PtC_A5wz6qt3RWk1n0T0GsrvsrFQRjCRfaBiWCPNr5GJ0XU2es8=w300" , Kurdistan TV
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/de/e/e7/Logo_Kurdistan_TV.JPG" , Kurdistan TV
 rtmp://84.244.187.12/live/livestream
 #EXTINF:-1 tvg-logo"https://pbs.twimg.com/profile_images/436546339355123713/47oJPpa6.png" , KurdSat News
 http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
