@@ -16,16 +16,19 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
 rtmp://84.244.187.12/live/livestream
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsatnews.png", KurdSat News
-http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
+http://149.11.90.99:4022/udp/238.21.14.35:5004
+
+#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
+http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
 https://hevitv.link/kanal10/_definst_/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
-rtmp://51.254.209.160:1935/live/livestream
+http://149.11.90.99:4022/udp/238.21.16.35:5004
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-https://hevitv.link/kanal7/_definst_/livestream/playlist.m3u8
+http://149.11.90.99:4022/udp/238.21.16.36:5004
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
 http://war471.srfms.com:2253/live//livestream/playlist.m3u8
@@ -41,6 +44,12 @@ http://95.170.203.140:1213/hls/vinlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdmax.png", Kurdmax TV HD
 rtmp://live.kurdstream.net:1935/liveTrans/_definst_/mp4:myStream_720p
+
+#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/cihantv.png", Cihan TV HD
+rtmp://kurd-live.com/live/cihan
+
+#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newline.png", Newline HD
+http://kurd-live.com:1935/live/new/chunklist_w1304379760.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.altkia.com/wp-content/uploads/2015/04/R%C3%AAga-TV-550x367.png", Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/list.m3u8
@@ -69,67 +78,63 @@ http://62.210.100.139:1935/medmuziktv/smil:medmuzik.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" , Al Arabiya
+#EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" , Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="" , BBC Arabic
+#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png" , BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-b.m3u8?sd=10
-#EXTINF:-1 tvg-logo="" , Sky News Arabia
+#EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" , Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1 tvg-logo="" , Al Baghdadia
+#EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/wp-content/uploads/2015/08/albaghdadia_logo_b1.png" , Al Baghdadia
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
-#EXTINF:-1 tvg-logo="" , Al Baghdadia 2
+#EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/bag2/sites/all/themes/B2/logo.png" , Al Baghdadia 2
 rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:-1 tvg-logo="" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1 tvg-logo="" , Al Jazeera Documentary
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" , Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
-#EXTINF:-1 tvg-logo="" , DW Arabic
+#EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
-#EXTINF:-1 tvg-logo="" , Dubai TV
-rtsp://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/200px-Nat_geo_channel_abu_dhabi.png" , Abu Dhabi National Geographic 
+http://149.11.90.99:4022/udp/238.21.11.38:5004
 
 
-#EXTINF:-1 tvg-logo="" ,AR_MBC_1
-http://www.t12v.com:8000/live/damiano/damiano/155.ts
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/dubai-tv-logo.jpeg" , Dubai TV
+http://149.11.90.99:4022/udp/238.21.11.62:5004
+#EXTINF:-1 tvg-logo="http://www.ting.co.tz/images/portfolio/full/item13.png" , Dubai ONE
+http://149.11.90.99:4022/udp/238.21.11.59:5004
 
-#EXTINF:-1 tvg-logo="" ,MBC 2 HD
-http://www.t12v.com:8000/live/damiano/damiano/136.ts
-#EXTINF:-1 tvg-logo="" ,MBC 2
+
+
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
+http://149.11.90.99:4022/udp/238.21.13.25:5004
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
+http://149.11.90.99:4022/udp/238.21.13.27:5004
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
+http://149.11.90.99:4022/udp/238.21.13.28:5004
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
+http://149.11.90.99:4022/udp/238.21.13.26:5004
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
+http://149.11.90.99:4022/udp/238.21.13.37:5004
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
+http://149.11.90.99:4022/udp/238.21.11.80:5004
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
+http://149.11.90.99:4022/udp/238.21.13.1:5004
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
+http://149.11.90.99:4022/udp/238.21.13.31:5004
+#EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
+http://149.11.90.99:4022/udp/238.21.13.35:5004
+#EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
+http://149.11.90.99:4022/udp/238.21.13.36:5004
+
+
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2 LQ
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1 tvg-logo="" ,AR_MBC_3
-http://www.t12v.com:8000/live/damiano/damiano/131.ts
-
-#EXTINF:-1 tvg-logo="" ,MBC 4 HD
-http://www.t12v.com:8000/live/damiano/damiano/55.ts
-#EXTINF:-1 tvg-logo="" ,MBC 4
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 LQ
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1 tvg-logo="" ,MBC MAX HD
-http://www.t12v.com:8000/live/damiano/damiano/135.ts
-#EXTINF:-1 tvg-logo="" ,MBC MAX
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:-1 tvg-logo="" ,AR_MBC_MASR
-http://www.t12v.com:8000/live/damiano/damiano/133.ts
-
-#EXTINF:-1 tvg-logo="" ,MBC ACTION HD
-http://www.t12v.com:8000/live/damiano/damiano/53.ts
-#EXTINF:-1 tvg-logo="" ,MBC ACTION
+#EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION LQ
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-
-#EXTINF:-1 tvg-logo="" ,AR_MBC_DRAMA
-http://www.t12v.com:8000/live/damiano/damiano/54.ts
-#EXTINF:-1 tvg-logo="" ,AR_MBC_MASR_2
-http://www.t12v.com:8000/live/damiano/damiano/134.ts
-#EXTINF:-1 tvg-logo="" ,MBC BOLLYWOOD HD
-http://www.t12v.com:8000/live/damiano/damiano/132.ts
-#EXTINF:-1 tvg-logo="" ,MBC BOLLYWOOD
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX LQ
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD LQ
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-#EXTINF:-1 tvg-logo="" ,AR_ABU_DHABI
-http://www.t12v.com:8000/live/damiano/damiano/50.ts
-#EXTINF:-1 tvg-logo="" ,AR_ABU_DHABI_DRAMA
-http://www.t12v.com:8000/live/damiano/damiano/107.ts
-
-
