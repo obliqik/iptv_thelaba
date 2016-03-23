@@ -13,7 +13,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
 http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistantv.png", Kurdistan TV
-http://149.11.90.99:4022/udp/238.21.14.35:5004
+rtmp://84.244.187.12/live/livestream
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsatnews.png", KurdSat News
 http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
@@ -25,10 +25,10 @@ http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
 https://hevitv.link/kanal10/_definst_/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
-http://149.11.90.99:4022/udp/238.21.16.35:5004
+rtmp://51.254.209.160:1935/live/livestream
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://149.11.90.99:4022/udp/238.21.16.36:5004
+https://hevitv.link/kanal7/_definst_/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
 http://war471.srfms.com:2253/live//livestream/playlist.m3u8
@@ -94,37 +94,39 @@ http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
 #EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/200px-Nat_geo_channel_abu_dhabi.png" , Abu Dhabi National Geographic 
-http://149.11.90.99:4022/udp/238.21.11.38:5004
 
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/dubai-tv-logo.jpeg" , Dubai TV
-http://149.11.90.99:4022/udp/238.21.11.62:5004
-#EXTINF:-1 tvg-logo="http://www.ting.co.tz/images/portfolio/full/item13.png" , Dubai ONE
-http://149.11.90.99:4022/udp/238.21.11.59:5004
+#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaitv.jpg" , Dubai TV
+rtsp://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv
+#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/samadubai.jpg" , Sama Dubai
+rtsp://dmi.mangomolo.com:1935/samadubai/_definst_/samadubai
+#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaidrama.jpg" , Dubai Drama
+rtsp://dmi.mangomolo.com:1935/dubaidrama/_definst_/dubaidrama.stream
+#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaione.jpg" , Dubai ONE
+rtsp://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione
 
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://149.11.90.99:4022/udp/238.21.13.25:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7589.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
 http://149.11.90.99:4022/udp/238.21.13.27:5004
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
-http://149.11.90.99:4022/udp/238.21.13.28:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7601.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
-http://149.11.90.99:4022/udp/238.21.13.26:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7591.ts
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
-http://149.11.90.99:4022/udp/238.21.13.37:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7593.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
-http://149.11.90.99:4022/udp/238.21.11.80:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7915.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
-http://149.11.90.99:4022/udp/238.21.13.1:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7916.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://149.11.90.99:4022/udp/238.21.13.31:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7597.ts
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
-http://149.11.90.99:4022/udp/238.21.13.35:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7592.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://149.11.90.99:4022/udp/238.21.13.36:5004
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7594.ts
 
 
 
