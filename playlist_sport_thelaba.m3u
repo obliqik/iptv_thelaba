@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="beIN Sports 1 HD" tvg-logo"http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" , AR_BEIN_SPORTS_1_HD
 http://www.t12v.com:8000/live/damiano/damiano/186.ts
 
@@ -88,3 +87,300 @@ http://www.t12v.com:8000/live/damiano/damiano/1279.ts
 http://www.t12v.com:8000/live/damiano/damiano/28.ts
 #EXTINF:-1,tvg-name="AR_BEIN_SPORTS_NEWS_AR"
 http://www.t12v.com:8000/live/damiano/damiano/454.ts
+
+
+
+
+
+#EXTINF:-1,==========Germany==========
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7232.ts
+#EXTINF:-1,DE: ARD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7192.ts
+#EXTINF:-1,DE: ZDF KULTUR
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7204.ts
+#EXTINF:-1,DE: ZDF
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7193.ts
+#EXTINF:-1,DE: Vox HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1765.ts
+#EXTINF:-1,DE: TAGESSCHAU 24
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7205.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3089.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3088.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3087.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3086.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3085.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3084.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3083.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3082.ts
+#EXTINF:-1,DE: N24
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7198.ts
+#EXTINF:-1,DE: HISTORY HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7203.ts
+#EXTINF:-1,DE: Eurosport HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1764.ts
+#EXTINF:-1,DE: Sport 1+ HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1447.ts
+#EXTINF:-1,DE: SPORT 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1448.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1445.ts
+#EXTINF:-1,DE: Sky Sport News
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3719.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1443.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3721.ts
+#EXTINF:-1,DE: Sky Sport 2.
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/221.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1441.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/3720.ts
+#EXTINF:-1,DE: Sky Sport 1.
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/220.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1439.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1446.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1431.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 weekend only
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7337.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 weekend only
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1432.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 weekend only
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1433.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 weekend only
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7338.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 weekend only
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1434.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1430.ts
+#EXTINF:-1,DE: RTL HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1429.ts
+#EXTINF:-1,DE: Pro Sieben Maxx HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1428.ts
+#EXTINF:-1,DE: Pro Sieben HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1427.ts
+#EXTINF:-1,DE: Passion
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1426.ts
+#EXTINF:-1,DE: N-TV HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1425.ts
+#EXTINF:-1,DE: Motorvision TV
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1424.ts
+#EXTINF:-1,DE: Kabel Eins
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1423.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1422.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1421.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1420.ts
+#EXTINF:-1,DE: Classica Deutschland
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1419.ts
+#EXTINF:-1,DE: TNT Serie
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/239.ts
+#EXTINF:-1,DE: TNT Film
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/238.ts
+#EXTINF:-1,DE: TLC
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/237.ts
+#EXTINF:-1,DE: Syfy DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/236.ts
+#EXTINF:-1,DE: SUPER RTL
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/224.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/235.ts
+#EXTINF:-1,DE: SKYDESPAU
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/222.ts
+#EXTINF:-1,DE: SKYDEBU1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/219.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/234.ts
+#EXTINF:-1,DE: Sky Krimi
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/233.ts
+#EXTINF:-1,DE: Sky Hits
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/232.ts
+#EXTINF:-1,DE: Sky Emotion
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/231.ts
+#EXTINF:-1,DE: Sky Comedy
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/230.ts
+#EXTINF:-1,DE: Sky Cinema24
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/229.ts
+#EXTINF:-1,DE: Sky Cinema+1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/228.ts
+#EXTINF:-1,DE: Sky Cinema
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/227.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/226.ts
+#EXTINF:-1,DE: Sky Action
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/225.ts
+#EXTINF:-1,DE: SIXX HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/218.ts
+#EXTINF:-1,DE: RTL2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/212.ts
+#EXTINF:-1,DE: RTL1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/211.ts
+#EXTINF:-1,DE: RTL Passion
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/216.ts
+#EXTINF:-1,DE: RTL NITRO
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/215.ts
+#EXTINF:-1,DE: RTL LIVING
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/214.ts
+#EXTINF:-1,DE: RTL Crime
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/213.ts
+#EXTINF:-1,DE: RomanceTV
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/217.ts
+#EXTINF:-1,DE: Nick Jr
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/210.ts
+#EXTINF:-1,DE: NatGeo Wild DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/209.ts
+#EXTINF:-1,DE: Nat GEO
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/208.ts
+#EXTINF:-1,DE: MGM DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/206.ts
+#EXTINF:-1,DE: KinoweltTV
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/204.ts
+#EXTINF:-1,DE: Junior
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/203.ts
+#EXTINF:-1,DE: Jukebox
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/202.ts
+#EXTINF:-1,DE: Heimatkanal
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/201.ts
+#EXTINF:-1,DE: Kika
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/200.ts
+#EXTINF:-1,DE: Fox Serie DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/199.ts
+#EXTINF:-1,DE: FOX
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/198.ts
+#EXTINF:-1,DE: DisneyCH DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/242.ts
+#EXTINF:-1,DE: Disney XD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/195.ts
+#EXTINF:-1,DE: Disney Junior DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/194.ts
+#EXTINF:-1,DE: Discovery Channel DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/196.ts
+#EXTINF:-1,DE: Classica
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/241.ts
+#EXTINF:-1,DE: AXN Action
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/189.ts
+#EXTINF:-1,DE: ANIXE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/240.ts
+#EXTINF:-1,DE: A E DE
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/190.ts
+#EXTINF:-1,DE: 13th Street
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/187.ts
+#EXTINF:-1,==========Sports==========
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7242.ts
+#EXTINF:-1,SPORT: Super Sport 4
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1112.ts
+#EXTINF:-1,SPORT: Super Sport 3
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1113.ts
+#EXTINF:-1,SPORT: Super Sport 2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1114.ts
+#EXTINF:-1,SPORT: Super Sport 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1115.ts
+#EXTINF:-1,SPORT: Sport TV 5
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1116.ts
+#EXTINF:-1,SPORT: Sport TV 4
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1117.ts
+#EXTINF:-1,SPORT: Sport TV 3
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1118.ts
+#EXTINF:-1,SPORT: Sport TV 2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1119.ts
+#EXTINF:-1,SPORT: Sport TV 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1120.ts
+#EXTINF:-1,SPORT: Sport Klub 3
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1121.ts
+#EXTINF:-1,SPORT: Sport Klub 2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1122.ts
+#EXTINF:-1,SPORT: Sport Klub 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1123.ts
+#EXTINF:-1,SPORT: Sky Sports News
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1124.ts
+#EXTINF:-1,SPORT: Sky Sports F1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1125.ts
+#EXTINF:-1,SPORT: Sky Sports 5
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1126.ts
+#EXTINF:-1,SPORT: Sky Sports 4
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1127.ts
+#EXTINF:-1,SPORT: Sky Sports 3
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1128.ts
+#EXTINF:-1,SPORT: Sky Sports 2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1129.ts
+#EXTINF:-1,SPORT: Sky Sports 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1130.ts
+#EXTINF:-1,SPORT: Sky Bundesliga HD 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1131.ts
+#EXTINF:-1,SPORT: Sky 2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1133.ts
+#EXTINF:-1,SPORT: Sky 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1134.ts
+#EXTINF:-1,SPORT: Setanta Sport
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1135.ts
+#EXTINF:-1,SPORT: Prva Plus
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1137.ts
+#EXTINF:-1,SPORT: Premiere Sport UK
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1138.ts
+#EXTINF:-1,SPORT: Liverpool FC UK
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1139.ts
+#EXTINF:-1,SPORT: CTH Stadium 6 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1140.ts
+#EXTINF:-1,SPORT: CTH Stadium 5 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1145.ts
+#EXTINF:-1,SPORT: CTH Stadium 4 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1141.ts
+#EXTINF:-1,SPORT: CTH Stadium 3 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1142.ts
+#EXTINF:-1,SPORT: CTH Stadium 2 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1143.ts
+#EXTINF:-1,SPORT: CTH Stadium 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1144.ts
+#EXTINF:-1,SPORT: BEINSPORTS 12
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/4385.ts
+#EXTINF:-1,SPORT: BEINSPORTS 11
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/4339.ts
+#EXTINF:-1,SPORT: BEINSPORTS 10
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1072.ts
+#EXTINF:-1,SPORT: BEINSPORTS 9
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1071.ts
+#EXTINF:-1,SPORT: BEINSPORTS 8
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1070.ts
+#EXTINF:-1,SPORT: BEINSPORTS 7
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1069.ts
+#EXTINF:-1,SPORT: BEINSPORTS 6
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1068.ts
+#EXTINF:-1,SPORT: BEINSPORTS 5
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1067.ts
+#EXTINF:-1,SPORT: BEINSPORTS 4
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1066.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3 FR
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1109.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1065.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2 FR
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1110.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1064.ts
+#EXTINF:-1,SPORT: BEINSPORTS 1 FR
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1111.ts
+#EXTINF:-1,SPORT: BEINSPORTS 1
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1063.ts
+#EXTINF:-1,SPORT: Arena Sport 5 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1051.ts
+#EXTINF:-1,SPORT: Arena Sport 4 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1050.ts
+#EXTINF:-1,SPORT: Arena Sport 3 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1049.ts
+#EXTINF:-1,SPORT: Arena Sport 2 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1048.ts
+#EXTINF:-1,SPORT: Arena Sport 1 HD
+http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/1047.ts
