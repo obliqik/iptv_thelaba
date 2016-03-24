@@ -84,6 +84,8 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" , Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:-1 tvg-logo="http://images.huffingtonpost.com/2010-02-13-1RussiaTodaylogo.jpg" , RT Arabic
+http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
 #EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/wp-content/uploads/2015/08/albaghdadia_logo_b1.png" , Al Baghdadia
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
 #EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/bag2/sites/all/themes/B2/logo.png" , Al Baghdadia 2
@@ -91,7 +93,7 @@ rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:-1 tvg-logo="" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" , Al Jazeera Documentary
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_med
+http://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_med/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 
