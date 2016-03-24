@@ -91,43 +91,42 @@ rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:-1 tvg-logo="" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" , Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_med
 #EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 
 
 #EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaitv.jpg" , Dubai TV
-rtsp://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv
+http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/samadubai.jpg" , Sama Dubai
-rtsp://dmi.mangomolo.com:1935/samadubai/_definst_/samadubai
+http://dmi.mangomolo.com:1935/samadubai/_definst_/samadubai/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaidrama.jpg" , Dubai Drama
-rtsp://dmi.mangomolo.com:1935/dubaidrama/_definst_/dubaidrama.stream
+http://dmi.mangomolo.com:1935/dubaidrama/_definst_/dubaidrama.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaione.jpg" , Dubai ONE
-rtsp://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione
+http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7589.ts
+http://5.196.86.70:8888/mbc_1.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
-http://149.11.90.99:4022/udp/238.21.13.27:5004
+http://5.196.86.70:8888/mbc_2.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7601.ts
+http://5.196.86.70:8888/mbc_3.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7591.ts
-#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7593.ts
-#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7915.ts
-#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7916.ts
-#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7597.ts
+http://5.196.86.70:8888/mbc_4.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7592.ts
+http://5.196.86.70:8888/mbc_action.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
+http://5.196.86.70:8888/mbc_max.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
+http://5.196.86.70:8888/mbc_drama.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
+http://5.196.86.70:8888/mbc_masr.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
+http://5.196.86.70:8888/mbc_masr_2.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://alphaIPTV.ddns.me:8080/live/anis_sat_iptv/anis_sat_iptv/7594.ts
-
+http://5.196.86.70:8888/mbc_bollywood.m3u8?idu=hmemar_68112242640
 
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2 LQ
