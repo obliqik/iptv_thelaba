@@ -25,10 +25,10 @@ http://live.karwan.tv/karwan.tv/kurdsat-tv/chunks.m3u8
 http://live.karwan.tv/karwan.tv/zagros-tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
-http://live.karwan.tv/karwan.tv/knn-tv/chunks.m3u8
+rtmp://51.254.209.160:1935/live/livestream
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://live.karwan.tv/karwan.tv/geli-kurdistan-tv/chunks.m3u8
+https://hevitv.link/kanal7/_definst_/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
 http://war471.srfms.com:2253/live//livestream/playlist.m3u8
@@ -37,7 +37,7 @@ http://war471.srfms.com:2253/live//livestream/playlist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
-http://live.karwan.tv/karwan.tv/newroz-tv/chunks.m3u8
+https://hevitv.link/kanal3/_definst_/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/vintv.png", Vin TV
 http://95.170.203.140:1213/hls/vinlive.m3u8
@@ -67,16 +67,16 @@ http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
 http://kurd-live.com:1935/live/speda/list.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-http://live.karwan.tv/karwan.tv/sterk-tv/chunks.m3u8
+http://62.210.100.139:1935/sterktv/smil:sterk.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
-http://live.karwan.tv/karwan.tv/ronahi-tv/chunks.m3u8
+http://62.210.100.139:1935/ronahitv/smil:ronahi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
-http://live.karwan.tv/karwan.tv/cira-tv/chunks.m3u8
+ http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
-http://live.karwan.tv/karwan.tv/med-nuce-tv/chunks.m3u8
+ http://62.210.100.139:1935/mednucetv/smil:mednuce.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
 http://live.karwan.tv/karwan.tv/med-muzik-tv/chunks.m3u8
