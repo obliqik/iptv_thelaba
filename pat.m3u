@@ -49,9 +49,9 @@ http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-http://62.210.100.139:1935/sterktv/smil:sterk.smil/playlist.m3u8
+http://178.33.61.33:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
-http://62.210.100.139:1935/ronahitv/smil:ronahi.smil/playlist.m3u8
+http://5.135.134.25:1936/14/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
 http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
