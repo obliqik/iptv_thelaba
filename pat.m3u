@@ -32,6 +32,8 @@ http://95.170.203.140:1213/hls/vinlive.m3u8
 http://live.karwan.tv/karwan.tv/korek-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdmax.png", Kurdmax TV HD
 http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.duhoktv.net/images/logo.gif" , Duhok TV
+http://live.karwan.tv/karwan.tv/duhok-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/cihantv.png", Cihan TV HD
 rtmp://kurd-live.com/live/cihan
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newline.png", Newline HD
@@ -89,7 +91,7 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
 http://5.196.86.70:8888/nat_geo_ad.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/euronewsar.jpg" , Euronews Arabic
-http://euronews-live-p3-cdn.hexaglobe.net/4f03dff5a40b7bff08d37bca386f1821/56f801a7/euronews/ewnslivebkp_ara.smil/ewnslivebkp_ara_540p.m3u8
+http://euronews-live-b-cdn.hexaglobe.net/d6fe4ad62b43f581f15f42b2408e3a22/56fa707e/euronews/ewnslivebkp_ara.smil/ewnslivebkp_ara_540p.m3u8
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://teledunet.tv:8888/al_iraqiya.m3u8?idu=hmemar_68112242640
 
@@ -115,7 +117,7 @@ http://5.196.86.70:8888/mbc_masr.m3u8?idu=hmemar_68112242640
 http://5.196.86.70:8888/mbc_masr_2.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
 http://5.196.86.70:8888/mbc_bollywood.m3u8?idu=hmemar_68112242640
-#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi Drama
+#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://teledunet.tv:8888/abu_dhabi.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
 http://teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=hmemar_68112242640
