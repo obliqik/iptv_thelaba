@@ -15,11 +15,11 @@ http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
 http://live.karwan.tv/karwan.tv/kurdsat-tv/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTYgMTA6MzI6MDIgQU0maGFzaF92YWx1ZT02R004ZlJJU29PYnVFdzVUNFdVVVNnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
-http://live.karwan.tv/karwan.tv/zagros-tv/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTYgMTA6MzI6MDIgQU0maGFzaF92YWx1ZT02R004ZlJJU29PYnVFdzVUNFdVVVNnPT0mdmFsaWRtaW51dGVzPTIw
+https://hevitv.link/kanal10/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 rtmp://51.254.209.160:1935/live/livestream
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://live.karwan.tv/karwan.tv/geli-kurdistan-tv/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTYgMTA6MzI6MDIgQU0maGFzaF92YWx1ZT02R004ZlJJU29PYnVFdzVUNFdVVVNnPT0mdmFsaWRtaW51dGVzPTIw
+http://stream-08.vty.dailymotion.com/17/dm/1/x3xwr07/live.isml/events(live-1459494116)/live-audio=128000-video=1200000.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
 http://war471.srfms.com:2253/live//livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kurd_channel.jpg" , Kurd Channel
@@ -63,9 +63,10 @@ http://178.33.63.44:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
 http://62.210.100.139:1935/medmuziktv/smil:medmuzik.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/pelistank.png" , Pelistank TV 
-http://live.karwan.tv/karwan.tv/pelistank-tv/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTYgMTA6MzI6MDIgQU0maGFzaF92YWx1ZT02R004ZlJJU29PYnVFdzVUNFdVVVNnPT0mdmFsaWRtaW51dGVzPTIw
+https://hevitv.link/kanal18/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zaroktv.png" , Zarok TV
-http://live.karwan.tv/karwan.tv/zarok-tv-kurmanci/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTYgMTA6MzI6MDIgQU0maGFzaF92YWx1ZT02R004ZlJJU29PYnVFdzVUNFdVVVNnPT0mdmFsaWRtaW51dGVzPTIw
+http://stream-04.vty.dailymotion.com/41/dm/1/x327os6/live.isml/events(live-1459432263)/live-audio=128000-video=700000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" , Al Arabiya
