@@ -58,6 +58,8 @@ http://178.33.61.33:1936/13/stream/playlist.m3u8
 http://5.135.134.25:1936/14/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
 http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
+http://live.karwan.tv/karwan.tv/lalish-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
 http://62.210.100.139:1935/newroztv/smil:newroz.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
