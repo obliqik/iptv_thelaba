@@ -15,7 +15,7 @@ http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
 https://hevitv.link/kanal11/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
-https://hevitv.link/kanal10/_definst_/livestream/playlist.m3u8
+http://5.196.84.213:8888/zagros.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 rtmp://51.254.209.160:1935/live/livestream
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
@@ -94,36 +94,42 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1cFdX8HimnU/VjkqY45HTJI/AAAAAAAAAWM/HwgvmK-1IVw/s1600/_beIN_Sport_News.png" , Bein Sport News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
-http://1340922563@5.196.84.213:8888/nat_geo_ad.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/nat_geo_ad.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://teledunet.tv:8888/al_iraqiya.m3u8?idu=kingaufmetin2_73520716500
 
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://1340922563@5.196.84.213:8888/mbc_1.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_1.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
-http://1340922563@5.196.84.213:8888/mbc_2.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_2.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
-http://1340922563@5.196.84.213:8888/mbc_3.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_3.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
-http://1340922563@5.196.84.213:8888/mbc_4.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_4.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
-http://1340922563@5.196.84.213:8888/mbc_action.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_action.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
-http://1340922563@5.196.84.213:8888/mbc_max.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_max.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://1340922563@5.196.84.213:8888/mbc_drama.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_drama.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
-http://1340922563@5.196.84.213:8888/mbc_masr.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_masr.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
-http://1340922563@5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://1340922563@5.196.84.213:8888/mbc_bollywood.m3u8?idu=ukselim_85646860650
+http://5.196.84.213:8888/mbc_bollywood.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://teledunet.tv:8888/abu_dhabi.m3u8?idu=kingaufmetin2_73520716500
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
 http://teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=kingaufmetin2_73520716500
+#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png" , Abu Dhabi Emarat
+http://5.196.84.213:8888/abu_dhabi_emarat.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg" , Abu Dhabi Sports 1
+http://5.196.84.213:8888/abu_dhabi_sports_1.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg" , Abu Dhabi Sports 2
+http://5.196.84.213:8888/abu_dhabi_sports_2.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaitv.jpg" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/samadubai.jpg" , Sama Dubai
@@ -132,6 +138,20 @@ http://dmi.mangomolo.com:1935/samadubai/_definst_/samadubai/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaidrama/_definst_/dubaidrama.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaione.jpg" , Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo-880x660.png" , Rotana Aflam
+http://5.196.84.213:8888/rotana_aflam.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://static.elcinema.com/images/channels/160px/1217.png" , Rotana Classic
+http://5.196.84.213:8888/rotana_classic.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo-880x660.png" , Rotana Clip
+http://5.196.84.213:8888/rotana_clip.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Khalijia-Logo-880x660.png" , Rotana Khalijia
+http://5.196.84.213:8888/rotana_khaligi.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://tv.7emirate.com/wp-content/uploads/2015/04/Rotana-Masriya.jpg" , Rotana Masriya
+http://5.196.84.213:8888/rotana_masriya.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/08/download.jpg" , Rotana Music
+http://5.196.84.213:8888/rotana_music.m3u8?idu=ukselim_85646860650
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Cinema-logo-880x660.png" , Rotana Cinema
+http://5.196.84.213:8888/rotana_cinema.m3u8?idu=ukselim_85646860650
 
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2 LQ
