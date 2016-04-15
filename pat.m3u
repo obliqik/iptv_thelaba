@@ -132,14 +132,24 @@ http://5.196.84.213:8888/abu_dhabi_emarat.m3u8?idu=ukselim_85646860650
 http://5.196.84.213:8888/abu_dhabi_sports_1.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg" , Abu Dhabi Sports 2
 http://5.196.84.213:8888/abu_dhabi_sports_2.m3u8?idu=ukselim_85646860650
-#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaitv.jpg" , Dubai TV
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/samadubai.jpg" , Sama Dubai
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Sama.png" , Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/_definst_/samadubai/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaidrama.jpg" , Dubai Drama
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Drama.png" , Dubai Drama
 http://dmi.mangomolo.com:1935/dubaidrama/_definst_/dubaidrama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dmi.mangomolo.com/bg/dubaione.jpg" , Dubai ONE
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/OneTV.png" , Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/NoorDubai.png" , Noor Dubai
+http://dmi.mangomolo.com:1935/noordubaitv/_definst_/noordubaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Zaman.png" , Dubai Zaman
+http://dmi.mangomolo.com:1935/dubaizaman/_definst_/dubaizaman.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Sports.png" , Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisports/_definst_/dubaisports/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Racing.png" , Dubai Racing
+http://dmi.mangomolo.com:1935/events/_definst_/events/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo-880x660.png" , Rotana Aflam
 http://5.196.84.213:8888/rotana_aflam.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://static.elcinema.com/images/channels/160px/1217.png" , Rotana Classic
