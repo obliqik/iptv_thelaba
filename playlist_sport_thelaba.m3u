@@ -30,8 +30,8 @@ http://teledunet.tv:8888/bein_sport_9.m3u8?idu=kingaufmetin2_73520716500
 http://teledunet.tv:8888/bein_sport_10.m3u8?idu=kingaufmetin2_73520716500
 
 
-#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_1.jpg" , SKY SPORT 1
-http://50.97.49.87:1935/apqq2/sky1delsh/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_1.jpg" , SKY Bundesliga 1
+http://163.172.14.237:8081/liverepeater/55c252c12a291/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDE2IDI6MDU6NTcgUE0maGFzaF92YWx1ZT1HcC9odUQ2QkI5Q0lmQnlHTjRYUWt3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_2.jpg" , SKY SPORT 2
 http://50.97.49.87:1935/apqq2/sky2delsh/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_news.jpg" , SKY SPORT NEWS
