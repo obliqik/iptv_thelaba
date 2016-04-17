@@ -19,7 +19,7 @@ http://5.196.84.213:8888/zagros.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://stream-04.vty.dailymotion.com/39/dm/1/x3xwr07/live.isml/events(live-1460743948)/live-audio=128000-video=1200000.m3u8
+http://live.karwan.tv/karwan.tv/geli-kurdistan-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
 http://war471.srfms.com:2253/live//livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kurd_channel.jpg" , Kurd Channel
@@ -69,10 +69,9 @@ http://178.33.63.44:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
 http://178.33.61.33:1936/medmuzik/muzikakurdi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/pelistank.png" , Pelistank TV 
-https://hevitv.link/kanal18/_definst_/livestream/chunklist_w494197299.m3u8
+http://live.karwan.tv/karwan.tv/pelistank-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zaroktv.png" , Zarok TV
-http://stream-07.vty.dailymotion.com/34/dm/1/x327os6/live.isml/events(live-1460801009)/live-audio=128000-video=700000.m3u8
-
+http://live.karwan.tv/karwan.tv/zarok-tv-kurmanci/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" , Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
@@ -88,7 +87,7 @@ http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
 #EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/bag2/sites/all/themes/B2/logo.png" , Al Baghdadia 2
 rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
-#EXTINF:-1 tvg-logo="" , Al Jazeera
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" , Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
