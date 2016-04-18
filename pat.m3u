@@ -27,13 +27,15 @@ http://live.karwan.tv/karwan.tv/komala-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvkomala.com/live/komala_logo_12_tiny.png" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/Kanal4tv.png" , Kanal 4
-https://hevitv.link/kanal12/_definst_/livestream/playlist.m3u8
+http://live.karwan.tv/karwan.tv/kanal4/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/vintv.png", Vin TV
 http://95.170.203.140:1213/hls/vinlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.prosave.tv/imagestore/haber/ref-delmedto6k4kjnf87yxv3z5r4a941uqgt52600t7ae51om52oq.png", Korek
 http://live.karwan.tv/karwan.tv/korek-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdmax.png", Kurdmax TV HD
 http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-emTRvvWrKG4/AAAAAAAAAAI/AAAAAAAAAAA/64pTSw-CKDA/s88-c-k-no-rj-c0xffffff/photo.jpg" , net TV
+http://live.karwan.tv/karwan.tv/net-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.duhoktv.net/images/logo.gif" , Duhok TV
 http://live.karwan.tv/karwan.tv/duhok-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/cihantv.png", Cihan TV HD
@@ -169,6 +171,8 @@ http://5.196.84.213:8888/rotana_masriya.m3u8?idu=ukselim_85646860650
 http://5.196.84.213:8888/rotana_music.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Cinema-logo-880x660.png" , Rotana Cinema
 http://5.196.84.213:8888/rotana_cinema.m3u8?idu=ukselim_85646860650
+
+
 
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2 LQ
