@@ -31,8 +31,39 @@ http://teledunet.tv:8888/bein_sport_10.m3u8?idu=kingaufmetin2_73520716500
 
 
 #EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_1.jpg" , SKY Bundesliga 1
-http://163.172.14.237:8081/liverepeater/55c252c12a291/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDE2IDI6MDU6NTcgUE0maGFzaF92YWx1ZT1HcC9odUQ2QkI5Q0lmQnlHTjRYUWt3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_2.jpg" , SKY SPORT 2
+http://195.154.156.48:8081/liverepeater/55c252c12a291/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6MzQ6MTIgQU0maGFzaF92YWx1ZT1KK3U1eGYzTWd5SS82YngwcWl3ZCtBPT0mdmFsaWRtaW51dGVzPTYw
 http://50.97.49.87:1935/apqq2/sky2delsh/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_news.jpg" , SKY SPORT NEWS
 http://109.123.117.212:8088/live/tvlive0006/playlist.m3u8?id=243384&pk=3e3ee8c790bc5163e90ec0112e287b947d9200cdada614664f48310a63ab4a7c
+#EXTINF:-1 tvg-logo="" , Premier Sport
+http://cdn.sportlive.ws/hls/3L1VUE-yZFd_eNpW7DewtQ/1461497941/premiersport.m3u8
+#EXTINF:-1 tvg-logo="" , BT Sport 1
+http://163.172.5.127:8081/liverepeater/55d8344b9278c/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6MzY6NDUgQU0maGFzaF92YWx1ZT1KVWNIVFpweXg1Tmt0UWJFV1JBT0JnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="" , BT Sport 2
+http://93.115.7.194:8081/liverepeater/55d9a7b3aad72/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6Mzc6MTUgQU0maGFzaF92YWx1ZT1QaVBKNXZnY2dMaDJYdjhNYjUwVGN3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="" , Sky Sport 1 [ENG]
+http://185.45.13.179:8081/liverepeater/55c254f3bcd94/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6Mzg6MTkgQU0maGFzaF92YWx1ZT1TQUptV0lTRUJlSFJ0MDhoTnBrVzJnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="" , Sky Sport 2 [ENG]
+http://163.172.5.124:8081/liverepeater/565c8bc6946b6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6NDI6MDcgQU0maGFzaF92YWx1ZT1LR0RFTk5PZGNqNzltMS9vT3lrRi93PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="" , Sky Sport 3 [ENG]
+http://93.115.7.196:8081/liverepeater/5651f6cc80ea9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6Mzk6MDYgQU0maGFzaF92YWx1ZT1YblRSYXVkd3dZRVNPN05XOFY5bmFBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="" , Sky Sport 4 [ENG]
+http://185.45.13.178:8081/liverepeater/56801f7a01615/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6NDA6MjQgQU0maGFzaF92YWx1ZT1Gb1VoL1dpeUJvdmdQa3pIYi8xbkZnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="" , Sky Sport 5 [ENG]
+http://89.40.71.243:8081/liverepeater/56bf5e4313223/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDk6NDA6NDQgQU0maGFzaF92YWx1ZT1SV1VBRHlYVTdpQ0tDRW95SkdKN3dnPT0mdmFsaWRtaW51dGVzPTYw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
