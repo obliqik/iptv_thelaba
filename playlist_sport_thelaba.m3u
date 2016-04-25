@@ -79,23 +79,10 @@ http://osltv.zackapps.com/app/best/sky.php?id=5&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/BT_Sport_1.svg/revision/latest/scale-to-width-down/300?cb=20130806194205" , BT Sport 1 [ENG]
 http://osltv.zackapps.com/app/best/bt.php?id=1&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/51/BT_Sport_2.svg/revision/latest/scale-to-width-down/300?cb=20130806194148" , BT Sport 2 [ENG]
-http://osltv.zackapps.com/app/best/bt.php?id=1&type=.m3u8
+http://osltv.zackapps.com/app/best/bt.php?id=2&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5d/BT_Sport_ESPN.png/revision/latest/scale-to-width-down/300?cb=20150609115556" , BT Sport ESPN [ENG]
 http://osltv.zackapps.com/app/best/bt.php?id=espn&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sport Europe [ENG]
 http://osltv.zackapps.com/app/best/bt.php?id=europe&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/71/Versus_HD.png/revision/latest/scale-to-width-down/200?cb=20110408205402" , Versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
