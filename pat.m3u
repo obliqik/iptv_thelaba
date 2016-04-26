@@ -23,7 +23,7 @@ http://stream-11.vty.dailymotion.com/33/dm/1/x3xwr07/live.isml/events(live-14613
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
 http://war471.srfms.com:2253/live//livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kurd_channel.jpg" , Kurd Channel
-http://live.karwan.tv/karwan.tv/komala-tv/chunks.m3u8
+http://169.50.87.17/2/H5QFvfdQ/05925/f1w3iu5/14617/fe5l6mS/trt1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvkomala.com/live/komala_logo_12_tiny.png" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/Kanal4tv.png" , Kanal 4
