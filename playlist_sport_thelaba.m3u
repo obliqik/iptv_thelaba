@@ -86,3 +86,7 @@ http://osltv.zackapps.com/app/best/bt.php?id=espn&type=.m3u8
 http://osltv.zackapps.com/app/best/bt.php?id=europe&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/71/Versus_HD.png/revision/latest/scale-to-width-down/200?cb=20110408205402" , Versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-15.55.04/1732346661ff44c6abc382c2072b9edd.png" , TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+
+
