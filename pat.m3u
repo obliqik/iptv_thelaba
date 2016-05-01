@@ -175,6 +175,28 @@ http://5.196.84.213:8888/rotana_music.m3u8?idu=ukselim_85646860650
 http://5.196.84.213:8888/rotana_cinema.m3u8?idu=ukselim_85646860650
   
 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" , MBC 2
+http://51.255.81.190:8080/MBC-2/mono.m3u8
+#EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" , MBC ACTION
+http://51.255.81.190:8080/MBC-Action/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,  MBC Bollywood
+http://51.255.81.190:8080/MBC-Bollywood/mono.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nM1vVwA58p8/Vn3LznTa2hI/AAAAAAAAA2I/4WJObu_lpZIjHmDNkHGzwV3KybiI6Tk6A/s200/Movies1HD.png" , bein Movies 1
+http://51.255.81.190:8080/Bein-MOVIES-1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.elcinema.com/images/channels/160px/1211.png" , OSN Movies Action
+http://51.255.81.190:8080/OSN_MOVIES_ACTION/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.elcinema.com/images/channels/160px/1209.png" , OSN Movies
+http://51.255.81.190:8080/OSN_MOVIES/mono.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_action_hd.jpg" , Sky Action HD [DE]
+http://51.255.81.190:8080/DE:SKY-Action-HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_cinema_hd.JPG" , Sky Cinema HD [DE]
+http://51.255.81.190:8080/DE:Sky-Cinema-HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_select_1.jpg" , Sky Select 1 [DE]
+http://51.255.81.190:8080/DE-SKY-SELECT1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_select_2.jpg" , Sky Select 2 [DE]
+http://51.255.81.190:8080/DE-SKY-SELECT2/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2 LQ
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
