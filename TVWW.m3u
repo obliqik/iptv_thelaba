@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_action_hd.jpg" , Sky Action HD [DE]
+http://51.255.81.190:8080/DE:SKY-Action-HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_cinema_hd.JPG" , Sky Cinema HD [DE]
+http://51.255.81.190:8080/DE:Sky-Cinema-HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_select_1.jpg" , Sky Select 1 [DE]
+http://51.255.81.190:8080/DE-SKY-SELECT1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_select_2.jpg" , Sky Select 2 [DE]
+http://51.255.81.190:8080/DE-SKY-SELECT2/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png", Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.travelchannel.com/content/dam/images/travel/fullset/2012/08/15/bc/travel-channel_web-logo.rend.tccom.616.462.jpeg" , Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.ashoka.org/sites/ashoka/files/planetgreen.jpg" , Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e9/6a/00/e96a003eedacd1a23caa80871d31c28f.jpg" , ID TV
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.sho.com/site/image-bin/images/0_0_0/0_0_0_prm-ogsho_246x246.jpg" , SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.rador.ro/wp-content/uploads/2015/04/Discovery_Channel_logo.jpg", Discovery Channel UK HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-logo="http://jazarah.net/wp-content/uploads/2014/02/Discovery-Science-HD.jpg", UK: Discovery Science HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png", HISTORY Channel HD
+http://188.165.12.93:8000/live/jay/jay/28.m3u8
+#EXTINF:-1 tvg-logo="http://mms.businesswire.com/media/20160307006388/en/447793/5/NatGeoWild_RGB_black.jpg" , NATIONAL GEOGRAPHY WILD – UK
+http://51.255.81.190:8080/UK-Nat-Geo-Wild/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" , ANIMAL PLANET – UK
+http://51.255.81.190:8080/UK-Animal-Planet/mono.m3u8
+#EXTINF:-1 tvg-logo="http://themusicuniverse.com/wp-content/uploads/2013/03/vevo-tv-logo-new.png" , VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
