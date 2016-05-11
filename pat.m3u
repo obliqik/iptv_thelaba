@@ -41,11 +41,11 @@ http://kurd-live.com:1935/live/new/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rojikurd.png" , Roj Kurd
 http://87.81.198.172/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--rObrTJftaE/Vd0bYfb8noI/AAAAAAAAD6E/9K0WNSsmSQo/s1600/1522758_223190081203856_1479619578_o.png", Falcon Eye HD
-http://live2.karwan.tv/falcon-eye-tv/falcon-eye-tv/chunks.m3u8
+http://live.karwan.tv/karwan.tv/falcon-eye-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.altkia.com/wp-content/uploads/2015/04/R%C3%AAga-TV-550x367.png", Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/01-03-2016-a865207c-gemkurdtv.jpg", Gem Kurd
-http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
+http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/spedatv.png", Speda TV
 http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
@@ -96,7 +96,7 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
 http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/89.ts
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
-http://5.196.84.213:8888/al_iraqiya.m3u8?idu=ukselim_85646860650
+http://teledunet.com:1935/al_iraqiya.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
