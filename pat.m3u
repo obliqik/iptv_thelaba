@@ -106,17 +106,17 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/3.ts
+http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/4.ts
+http://63.237.48.28/ios/MBC2/MBC2.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
 http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/6.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/7.ts
+http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/427.ts
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/428.ts
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
 http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/1614.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
@@ -124,9 +124,9 @@ http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/653.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
 http://5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/2105.ts
+http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/9.ts
+http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
 http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/12.ts
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png" , Abu Dhabi Emarat
