@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rudawhd.png", Rudaw HD
-http://livestreaming.itworkscdn.net/rudawlive/rudawtv_240p/playlist.m3u8
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_w1829010918_b825000.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistan24.png", Kurdistan24
 https://hevitv.link/kanal30/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/nrttvhd.png", NRT HD
@@ -25,7 +25,7 @@ https://hevitv.link/kanal7/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
-http://198.100.158.231:1935/kanal2/_definst_/livestream/playlist.m3u8
+rtmp://war471.srfms.com:2253/live//livestream
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/Kanal4tv.png" , Kanal 4
 http://live.karwan.tv/karwan.tv/kanal4/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/vintv.png", Vin TV
@@ -53,7 +53,7 @@ http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-http://178.33.61.33:1936/13/stream/playlist.m3u8
+http://62.210.100.139:1935/sterktv/smil:sterk.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
@@ -65,13 +65,14 @@ http://62.210.100.139:1935/newroztv/smil:newroz.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
 http://178.33.63.44:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
-http://178.33.61.33:1936/medmuzik/muzikakurdi/playlist.m3u8
+http://62.210.100.139:1935/medmuziktv/smil:medmuzik.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/26-02-2016-591560ce-denge-tv.png" , Denge TV
 http://yayin3.canlitv.com:1935/live/dengetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/pelistank.png" , Pelistank TV 
 https://hevitv.link/kanal18/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zaroktv.png" , Zarok TV
-http://stream-06.vty.dailymotion.com/13/dm/1/x327os6/live.isml/events(live-1461381942)/live-audio=128000-video=700000.m3u8
+https://hevitv.link/kanal28/_definst_/zaroktv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" , Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
@@ -108,7 +109,7 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
+http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
@@ -120,7 +121,7 @@ http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/1614.ts
+http://176.31.46.168/osltv/arablive-tv.m3u8?channel=mbc-drama&type=.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
 http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/653.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
