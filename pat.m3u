@@ -22,10 +22,10 @@ https://hevitv.link/kanal10/_definst_/livestream/playlist.m3u8
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
 https://hevitv.link/kanal7/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" , Komala TV
+#EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
-rtmp://war471.srfms.com:2253/live//livestream
+http://war471.srfms.com:2253/live//livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/Kanal4tv.png" , Kanal 4
 http://live.karwan.tv/karwan.tv/kanal4/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/vintv.png", Vin TV
@@ -47,25 +47,25 @@ http://live.karwan.tv/karwan.tv/falcon-eye-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.altkia.com/wp-content/uploads/2015/04/R%C3%AAga-TV-550x367.png", Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/01-03-2016-a865207c-gemkurdtv.jpg", Gem Kurd
-http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
+http://fluplus1.giniko.com/gemkurd/gemkurd/index.m3u8?token=5ac5286cccd10d3e1f824faa3c04bab486400
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/spedatv.png", Speda TV
 http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-http://62.210.100.139:1935/sterktv/smil:sterk.smil/playlist.m3u8
+https://hevitv.link/kanal6/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
-http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8
+http://fluplus1.giniko.com/ciratv/ciratv/index.m3u8?token=a8d23da6551a70ebbc2535f1d9b3f61e86400
 #EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
 http://live.karwan.tv/karwan.tv/lalish-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
-http://62.210.100.139:1935/newroztv/smil:newroz.smil/playlist.m3u8
+http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
 http://178.33.63.44:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
-http://62.210.100.139:1935/medmuziktv/smil:medmuzik.smil/playlist.m3u8
+http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/26-02-2016-591560ce-denge-tv.png" , Denge TV
 http://yayin3.canlitv.com:1935/live/dengetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/pelistank.png" , Pelistank TV 
@@ -99,7 +99,7 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
 http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/89.ts
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
-http://teledunet.com:1935/al_iraqiya.m3u8?idu=ukselim_85646860650
+http://nimplus2eu1.giniko.com/aliraqiya/aliraqiya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDE2IDI6NTc6NTEgUE0maGFzaF92YWx1ZT1pUmZJRUwxSFlmRGRXUWhaTGxhWTZBPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
@@ -127,7 +127,7 @@ http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/653.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
 http://5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+http://fluplus1.giniko.com/mbcbollywood/mbcbollywood/index-1464011603-now.m3u8?token=a0b54eec679237554c12dc7d42458b2a86400
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
