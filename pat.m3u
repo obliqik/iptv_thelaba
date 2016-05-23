@@ -97,7 +97,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1cFdX8HimnU/VjkqY45HTJI/AAAAAAAAAWM/HwgvmK-1IVw/s1600/_beIN_Sport_News.png" , Bein Sport News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/89.ts
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/nat_geo_ad
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://nimplus2eu1.giniko.com/aliraqiya/aliraqiya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDE2IDI6NTc6NTEgUE0maGFzaF92YWx1ZT1pUmZJRUwxSFlmRGRXUWhaTGxhWTZBPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
@@ -113,7 +113,7 @@ http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/6.ts
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/mbc_3
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
@@ -121,23 +121,23 @@ http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://176.31.46.168/osltv/arablive-tv.m3u8?channel=mbc-drama&type=.m3u8
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/mbc_drama
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/653.ts
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/mbc_masr
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
-http://5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/mbc_masr_2
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
 http://fluplus1.giniko.com/mbcbollywood/mbcbollywood/index-1464011603-now.m3u8?token=a0b54eec679237554c12dc7d42458b2a86400
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/12.ts
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/abu_dhabi_drama
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png" , Abu Dhabi Emarat
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/1691.ts
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/abu_dhabi_emarat
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg" , Abu Dhabi Sports 1
-http://iptv-altamimi.org:8000/live/nqashalhob/nqashalhob/10.ts
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/abu_dhabi_sports_2
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg" , Abu Dhabi Sports 2
-http://5.196.84.213:8888/abu_dhabi_sports_2.m3u8?idu=ukselim_85646860650
+rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/abu_dhabi_sports_2
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Sama.png" , Sama Dubai
