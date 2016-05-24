@@ -45,7 +45,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
+#EXTINF:0,AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -53,5 +53,150 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1, NHK WORLD
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
+#EXTINF:0,NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTM3U
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://213.150.180.161:8000/play/a00t
+#EXTINF:-1,HD1
+http://213.150.180.161:8000/play/a005
+#EXTINF:-1,SkySport2
+http://213.150.180.161:8000/play/a02a
+#EXTINF:-1,PARIS PREMIERE
+http://213.150.180.161:8000/play/a006
+#EXTINF:-1,Junior
+http://213.150.180.161:8000/play/a02u
+#EXTINF:-1,FoxSerie
+http://213.150.180.161:8000/play/a03m
+#EXTINF:-1,SkyAction
+http://213.150.180.161:8000/play/a02s
+#EXTINF:-1,SkyBundesliga10
+http://213.150.180.161:8000/play/a035
+#EXTINF:-1,Sky Bundesliga9
+http://213.150.180.161:8000/play/a04a
+#EXTINF:-1,MCS EXTREME
+http://213.150.180.161:8000/play/a00u
+#EXTINF:-1,DisneyXD
+http://213.150.180.161:8000/play/a02y
+#EXTINF:-1,LCI
+http://213.150.180.161:8000/play/a00b
+#EXTINF:-1,Sky Atlantic
+http://213.150.180.161:8000/play/a04p
+#EXTINF:-1,MGM
+http://213.150.180.161:8000/play/a04w
+#EXTINF:-1,13EME RUE
+http://213.150.180.161:8000/play/a00o
+#EXTINF:-1,Heimatkanal
+http://213.150.180.161:8000/play/a021
+#EXTINF:-1,PLANETE+
+http://213.150.180.161:8000/play/a008
+#EXTINF:-1,NatGeoWild
+http://213.150.180.161:8000/play/a01z
+#EXTINF:-1,CINE+ PREMIER
+http://213.150.180.161:8000/play/a00d
+#EXTINF:-1,SkyBundesliga6
+http://213.150.180.161:8000/play/a03j
+#EXTINF:-1,RTL Crime
+http://213.150.180.161:8000/play/a04n
+#EXTINF:-1,Sky Cinema+24
+http://213.150.180.161:8000/play/a04f
+#EXTINF:-1,Sky Nostalgie
+http://213.150.180.161:8000/play/a04x
+#EXTINF:-1,SkyBundesliga7
+http://213.150.180.161:8000/play/a02k
+#EXTINF:-1,USHUAIA TV
+http://213.150.180.161:8000/play/a00g
+#EXTINF:-1,TF1
+http://213.150.180.161:8000/play/a003
+#EXTINF:-1,DisneyCinemagic
+http://213.150.180.161:8000/play/a03o
+#EXTINF:-1,SkyComedy
+http://213.150.180.161:8000/play/a02r
+#EXTINF:-1,SkyCinema+1
+http://213.150.180.161:8000/play/a02t
+#EXTINF:-1,FRANCE O
+http://213.150.180.161:8000/play/a00v
+#EXTINF:-1,SEASONS
+http://213.150.180.161:8000/play/a00x
+#EXTINF:-1,SkyHits
+http://213.150.180.161:8000/play/a03r
+#EXTINF:-1,Sky Bundesliga3
+http://213.150.180.161:8000/play/a03a
+#EXTINF:-1,GULLI
+http://213.150.180.161:8000/play/a00w
+#EXTINF:-1,FRANCE 5
+http://213.150.180.161:8000/play/a00a
+#EXTINF:-1,Sky Bundesliga 1
+http://213.150.180.161:8000/play/a04r
+#EXTINF:-1,SkySportAustria
+http://213.150.180.161:8000/play/a023
+#EXTINF:-1,Syfy
+http://213.150.180.161:8000/play/a024
+#EXTINF:-1,DisneyJunior
+http://213.150.180.161:8000/play/a02x
+#EXTINF:-1,National_Geographic_ger
+http://213.150.180.161:8000/play/a04i
+#EXTINF:-1,SkyEmotion
+http://213.150.180.161:8000/play/a04l
+#EXTINF:-1,SkyCinema+24
+http://213.150.180.161:8000/play/a05a
+#EXTINF:-1,DISNEY CHANNEL
+http://213.150.180.161:8000/play/a009
+#EXTINF:-1,DISNEY JUNIOR
+http://213.150.180.161:8000/play/a00p
+#EXTINF:-1,SkyBundesliga2
+http://213.150.180.161:8000/play/a037
+#EXTINF:-1,ARTE
+http://213.150.180.161:8000/play/a00c
+#EXTINF:-1,Sky_Sport_News
+http://213.150.180.161:8000/play/a04k
+#EXTINF:-1,BDL VoD
+http://213.150.180.161:8000/play/a030
+#EXTINF:-1,Sky Krimi
+http://213.150.180.161:8000/play/a04m
+#EXTINF:-1,CINE+ EMOTION
+http://213.150.180.161:8000/play/a00i
+#EXTINF:-1,13thStreet
+http://213.150.180.161:8000/play/a03s
+#EXTINF:-1,M6
+http://213.150.180.161:8000/play/a00e
+#EXTINF:-1,EUROSPORT 1
+http://213.150.180.161:8000/play/a007
+#EXTINF:-1,FRANCE 3
+http://213.150.180.161:8000/play/a00k
+#EXTINF:-1,FRANCE 2
+http://213.150.180.161:8000/play/a00h
+#EXTINF:-1,Discovery Channel
+http://213.150.180.161:8000/play/a04j
+#EXTINF:-1,NATIONAL GEO
+http://213.150.180.161:8000/play/a004
+#EXTINF:-1,W9
+http://213.150.180.161:8000/play/a00f
+#EXTINF:-1,Sky Cinema
+http://213.150.180.161:8000/play/a04h
+#EXTINF:-1,VOYAGE
+http://213.150.180.161:8000/play/a00s
+#EXTINF:-1,OCS GEANTS
+http://213.150.180.161:8000/play/a00r
+#EXTINF:-1,LCP
+http://213.150.180.161:8000/play/a00l
+#EXTINF:-1,SkyBundesliga8
+http://213.150.180.161:8000/play/a048
+#EXTINF:-1,Classica
+http://213.150.180.161:8000/play/a02w
+#EXTINF:-1,Sky Bundesliga5
+http://213.150.180.161:8000/play/a03g
+#EXTINF:-1,DisneyCinemagic
+http://213.150.180.161:8000/play/a022
+#EXTINF:-1,Kinowelt TV
+http://213.150.180.161:8000/play/a04u
+#EXTINF:-1,Jukebox
+http://213.150.180.161:8000/play/a04t
+#EXTINF:-1,Sky Bundesliga4
+http://213.150.180.161:8000/play/a03d
+#EXTINF:-1,SkySport1
+http://213.150.180.161:8000/play/a04q
+#EXTINF:-1,RTL Passion
+http://213.150.180.161:8000/play/a04o
+
