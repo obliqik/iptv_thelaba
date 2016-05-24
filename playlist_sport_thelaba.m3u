@@ -35,6 +35,14 @@ http://176.31.46.168:8000/test/test/36.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/Eurosport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , Eurosport FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cyfrowypolsat.pl/img/homepage/logo/big/eurosport.jpg" , EuroSport [PL]
+http://cdn.castto.me/live/N8zIFWU1YMbnamUIm1Pi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cyfrowypolsat.pl/img/homepage/logo/big/eurosport-2.jpg" , EuroSport 2 [PL]
+http://cdn.castto.me/live/iycnJ2MGXbR2kwPaacxe/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/200?cb=20100605113205" , Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/FS1_New_Logo.png" , FOX Sports 1
@@ -120,6 +128,8 @@ http://51.255.81.190:8080/SP-CANAL-Futbol/mono.m3u8
 http://51.255.81.190:8080/SP-CANAL-LIGA/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/08/Canal%2B_HD_Sport_Logo_2013.png" , CANAL+ Sport [FR]
 http://51.255.81.190:8080/FR-Canal-Sport/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.cyfrowypolsat.pl/img/homepage/logo/big/canal-plus-sport.jpg" , CANAL+ Sport [PL]
+http://cdn.castto.me/live/Z7Uvlz4bRsQbHliCnRtp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-b1DIhcf6JEg/VOvFI7NKYjI/AAAAAAAAAnk/QLDqKawYhyQ/s320/SPT1HD.png" , Sport TV 1 [PT]
 http://51.255.81.190:8080/PT:SPORT.TV1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png" , Sport TV 2 [PT]
