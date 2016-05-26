@@ -57,7 +57,7 @@ https://hevitv.link/kanal6/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
-http://fluplus1.giniko.com/ciratv/ciratv/index.m3u8?token=a8d23da6551a70ebbc2535f1d9b3f61e86400
+http://62.210.100.139:1935/ciratv/smil:cira.smil/chunklist_w1789261427_b926000_slen_tkYmVzdGFlbmR0aW1lPTE0NjQyNzI1OTImYmVzdGFzdGFydHRpbWU9MTQ2NDI2MTc5MiZiZXN0YUN1c3RvbVBhcmFtMT1DdXN0b21WYWx1ZSZiZXN0YWhhc2g9SEJNMFVfMWNxcFNNMnJBTTNzR3pwS1QxUkZYN3RpanhjWFBtdmlFendQOD0=.m3u8
 #EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
 http://live.karwan.tv/karwan.tv/lalish-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
@@ -99,7 +99,7 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
 rtmp://www.teledunet.net:1935/live?idu=rtuyy_nyydie4du/nat_geo_ad
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
-http://nimplus2eu1.giniko.com/aliraqiya/aliraqiya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDE2IDI6NTc6NTEgUE0maGFzaF92YWx1ZT1pUmZJRUwxSFlmRGRXUWhaTGxhWTZBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+http://sjc-uhls-proxy110.ustream.tv/watch/playlist.m3u8?cid=21791994&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=null&geocity=Bielefeld&userId=&connectionId=sjc-flot-live08_1813004783&ts=1464261996&ip=79.236.223.117&cdn=uhs_akamai&sgn=2e05f0023c75da0a753166e0ccdcf479bbb5878a
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
