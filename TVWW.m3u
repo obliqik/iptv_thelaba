@@ -287,3 +287,5 @@ http://tv.stream4k.net/hls/skysports3.m3u8
 http://tv.stream4k.net/hls/skysports4.m3u8
 #EXTINF:-1 tvg-logo="" , Sky Sports HD 5 [UK]
 http://tv.stream4k.net/hls/skysports5.m3u8
+#EXTINF:-1 tvg-logo="" , BT Sports HD Europe [UK]
+http://tv.stream4k.net/hls/btsportshdeurope.m3u8
