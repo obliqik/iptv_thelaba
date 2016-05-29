@@ -31,10 +31,23 @@ http://176.31.46.168:8000/test/test/35.m3u8
 #EXTINF:-1 tvg-logo="http://www.beinsport-live.tv/wp-content/uploads/2015/06/bein-sport-15-hd-live.png" , BEIN Sport 15
 http://176.31.46.168:8000/test/test/36.m3u8
 
+#EXTINF:-1,Arena Sport1 [JUG]
+http://79.124.59.218:1935/live/898953arenasport.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport2 [JUG]
+http://79.124.59.218:1935/live/898953arenasport2.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport3 [JUG]
+http://79.124.59.218:1935/live/898953arenasport3.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 1 HD [FR]
+http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 2 HD [FR]
+http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/Eurosport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , Eurosport ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/Eurosport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , Eurosport FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://188.165.46.79:1935/live/898953eurosport22.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cyfrowypolsat.pl/img/homepage/logo/big/eurosport.jpg" , EuroSport [PL]
