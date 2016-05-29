@@ -57,7 +57,7 @@ https://hevitv.link/kanal6/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
-http://62.210.100.139:1935/ciratv/smil:cira.smil/chunklist_w1789261427_b926000_slen_tkYmVzdGFlbmR0aW1lPTE0NjQyNzI1OTImYmVzdGFzdGFydHRpbWU9MTQ2NDI2MTc5MiZiZXN0YUN1c3RvbVBhcmFtMT1DdXN0b21WYWx1ZSZiZXN0YWhhc2g9SEJNMFVfMWNxcFNNMnJBTTNzR3pwS1QxUkZYN3RpanhjWFBtdmlFendQOD0=.m3u8
+http://live.karwan.tv/karwan.tv/cira-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
 http://live.karwan.tv/karwan.tv/lalish-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
