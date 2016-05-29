@@ -109,7 +109,7 @@ rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
 http://51.255.81.190:8080/DE:Sky-Bundesliga-1-HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_1_hd.jpg" , Sky Sport 1 HD
 http://51.255.81.190:8080/DE-Sky-Sport-1HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_news_hd.jpg" Sky Sport News HD
+#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_news_hd.jpg" , Sky Sport News HD
 http://5.63.151.68:8088/live/tvlive0006/playlist.m3u8?id=243384&pk=a56e183dcd48f1c0bc3482704dbdf5e13870a9684eb58eb3d182cad07aa6eb27
 
 
