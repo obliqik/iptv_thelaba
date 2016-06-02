@@ -50,7 +50,7 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1, NHK WORLD
+#EXTINF:-1 ,  NHK WORLD
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:0,NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
@@ -58,146 +58,146 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 
 
-#EXTINF:-1,Sky Action
+#EXTINF:-1 , Sky Action HD
 http://213.150.180.161:8000/play/a02s
-#EXTINF:-1,Sky Emotion
+#EXTINF:-1 , Sky Emotion
 http://213.150.180.161:8000/play/a04l
-#EXTINF:-1,Sky Krimi
+#EXTINF:-1 , Sky Krimi
 http://213.150.180.161:8000/play/a04m
-#EXTINF:-1,Sky Atlantic
+#EXTINF:-1 , Sky Atlantic HD
 http://213.150.180.161:8000/play/a04p
-#EXTINF:-1,Sky Cinema
+#EXTINF:-1 , Sky Cinema HD
 http://213.150.180.161:8000/play/a04h
-#EXTINF:-1,Sky Cinema+1
+#EXTINF:-1 , Sky Cinema +1 HD
 http://213.150.180.161:8000/play/a02t
-#EXTINF:-1,Sky Cinema+24
+#EXTINF:-1 , Sky Cinema +24 HD
 http://213.150.180.161:8000/play/a04f
-#EXTINF:-1,Sky Cinema+24
+#EXTINF:-1 , Sky Cinema +24 HD
 http://213.150.180.161:8000/play/a05a
-#EXTINF:-1,Sky Nostalgie
+#EXTINF:-1 , Sky Nostalgie
 http://213.150.180.161:8000/play/a04x
-#EXTINF:-1,Sky Comedy
+#EXTINF:-1 , Sky Comedy HD
 http://213.150.180.161:8000/play/a02r
-#EXTINF:-1,Sky Hits
+#EXTINF:-1 , Sky Hits HD
 http://213.150.180.161:8000/play/a03r
-#EXTINF:-1,Fox Serie
+#EXTINF:-1 , Fox Serie
 http://213.150.180.161:8000/play/a03m
-#EXTINF:-1,Syfy
+#EXTINF:-1 , Syfy HD
 http://213.150.180.161:8000/play/a024
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 , Discovery Channel
 http://213.150.180.161:8000/play/a04j
-#EXTINF:-1,NATIONAL GEO
+#EXTINF:-1 , National Geographic Channel
 http://213.150.180.161:8000/play/a004
-#EXTINF:-1,National Geographic
+#EXTINF:-1 , National Geographic Channel
 http://213.150.180.161:8000/play/a04i
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 , Nat Geo WILD
 http://213.150.180.161:8000/play/a01z
-#EXTINF:-1,Disney XD
+#EXTINF:-1 , Disney XD
 http://213.150.180.161:8000/play/a02y
-#EXTINF:-1,Disney Cinemagic
+#EXTINF:-1 , Disney Cinemagic
 http://213.150.180.161:8000/play/a022
-#EXTINF:-1,Disney Cinemagic
+#EXTINF:-1 , Disney Cinemagic
 http://213.150.180.161:8000/play/a03o
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 , Disney Junior
 http://213.150.180.161:8000/play/a02u
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 , Disney Junior
 http://213.150.180.161:8000/play/a02x
-#EXTINF:-1,Jukebox
+#EXTINF:-1 , Jukebox
 http://213.150.180.161:8000/play/a04t
-#EXTINF:-1,RTL Crime
+#EXTINF:-1 , RTL Crime
 http://213.150.180.161:8000/play/a04n
-#EXTINF:-1,RTL Passion
+#EXTINF:-1 , RTL Passion
 http://213.150.180.161:8000/play/a04o
-#EXTINF:-1,ARTE
+#EXTINF:-1 , ARTE
 http://213.150.180.161:8000/play/a00c
-#EXTINF:-1,13th Street
+#EXTINF:-1 , 13th Street
 http://213.150.180.161:8000/play/a03s
-#EXTINF:-1,MGM
+#EXTINF:-1 , MGM
 http://213.150.180.161:8000/play/a04w
-#EXTINF:-1,Kinowelt TV
+#EXTINF:-1 , Kinowelt TV
 http://213.150.180.161:8000/play/a04u
-#EXTINF:-1,Heimatkanal
+#EXTINF:-1 , Heimatkanal
 http://213.150.180.161:8000/play/a021
-#EXTINF:-1,Classica
+#EXTINF:-1 , Classica
 http://213.150.180.161:8000/play/a02w
 
 
-#EXTINF:-1,Sky Sport News
+#EXTINF:-1 , Sky Sport News HD
 http://213.150.180.161:8000/play/a04k
-#EXTINF:-1,Sky Sport 1
+#EXTINF:-1 , Sky Sport 1 HD
 http://213.150.180.161:8000/play/a04q
-#EXTINF:-1,Sky Sport 2
+#EXTINF:-1 , Sky Sport 2 HD
 http://213.150.180.161:8000/play/a02a
-#EXTINF:-1,Sky Bundesliga 1
+#EXTINF:-1 , Sky Bundesliga HD 1
 http://213.150.180.161:8000/play/a04r
-#EXTINF:-1,Sky Bundesliga 2
+#EXTINF:-1 , Sky Bundesliga HD 2
 http://213.150.180.161:8000/play/a037
-#EXTINF:-1,Sky Bundesliga 3
+#EXTINF:-1 , Sky Bundesliga HD 3
 http://213.150.180.161:8000/play/a03a
-#EXTINF:-1,Sky Bundesliga 4
+#EXTINF:-1 , Sky Bundesliga HD 4
 http://213.150.180.161:8000/play/a03d
-#EXTINF:-1,Sky Bundesliga 5
+#EXTINF:-1 , Sky Bundesliga HD 5
 http://213.150.180.161:8000/play/a03g
-#EXTINF:-1,Sky Bundesliga 6
+#EXTINF:-1 , Sky Bundesliga HD 6
 http://213.150.180.161:8000/play/a03j
-#EXTINF:-1,Sky Bundesliga 7
+#EXTINF:-1 , Sky Bundesliga HD 7
 http://213.150.180.161:8000/play/a02k
-#EXTINF:-1,Sky Bundesliga 8
+#EXTINF:-1 , Sky Bundesliga HD 8
 http://213.150.180.161:8000/play/a048
-#EXTINF:-1,Sky Bundesliga 9
+#EXTINF:-1 , Sky Bundesliga HD 9
 http://213.150.180.161:8000/play/a04a
-#EXTINF:-1,Sky Bundesliga 10
+#EXTINF:-1 , Sky Bundesliga HD 10
 http://213.150.180.161:8000/play/a035
-#EXTINF:-1,Sky Sport Austria
+#EXTINF:-1 , Sky Sport Austria
 http://213.150.180.161:8000/play/a023
 
 
 
-#EXTINF:-1,Das Erste HD
+#EXTINF:-1 , Das Erste HD
 http://tv.stream4k.net/freetv/ard.m3u8
-#EXTINF:-1,ZDF HD
+#EXTINF:-1 , ZDF HD
 http://tv.stream4k.net/freetv/zdf.m3u8
-#EXTINF:-1,RTL HD
+#EXTINF:-1 , RTL HD
 http://tv.stream4k.net/freetv/rtl.m3u8
-#EXTINF:-1,SAT.1 HD
+#EXTINF:-1 , SAT.1 HD
 http://tv.stream4k.net/freetv/sat1.m3u8
-#EXTINF:-1,Prosieben HD
+#EXTINF:-1 , Prosieben HD
 http://tv.stream4k.net/freetv/pro7.m3u8
-#EXTINF:-1,RTL2 HD
+#EXTINF:-1 , RTL2 HD
 http://tv.stream4k.net/freetv/rtl2.m3u8
-#EXTINF:-1,VOX HD
+#EXTINF:-1 , VOX HD
 http://tv.stream4k.net/freetv/vox.m3u8
-#EXTINF:-1,Kabel1 HD
+#EXTINF:-1 , Kabel1 HD
 http://tv.stream4k.net/freetv/kabel1.m3u8
-#EXTINF:-1,Arte HD
+#EXTINF:-1 , Arte HD
 http://tv.stream4k.net/freetv/arte.m3u8
-#EXTINF:-1,Disney HD
+#EXTINF:-1 , Disney HD
 http://tv.stream4k.net/freetv/disney.m3u8
-#EXTINF:-1,DMAX HD
+#EXTINF:-1 , DMAX HD
 http://tv.stream4k.net/freetv/dmax.m3u8
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1 , Nickelodeon HD
 http://tv.stream4k.net/freetv/nickelodeon.m3u8
-#EXTINF:-1,NTV HD
+#EXTINF:-1 , NTV HD
 http://tv.stream4k.net/freetv/ntv.m3u8
-#EXTINF:-1,ORF 1 HD
+#EXTINF:-1 , ORF 1 HD
 http://tv.stream4k.net/freetv/orf1.m3u8
-#EXTINF:-1,ORF 2 HD
+#EXTINF:-1 , ORF 2 HD
 http://tv.stream4k.net/freetv/orf2.m3u8
-#EXTINF:-1,Phoenix HD
+#EXTINF:-1 , Phoenix HD
 http://tv.stream4k.net/freetv/phoenix.m3u8
-#EXTINF:-1,Prosieben MAXX HD
+#EXTINF:-1 , Prosieben MAXX HD
 http://tv.stream4k.net/freetv/pro7maxx.m3u8
-#EXTINF:-1,RTL Nitro HD
+#EXTINF:-1 , RTL Nitro HD
 http://tv.stream4k.net/freetv/rtlnitro.m3u8
-#EXTINF:-1,Servus TV HD
+#EXTINF:-1 , Servus TV HD
 http://tv.stream4k.net/freetv/servus.m3u8
-#EXTINF:-1,Sixx HD
+#EXTINF:-1 , Sixx HD
 http://tv.stream4k.net/freetv/sixx.m3u8
-#EXTINF:-1,Sport1 HD
+#EXTINF:-1 , Sport1 HD
 http://tv.stream4k.net/freetv/sport1.m3u8
-#EXTINF:-1,SRF 1 HD
+#EXTINF:-1 , SRF 1 HD
 http://tv.stream4k.net/freetv/srf.m3u8
-#EXTINF:-1,SRF 2 HD
+#EXTINF:-1 , SRF 2 HD
 http://tv.stream4k.net/freetv/srf2.m3u8 
 
 
