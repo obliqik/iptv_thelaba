@@ -40,7 +40,7 @@ http://live.karwan.tv/karwan.tv/duhok-tv/chunks.m3u8
 http://kurd-live.com:1935/live/cihan/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newline.png", Newline HD
 http://kurd-live.com:1935/live/new/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rojikurd.png" , Roj Kurd
+#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rojikurd.png" , Roji Kurd
 http://87.81.198.172/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--rObrTJftaE/Vd0bYfb8noI/AAAAAAAAD6E/9K0WNSsmSQo/s1600/1522758_223190081203856_1479619578_o.png", Falcon Eye HD
 http://live.karwan.tv/karwan.tv/falcon-eye-tv/chunks.m3u8
@@ -53,7 +53,7 @@ http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-https://hevitv.link/kanal6/_definst_/livestream/playlist.m3u8
+http://178.33.61.33:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
@@ -79,7 +79,7 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w170" , Al Arabiya Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png" , BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-b.m3u8?sd=10
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" , Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1 tvg-logo="http://images.huffingtonpost.com/2010-02-13-1RussiaTodaylogo.jpg" , RT Arabic
@@ -99,7 +99,7 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
 http://37.187.24.177:80/mans24/mans24/736.ch
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
-rtmp://www.teledunet.net:1935/live?idu=tounesna_ww2hulbh2b/al_iraqiya
+http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
@@ -135,9 +135,9 @@ http://37.187.24.177:80/mans24/mans24/731.ch
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png" , Abu Dhabi Emarat
 rtmp://www.teledunet.net:1935/live?idu=tounesna_ww2hulbh2b/abu_dhabi_emarat
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg" , Abu Dhabi Sports 1
-rtmp://www.teledunet.net:1935/live?idu=tounesna_ww2hulbh2b/abu_dhabi_sports
+http://37.187.24.177:80/mans24/mans24/733.ch
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg" , Abu Dhabi Sports 2
-rtmp://www.teledunet.net:1935/live?idu=tounesna_ww2hulbh2b/abu_dhabi_sports_2
+http://37.187.24.177:80/mans24/mans24/734.ch
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Sama.png" , Sama Dubai
