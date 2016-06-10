@@ -21,7 +21,7 @@ https://hevitv.link/kanal10/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://stream-ec.vty.dailymotion.com/1/dm/1/x4a1b1m/live.isml/events(live-9999999999)/live-audio=128000-video=1200000.m3u8
+http://www.dailymotion.com/video/x4a1b1m_daligk_news
 #EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
@@ -100,6 +100,8 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 http://topiptv.net:5890/live/tarik1/tarik1/151.ts
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
+http://iphone-streaming.ustream.tv/ustreamVideo/22362356/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
