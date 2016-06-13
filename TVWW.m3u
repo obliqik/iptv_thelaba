@@ -57,187 +57,245 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 
 
-
-#EXTINF:-1 , Sky Action HD
-http://213.150.180.161:8000/play/a02s
-#EXTINF:-1 , Sky Emotion
-http://213.150.180.161:8000/play/a04l
-#EXTINF:-1 , Sky Krimi
-http://213.150.180.161:8000/play/a04m
-#EXTINF:-1 , Sky Atlantic HD
-http://213.150.180.161:8000/play/a04p
-#EXTINF:-1 , Sky Cinema HD
-http://213.150.180.161:8000/play/a04h
-#EXTINF:-1 , Sky Cinema +1 HD
-http://213.150.180.161:8000/play/a02t
-#EXTINF:-1 , Sky Cinema +24 HD
-http://213.150.180.161:8000/play/a04f
-#EXTINF:-1 , Sky Cinema +24 HD
-http://213.150.180.161:8000/play/a05a
-#EXTINF:-1 , Sky Nostalgie
-http://213.150.180.161:8000/play/a04x
-#EXTINF:-1 , Sky Comedy HD
-http://213.150.180.161:8000/play/a02r
-#EXTINF:-1 , Sky Hits HD
-http://213.150.180.161:8000/play/a03r
-#EXTINF:-1 , Fox Serie
-http://213.150.180.161:8000/play/a03m
-#EXTINF:-1 , Syfy HD
-http://213.150.180.161:8000/play/a024
-#EXTINF:-1 , Discovery Channel
-http://213.150.180.161:8000/play/a04j
-#EXTINF:-1 , National Geographic Channel
-http://213.150.180.161:8000/play/a004
-#EXTINF:-1 , National Geographic Channel
-http://213.150.180.161:8000/play/a04i
-#EXTINF:-1 , Nat Geo WILD
-http://213.150.180.161:8000/play/a01z
-#EXTINF:-1 , Disney XD
-http://213.150.180.161:8000/play/a02y
-#EXTINF:-1 , Disney Cinemagic
-http://213.150.180.161:8000/play/a022
-#EXTINF:-1 , Disney Cinemagic
-http://213.150.180.161:8000/play/a03o
-#EXTINF:-1 , Disney Junior
-http://213.150.180.161:8000/play/a02u
-#EXTINF:-1 , Disney Junior
-http://213.150.180.161:8000/play/a02x
-#EXTINF:-1 , Jukebox
-http://213.150.180.161:8000/play/a04t
-#EXTINF:-1 , RTL Crime
-http://213.150.180.161:8000/play/a04n
-#EXTINF:-1 , RTL Passion
-http://213.150.180.161:8000/play/a04o
-#EXTINF:-1 , ARTE
-http://213.150.180.161:8000/play/a00c
-#EXTINF:-1 , 13th Street
-http://213.150.180.161:8000/play/a03s
-#EXTINF:-1 , MGM
-http://213.150.180.161:8000/play/a04w
-#EXTINF:-1 , Kinowelt TV
-http://213.150.180.161:8000/play/a04u
-#EXTINF:-1 , Heimatkanal
-http://213.150.180.161:8000/play/a021
-#EXTINF:-1 , Classica
-http://213.150.180.161:8000/play/a02w
-
-
-#EXTINF:-1 , Sky Sport News HD
-http://213.150.180.161:8000/play/a04k
-#EXTINF:-1 , Sky Sport 1 HD
-http://213.150.180.161:8000/play/a04q
-#EXTINF:-1 , Sky Sport 2 HD
-http://213.150.180.161:8000/play/a02a
-#EXTINF:-1 , Sky Bundesliga HD 1
-http://213.150.180.161:8000/play/a04r
-#EXTINF:-1 , Sky Bundesliga HD 2
-http://213.150.180.161:8000/play/a037
-#EXTINF:-1 , Sky Bundesliga HD 3
-http://213.150.180.161:8000/play/a03a
-#EXTINF:-1 , Sky Bundesliga HD 4
-http://213.150.180.161:8000/play/a03d
-#EXTINF:-1 , Sky Bundesliga HD 5
-http://213.150.180.161:8000/play/a03g
-#EXTINF:-1 , Sky Bundesliga HD 6
-http://213.150.180.161:8000/play/a03j
-#EXTINF:-1 , Sky Bundesliga HD 7
-http://213.150.180.161:8000/play/a02k
-#EXTINF:-1 , Sky Bundesliga HD 8
-http://213.150.180.161:8000/play/a048
-#EXTINF:-1 , Sky Bundesliga HD 9
-http://213.150.180.161:8000/play/a04a
-#EXTINF:-1 , Sky Bundesliga HD 10
-http://213.150.180.161:8000/play/a035
-#EXTINF:-1 , Sky Sport Austria
-http://213.150.180.161:8000/play/a023
-
-
-
-#EXTINF:-1 , Das Erste HD
-http://tv.stream4k.net/freetv/ard.m3u8
-#EXTINF:-1 , ZDF HD
-http://tv.stream4k.net/freetv/zdf.m3u8
-#EXTINF:-1 , RTL HD
-http://tv.stream4k.net/freetv/rtl.m3u8
-#EXTINF:-1 , SAT.1 HD
-http://tv.stream4k.net/freetv/sat1.m3u8
-#EXTINF:-1 , Prosieben HD
-http://tv.stream4k.net/freetv/pro7.m3u8
-#EXTINF:-1 , RTL2 HD
-http://tv.stream4k.net/freetv/rtl2.m3u8
-#EXTINF:-1 , VOX HD
-http://tv.stream4k.net/freetv/vox.m3u8
-#EXTINF:-1 , Kabel1 HD
-http://tv.stream4k.net/freetv/kabel1.m3u8
-#EXTINF:-1 , Arte HD
-http://tv.stream4k.net/freetv/arte.m3u8
-#EXTINF:-1 , Disney HD
-http://tv.stream4k.net/freetv/disney.m3u8
-#EXTINF:-1 , DMAX HD
-http://tv.stream4k.net/freetv/dmax.m3u8
-#EXTINF:-1 , Nickelodeon HD
-http://tv.stream4k.net/freetv/nickelodeon.m3u8
-#EXTINF:-1 , NTV HD
-http://tv.stream4k.net/freetv/ntv.m3u8
-#EXTINF:-1 , ORF 1 HD
-http://tv.stream4k.net/freetv/orf1.m3u8
-#EXTINF:-1 , ORF 2 HD
-http://tv.stream4k.net/freetv/orf2.m3u8
-#EXTINF:-1 , Phoenix HD
-http://tv.stream4k.net/freetv/phoenix.m3u8
-#EXTINF:-1 , Prosieben MAXX HD
-http://tv.stream4k.net/freetv/pro7maxx.m3u8
-#EXTINF:-1 , RTL Nitro HD
-http://tv.stream4k.net/freetv/rtlnitro.m3u8
-#EXTINF:-1 , Servus TV HD
-http://tv.stream4k.net/freetv/servus.m3u8
-#EXTINF:-1 , Sixx HD
-http://tv.stream4k.net/freetv/sixx.m3u8
-#EXTINF:-1 , Sport1 HD
-http://tv.stream4k.net/freetv/sport1.m3u8
-#EXTINF:-1 , SRF 1 HD
-http://tv.stream4k.net/freetv/srf.m3u8
-#EXTINF:-1 , SRF 2 HD
-http://tv.stream4k.net/freetv/srf2.m3u8 
-
-
-#EXTINF:-1 tvg-logo="" , Sky Sport News HD
-http://tv.stream4k.net/hls/ssnhd.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Bundesliga HD 1
-http://tv.stream4k.net/hls/bund1.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Sport HD 1
-http://tv.stream4k.net/hls/sporthd1.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Sport HD 2
-http://tv.stream4k.net/hls/sporthd2.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Cinema HD
-http://tv.stream4k.net/hls/cinema.m3u8
-#EXTINF:-1 tvg-logo="" , Fox HD
-http://tv.stream4k.net/hls/foxhd.m3u8
-#EXTINF:-1 tvg-logo="" , Discovery HD
-http://tv.stream4k.net/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="" , National Geographic HD
-http://tv.stream4k.net/hls/national.m3u8
-#EXTINF:-1 tvg-logo="" , National Geographic Wild HD
-http://tv.stream4k.net/hls/nationalwild.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Atlantic HD
-http://tv.stream4k.net/hls/atlantic.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Hits HD
-http://tv.stream4k.net/hls/007.m3u8
-#EXTINF:-1 tvg-logo="" , Sport US HD [US]
-http://tv.stream4k.net/hls/sportus.m3u8
-#EXTINF:-1 tvg-logo="" , FOX Sports HD 1 [US]
-http://tv.stream4k.net/hls/foxsports1.m3u8
-#EXTINF:-1 tvg-logo="" , FOX Sports HD 2 [US]
-http://tv.stream4k.net/hls/foxsports2.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Sports HD 1 [UK]
-http://tv.stream4k.net/hls/skysports1.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Sports HD 2 [UK]
-http://tv.stream4k.net/hls/skysports2.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Sports HD 3 [UK]
-http://tv.stream4k.net/hls/skysports3.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Sports HD 4 [UK]
-http://tv.stream4k.net/hls/skysports4.m3u8
-#EXTINF:-1 tvg-logo="" , Sky Sports HD 5 [UK]
-http://tv.stream4k.net/hls/skysports5.m3u8
-#EXTINF:-1 tvg-logo="" , BT Sports HD Europe [UK]
-http://tv.stream4k.net/hls/btsportshdeurope.m3u8
+#EXTINF:-1,* * * * * * * * * * GERMANY * * * * * * * * * *
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/586.ts
+#EXTINF:-1,DE: Sonnenklar TV
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2058.ts
+#EXTINF:-1,DE - DE: Sport1+ HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2056.ts
+#EXTINF:-1,DE - DE: Sport 1 US
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2059.ts
+#EXTINF:-1,DE - DE: Sony TV HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2057.ts
+#EXTINF:-1,DE - DE: Romance TV
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2060.ts
+#EXTINF:-1,DE - DE: Planet HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2061.ts
+#EXTINF:-1,DE - DE: ANIMAX
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2062.ts
+#EXTINF:-1,DE: Sixx HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2009.ts
+#EXTINF:-1,DE: SWR
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2008.ts
+#EXTINF:-1,DE - DE: Prosieben Maxx HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2010.ts
+#EXTINF:-1,DE - DE: Prosieben HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2011.ts
+#EXTINF:-1,DE - DE: NDR HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2012.ts
+#EXTINF:-1,DE: RTL Passion
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1531.ts
+#EXTINF:-1,DE: N24
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1502.ts
+#EXTINF:-1,DE: ZDF
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1493.ts
+#EXTINF:-1,DE: WDR
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1507.ts
+#EXTINF:-1,DE: TNT_Film_(TCM)
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1515.ts
+#EXTINF:-1,DE: SUPER_RTL
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1492.ts
+#EXTINF:-1,DE: SAT_1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1494.ts
+#EXTINF:-1,DE: ORF_Eins
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1498.ts
+#EXTINF:-1,DE: ORF_2_HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1500.ts
+#EXTINF:-1,DE: ORF_1_HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1499.ts
+#EXTINF:-1,DE: NTV
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1501.ts
+#EXTINF:-1,DE: Dmax
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1505.ts
+#EXTINF:-1,DE: ARTE
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1506.ts
+#EXTINF:-1,DE: Sat 1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/819.ts
+#EXTINF:-1,DE: Vox HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/818.ts
+#EXTINF:-1,DE: Rtl-2 DE
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/822.ts
+#EXTINF:-1,DE: Rtl
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/821.ts
+#EXTINF:-1,DE: Pro 7
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/820.ts
+#EXTINF:-1,DE: ARD 1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/827.ts
+#EXTINF:-1,DE: Kabel 1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/824.ts
+#EXTINF:-1,------- Sky Cinema -------
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2002.ts
+#EXTINF:-1,DE - DE: AXN HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2016.ts
+#EXTINF:-1,DE - DE: SKY Atlantic
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2022.ts
+#EXTINF:-1,DE - DE: Universal Channel HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2013.ts
+#EXTINF:-1,DE - DE: SKY Nostalgie
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2017.ts
+#EXTINF:-1,DE - DE: SKY Action HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2023.ts
+#EXTINF:-1,DE - DE: Kabel eins Classics
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2015.ts
+#EXTINF:-1,DE - DE: Deluxe Music HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2014.ts
+#EXTINF:-1,DE - DE: SKY Hits HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2018.ts
+#EXTINF:-1,DE - DE: SKY Cinema HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2019.ts
+#EXTINF:-1,DE - DE: SKY Cinema  24 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2021.ts
+#EXTINF:-1,DE - DE: SKY Cinema  1 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2020.ts
+#EXTINF:-1,DE: Sky_Hits
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1511.ts
+#EXTINF:-1,DE: SKY_EMOTION
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1513.ts
+#EXTINF:-1,DE: sky_cinema_HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1508.ts
+#EXTINF:-1,DE: Sky Action
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/807.ts
+#EXTINF:-1,DE: Sky Krimi
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/811.ts
+#EXTINF:-1,DE: Sky Comedy
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/810.ts
+#EXTINF:-1,DE: Sky Cinema-24
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/809.ts
+#EXTINF:-1,DE: Sky Cinema
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/808.ts
+#EXTINF:-1,DE: Sky MGM HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/813.ts
+#EXTINF:-1,DE: Sky_Germany_Cinema_1_HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1512.ts
+#EXTINF:-1,------- Sky Sport -------
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2006.ts
+#EXTINF:-1,DE - DE: Eurosport HD1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2034.ts
+#EXTINF:-1,DE - DE: Sportdigital HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2035.ts
+#EXTINF:-1,DE - DE: SKY Sport 2
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2033.ts
+#EXTINF:-1,DE - DE: SKY Sport 1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2032.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/143.ts
+#EXTINF:-1,DE: SKY SPORTS 2 HD ( DE )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/620.ts
+#EXTINF:-1,DE: Sky Sports HD 1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/154.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/156.ts
+#EXTINF:-1,DE: Eurosport
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1526.ts
+#EXTINF:-1,DE: SKY_SPORT_NEWS
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1516.ts
+#EXTINF:-1,------- SKY Kinder --------
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2003.ts
+#EXTINF:-1,DE - DE: Boomerang
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2024.ts
+#EXTINF:-1,DE - DE: ANIXE
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2025.ts
+#EXTINF:-1,DE - DE: Disney XD HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2026.ts
+#EXTINF:-1,DE: Disney_Channel
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1514.ts
+#EXTINF:-1,DE: Disney JR
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1530.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1529.ts
+#EXTINF:-1,------- SKY Welt -------
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2004.ts
+#EXTINF:-1,DE - DE: Motorvision
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2031.ts
+#EXTINF:-1,DE - DE: Spiegel Geschichte
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2028.ts
+#EXTINF:-1,DE - DE: National Geographic
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2030.ts
+#EXTINF:-1,DE - DE: RTL Crime HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2029.ts
+#EXTINF:-1,DE - DE: Heimat kanal
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2027.ts
+#EXTINF:-1,DE: DISCOVERY
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1519.ts
+#EXTINF:-1,DE: Nat_Geo_Wild
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1517.ts
+#EXTINF:-1,DE: HISTORY_CHANNEL
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1518.ts
+#EXTINF:-1,DE: Sky_National_Geographic_HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1520.ts
+#EXTINF:-1,DE: Sky_Discovery_Channel_HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1521.ts
+#EXTINF:-1,DE: RTL_Nitro
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1495.ts
+#EXTINF:-1,------- SKY Serien -------
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2005.ts
+#EXTINF:-1,DE: FOX
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1504.ts
+#EXTINF:-1,de: Sky TNT Serie
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/50.ts
+#EXTINF:-1,DE: Sky_AtlanticHD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1509.ts
+#EXTINF:-1,DE: SyFy
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1528.ts
+#EXTINF:-1,DE: Sky Germany Atlantic
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/814.ts
+#EXTINF:-1,DE: Sky 13 Street HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/816.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/815.ts
+#EXTINF:-1,------- SKY Select -------
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2007.ts
+#EXTINF:-1,DE: SKY SELECT 1
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/613.ts
+#EXTINF:-1,DE: SKY SELECT 2
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/614.ts
+#EXTINF:-1,DE: SKY SELECT 3
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/615.ts
+#EXTINF:-1,DE: SKY SELECT 4
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/616.ts
+#EXTINF:-1,DE: SKY SELECT 5
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/617.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/618.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2045.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2046.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2047.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2048.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2049.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2050.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2051.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2053.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2052.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2054.ts
+#EXTINF:-1,------- Sky Bundesliga -------
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2055.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/621.ts
+#EXTINF:-1,DE - DE: SKY Bundesliga HD2
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2036.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2037.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2038.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2039.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2040.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2041.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2042.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2043.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2044.ts
