@@ -1,35 +1,72 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , BEIN Sport 1
-http://176.31.46.168:8000/test/test/22.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , BEIN Sport 2
-http://176.31.46.168:8000/test/test/23.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E5gGBwecb5U/VTEpJgDBB5I/AAAAAAAABDQ/oWWCY_GK50o/s1600/3.png" , BEIN Sport 3
-http://176.31.46.168:8000/test/test/24.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-sLSEBgQwOLY/VTEpJ2-K4ZI/AAAAAAAABDU/o1GxWSzMdzA/s1600/4.png" , BEIN Sport 4
-http://176.31.46.168:8000/test/test/25.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png" , BEIN Sport 5
-http://176.31.46.168:8000/test/test/26.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KFIrJx8Gw30/VTEpUV5LN6I/AAAAAAAABDw/o8Q5kr9GZCs/s1600/6.png" , BEIN Sport 6
-http://176.31.46.168:8000/test/test/27.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png" , BEIN Sport 7
-http://176.31.46.168:8000/test/test/28.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" , BEIN Sport 8
-http://176.31.46.168:8000/test/test/29.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YjffVzTg904/VTEpb52ZnQI/AAAAAAAABEI/RosIkm4Yps4/s1600/9.png" , BEIN Sport 9
-http://176.31.46.168:8000/test/test/30.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png" , BEIN Sport 10
-http://176.31.46.168:8000/test/test/31.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4QWLfWPRYAw/VTEo1i7U-uI/AAAAAAAABCs/17zUVybCwyA/s1600/11.png" , BEIN Sport 11
-http://176.31.46.168:8000/test/test/32.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Fuj_8acwr4g/VTEo8VaTcFI/AAAAAAAABC0/Dpz2FhLJ3rc/s1600/12.png" , BEIN Sport 12
-http://176.31.46.168:8000/test/test/33.m3u8
-#EXTINF:-1 tvg-logo="http://www.beinsport-live.tv/wp-content/uploads/2015/06/bein-sport-13-hd-live.png" , BEIN Sport 13
-http://176.31.46.168:8000/test/test/34.m3u8
-#EXTINF:-1 tvg-logo="http://www.beinsport-live.tv/wp-content/uploads/2015/06/bein-sport-14-hd-live.png" , BEIN Sport 14
-http://176.31.46.168:8000/test/test/35.m3u8
-#EXTINF:-1 tvg-logo="http://www.beinsport-live.tv/wp-content/uploads/2015/06/bein-sport-15-hd-live.png" , BEIN Sport 15
-http://176.31.46.168:8000/test/test/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT" tvg-logo="http://i65.tinypic.com/2q19ylh.png" group-title="BEINSPORT HD",BEINSPORT
+http://orbit-iptv.com:2500/live/adnan/adnan/2280.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD1" tvg-logo="http://i67.tinypic.com/x5bbj9.png" group-title="BEINSPORT HD",BEIN SPORT HD1
+http://orbit-iptv.com:2500/live/adnan/adnan/1064.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD2" tvg-logo="http://i67.tinypic.com/6hkydf.png" group-title="BEINSPORT HD",BEIN SPORT HD2
+http://orbit-iptv.com:2500/live/adnan/adnan/1057.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD3" tvg-logo="http://i67.tinypic.com/2rxtmwj.png" group-title="BEINSPORT HD",BEIN SPORT HD3
+http://orbit-iptv.com:2500/live/adnan/adnan/1056.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD4" tvg-logo="http://i66.tinypic.com/fck2rl.png" group-title="BEINSPORT HD",BEIN SPORT HD4
+http://orbit-iptv.com:2500/live/adnan/adnan/1055.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD5" tvg-logo="http://i66.tinypic.com/vcyqyq.png" group-title="BEINSPORT HD",BEIN SPORT HD5
+http://orbit-iptv.com:2500/live/adnan/adnan/1054.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD6" tvg-logo="http://i64.tinypic.com/33yotbk.png" group-title="BEINSPORT HD",BEIN SPORT HD6
+http://orbit-iptv.com:2500/live/adnan/adnan/1053.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD7" tvg-logo="http://i66.tinypic.com/8x1l05.png" group-title="BEINSPORT HD",BEIN SPORT HD7
+http://orbit-iptv.com:2500/live/adnan/adnan/1052.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD8" tvg-logo="http://i68.tinypic.com/28hiw5s.png" group-title="BEINSPORT HD",BEIN SPORT HD8
+http://orbit-iptv.com:2500/live/adnan/adnan/1051.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD9" tvg-logo="http://i65.tinypic.com/se7os8.png" group-title="BEINSPORT HD",BEIN SPORT HD9
+http://orbit-iptv.com:2500/live/adnan/adnan/1050.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD10" tvg-logo="http://i66.tinypic.com/2l94jev.png" group-title="BEINSPORT HD",BEIN SPORT HD10
+http://orbit-iptv.com:2500/live/adnan/adnan/1063.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD11" tvg-logo="http://i67.tinypic.com/dxo49f.png" group-title="BEINSPORT HD",BEIN SPORT HD11
+http://orbit-iptv.com:2500/live/adnan/adnan/1062.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD12" tvg-logo="http://i63.tinypic.com/x25gmg.png" group-title="BEINSPORT HD",BEIN SPORT HD12
+http://orbit-iptv.com:2500/live/adnan/adnan/1061.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS-13HD" tvg-logo="http://i65.tinypic.com/2lmqr7o.png" group-title="AC. ARABIC",AR: BEINSPORTS-13HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2069.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS14HD" tvg-logo="http://i63.tinypic.com/33xir0y.png" group-title="AC. ARABIC",AR: BEINSPORTS14HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2070.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS15HD" tvg-logo="" group-title="AC. ARABIC",AR: BEINSPORTS15HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2071.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS16HD" tvg-logo="http://i68.tinypic.com/2rmnz1i.png" group-title="AC. ARABIC",AR: BEINSPORTS16HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2072.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_1HD" tvg-logo="http://i67.tinypic.com/x5bbj9.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_1HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2627.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_2HD" tvg-logo="http://i67.tinypic.com/6hkydf.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_2HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2628.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_3HD" tvg-logo="http://i67.tinypic.com/2rxtmwj.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_3HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2629.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_4HD" tvg-logo="http://i66.tinypic.com/fck2rl.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_4HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2630.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_5HD" tvg-logo="http://i66.tinypic.com/vcyqyq.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_5HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2631.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_6HD" tvg-logo="http://i64.tinypic.com/33yotbk.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_6HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2632.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_7HD" tvg-logo="http://i66.tinypic.com/8x1l05.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_7HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2633.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_8HD" tvg-logo="http://i68.tinypic.com/28hiw5s.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_8HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2634.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_9HD" tvg-logo="http://i65.tinypic.com/se7os8.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_9HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2635.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_10HD" tvg-logo="http://i66.tinypic.com/2l94jev.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_10HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2636.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_11HD" tvg-logo="http://i67.tinypic.com/dxo49f.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_11HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2637.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_12HD" tvg-logo="http://i63.tinypic.com/x25gmg.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_12HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2638.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_13HD" tvg-logo="http://i65.tinypic.com/2lmqr7o.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_13HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2639.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_14HD" tvg-logo="http://i63.tinypic.com/33xir0y.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_14HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2640.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_15HD" tvg-logo="" group-title="BEINSPORT HD",AR_BEIN_SPORTS_15HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2641.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_16HD" tvg-logo="http://i68.tinypic.com/2rmnz1i.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_16HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2642.ts
+
 
 #EXTINF:-1,Arena Sport1 [JUG]
 http://79.124.59.218:1935/live/898953arenasport.stream/playlist.m3u8
