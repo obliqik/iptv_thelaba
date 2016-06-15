@@ -71,7 +71,7 @@ http://yayin3.canlitv.com:1935/live/dengetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/pelistank.png" , Pelistank TV 
 http://198.100.158.231:1935/kanal18/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zaroktv.png" , Zarok TV
-http://stream-06.vty.dailymotion.com/13/dm/1/x327os6/live.isml/events(live-9999999999)/live-audio=128000-video=700000.m3u8
+http://stream-06.vty.dailymotion.com/13/dm/1/x327os6/live.isml/evenm3u8(live-9999999999)/live-audio=128000-video=700000.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" , Al Arabiya
@@ -97,7 +97,9 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1cFdX8HimnU/VjkqY45HTJI/AAAAAAAAAWM/HwgvmK-1IVw/s1600/_beIN_Sport_News.png" , Bein Sport News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
+http://orbit-iptv.com:2500/live/adnan/adnan/1892.m3u8
 http://orbit-iptv.com:2500/live/adnan/adnan/1892.ts
+
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
@@ -111,34 +113,34 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://orbit-iptv.com:2500/live/adnan/adnan/3232.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/3232.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
-http://orbit-iptv.com:2500/live/adnan/adnan/1643.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1643.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
-http://orbit-iptv.com:2500/live/adnan/adnan/1642.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1642.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
-http://orbit-iptv.com:2500/live/adnan/adnan/1641.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1641.m3u8
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
-http://orbit-iptv.com:2500/live/adnan/adnan/1640.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1640.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
-http://orbit-iptv.com:2500/live/adnan/adnan/1909.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1909.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://orbit-iptv.com:2500/live/adnan/adnan/1644.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1644.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
-http://orbit-iptv.com:2500/live/adnan/adnan/1907.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1907.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
-http://orbit-iptv.com:2500/live/adnan/adnan/1908.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1908.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://orbit-iptv.com:2500/live/adnan/adnan/1639.ts
+http://orbit-iptv.com:2500/live/adnan/adnan/1639.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
-http://topiptv.net:5890/live/tarik1/tarik1/1129.ts
+http://topiptv.net:5890/live/tarik1/tarik1/1129.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png" , Abu Dhabi Emarat
 rtmp://www.teledunet.net:1935/live?idu=tounesna_ww2hulbh2b/abu_dhabi_emarat
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg" , Abu Dhabi Sports 1
-http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1543.ts
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg" , Abu Dhabi Sports 2
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sporm3u8-1_o.jpg" , Abu Dhabi Sporm3u8 1
+http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1543.m3u8
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sporm3u8-2_o.jpg" , Abu Dhabi Sporm3u8 2
 http://37.187.24.177:80/mans24/mans24/734.ch
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
@@ -152,10 +154,10 @@ http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 http://dmi.mangomolo.com:1935/noordubaitv/_definst_/noordubaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Zaman.png" , Dubai Zaman
 http://dmi.mangomolo.com:1935/dubaizaman/_definst_/dubaizaman.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Sports.png" , Dubai Sport 3
-http://dmi.mangomolo.com:1935/dubaisports/_definst_/dubaisports/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Sporm3u8.png" , Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisporm3u8/_definst_/dubaisporm3u8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Racing.png" , Dubai Racing
-http://dmi.mangomolo.com:1935/events/_definst_/events/playlist.m3u8
+http://dmi.mangomolo.com:1935/evenm3u8/_definst_/evenm3u8/playlist.m3u8
  
  
 #EXTINF:-1 tvg-logo="http://i1.ytimg.com/i/M96e_r6hk9tRT0X_McU9pQ/mq1.jpg", Rotana Music
@@ -199,3 +201,96 @@ http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD LQ
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN_MOVIES_FESTIVAL" tvg-logo="" group-title="AB.OSN HD",AR: OSN_MOVIES_FESTIVAL
+http://orbit-iptv.com:2500/live/adnan/adnan/1787.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIE BOX HD" tvg-logo="" group-title="AB.OSN HD",OSN MOVIE BOX HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2282.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN_MOVIES_DRAMA" tvg-logo="" group-title="AB.OSN HD",AR: OSN_MOVIES_DRAMA
+http://orbit-iptv.com:2500/live/adnan/adnan/1788.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN-On-Demand-Extra-HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN-On-Demand-Extra-HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2047.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN_MOVIES HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN_MOVIES HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1789.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN_ACTION2" tvg-logo="" group-title="AB.OSN HD",AR: OSN_ACTION2
+http://orbit-iptv.com:2500/live/adnan/adnan/1790.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN_ON_DEMAND_EXTRA" tvg-logo="" group-title="AC. ARABIC",AR: OSN_ON_DEMAND_EXTRA
+http://orbit-iptv.com:2500/live/adnan/adnan/2247.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN STAR WORLD" tvg-logo="" group-title="AC. ARABIC",AR: OSN STAR WORLD
+http://orbit-iptv.com:2500/live/adnan/adnan/2175.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ONDEMAND1" tvg-logo="" group-title="AC. ARABIC",AR: OSN ONDEMAND1
+http://orbit-iptv.com:2500/live/adnan/adnan/2248.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ORBIT CINEMA2" tvg-logo="" group-title="AB.OSN HD",AR: OSN ORBIT CINEMA2
+http://orbit-iptv.com:2500/live/adnan/adnan/1806.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ORBIT CINEMA1" tvg-logo="" group-title="AB.OSN HD",AR: OSN ORBIT CINEMA1
+http://orbit-iptv.com:2500/live/adnan/adnan/1807.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN On Demand" tvg-logo="" group-title="AB.OSN HD",AR: OSN On Demand
+http://orbit-iptv.com:2500/live/adnan/adnan/1913.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Premiere2" tvg-logo="" group-title="AB.OSN HD",AR: OSN Movies Premiere2
+http://orbit-iptv.com:2500/live/adnan/adnan/1808.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Premiere  2" tvg-logo="" group-title="AC. ARABIC",AR: OSN Movies Premiere  2
+http://orbit-iptv.com:2500/live/adnan/adnan/2176.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN Movies HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1794.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES First More HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN MOVIES First More HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1882.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES COMEDY HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN MOVIES COMEDY HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1885.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies ACTION  2" tvg-logo="" group-title="AB.OSN HD",AR: OSN Movies ACTION  2
+http://orbit-iptv.com:2500/live/adnan/adnan/2174.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES Action" tvg-logo="" group-title="AB.OSN HD",AR: OSN MOVIES Action
+http://orbit-iptv.com:2500/live/adnan/adnan/1802.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIE Premiere" tvg-logo="" group-title="AB.OSN HD",AR: OSN MOVIE Premiere
+http://orbit-iptv.com:2500/live/adnan/adnan/1792.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 3" tvg-logo="" group-title="AB.OSN HD",AR: OSN BOX OFFICE 3
+http://orbit-iptv.com:2500/live/adnan/adnan/1884.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 2" tvg-logo="" group-title="AB.OSN HD",AR: OSN BOX OFFICE 2
+http://orbit-iptv.com:2500/live/adnan/adnan/1883.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 1" tvg-logo="" group-title="AB.OSN HD",AR: OSN BOX OFFICE 1
+http://orbit-iptv.com:2500/live/adnan/adnan/1881.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movie kids HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN Movie kids HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1886.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN  ACTION" tvg-logo="" group-title="AB.OSN HD",AR: OSN  ACTION
+http://orbit-iptv.com:2500/live/adnan/adnan/1812.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN-Animal-Planet-HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN-Animal-Planet-HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2076.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Yahala HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN Yahala HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1803.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHAlA DRAMA" tvg-logo="" group-title="AB.OSN HD",AR: OSN YAHAlA DRAMA
+http://orbit-iptv.com:2500/live/adnan/adnan/1804.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN WWE HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1880.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN: YAHALA-SHABAB" tvg-logo="" group-title="AB.OSN HD",OSN: YAHALA-SHABAB
+http://orbit-iptv.com:2500/live/adnan/adnan/1926.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY SCIENCE HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN DISCOVERY SCIENCE HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1887.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ABU DHABI SPORT 1" tvg-logo="" group-title="AC. ARABIC",AR: ABU DHABI SPORT 1
+http://orbit-iptv.com:2500/live/adnan/adnan/1878.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-OSN-First-Comedy-HD" tvg-logo="" group-title="AB.OSN HD",AR-OSN-First-Comedy-HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2079.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-OSN-ELYOM" tvg-logo="" group-title="AB.OSN HD",AR-OSN-ELYOM
+http://orbit-iptv.com:2500/live/adnan/adnan/2077.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-OSN-Abu-Dhabi-Sports-3HD" tvg-logo="" group-title="AB.OSN HD",AR-OSN-Abu-Dhabi-Sports-3HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2049.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-OSN-Abu-Dhabi-Sports-2HD" tvg-logo="" group-title="AB.OSN HD",AR-OSN-Abu-Dhabi-Sports-2HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2048.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY ID" tvg-logo="" group-title="AB.OSN HD",AR: OSN DISCOVERY ID
+http://orbit-iptv.com:2500/live/adnan/adnan/1888.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="" group-title="AB.OSN HD",AR: OSN DISCOVERY HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1889.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Animal Planet" tvg-logo="" group-title="AC. ARABIC",AR: OSN Animal Planet
+http://orbit-iptv.com:2500/live/adnan/adnan/1931.ts
+#EXTINF:-1 tvg-id="" tvg-name="====== +ARABIC CHANNELS+ =======" tvg-logo="" group-title="AC. ARABIC",====== +ARABIC CHANNELS+ =======
+http://orbit-iptv.com:2500/live/adnan/adnan/2290.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cinema5" tvg-logo="" group-title="AC. ARABIC",AR: Cinema5
+http://orbit-iptv.com:2500/live/adnan/adnan/3254.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cinema4" tvg-logo="" group-title="AC. ARABIC",AR: Cinema4
+http://orbit-iptv.com:2500/live/adnan/adnan/3253.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cinema3" tvg-logo="" group-title="AC. ARABIC",AR: Cinema3
+http://orbit-iptv.com:2500/live/adnan/adnan/3252.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cinema2" tvg-logo="" group-title="AC. ARABIC",AR: Cinema2
+http://orbit-iptv.com:2500/live/adnan/adnan/3251.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cinema1" tvg-logo="" group-title="AC. ARABIC",AR: Cinema1
+http://orbit-iptv.com:2500/live/adnan/adnan/3250.ts
