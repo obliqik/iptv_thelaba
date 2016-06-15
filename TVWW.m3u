@@ -56,246 +56,227 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 
-
-#EXTINF:-1,* * * * * * * * * * GERMANY * * * * * * * * * *
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/586.ts
-#EXTINF:-1,DE: Sonnenklar TV
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2058.ts
-#EXTINF:-1,DE - DE: Sport1+ HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2056.ts
-#EXTINF:-1,DE - DE: Sport 1 US
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2059.ts
-#EXTINF:-1,DE - DE: Sony TV HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2057.ts
-#EXTINF:-1,DE - DE: Romance TV
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2060.ts
-#EXTINF:-1,DE - DE: Planet HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2061.ts
-#EXTINF:-1,DE - DE: ANIMAX
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2062.ts
-#EXTINF:-1,DE: Sixx HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2009.ts
-#EXTINF:-1,DE: SWR
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2008.ts
-#EXTINF:-1,DE - DE: Prosieben Maxx HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2010.ts
-#EXTINF:-1,DE - DE: Prosieben HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2011.ts
-#EXTINF:-1,DE - DE: NDR HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2012.ts
-#EXTINF:-1,DE: RTL Passion
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1531.ts
-#EXTINF:-1,DE: N24
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1502.ts
-#EXTINF:-1,DE: ZDF
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1493.ts
-#EXTINF:-1,DE: WDR
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1507.ts
-#EXTINF:-1,DE: TNT_Film_(TCM)
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1515.ts
-#EXTINF:-1,DE: SUPER_RTL
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1492.ts
-#EXTINF:-1,DE: SAT_1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1494.ts
-#EXTINF:-1,DE: ORF_Eins
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1498.ts
-#EXTINF:-1,DE: ORF_2_HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1500.ts
-#EXTINF:-1,DE: ORF_1_HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1499.ts
-#EXTINF:-1,DE: NTV
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1501.ts
-#EXTINF:-1,DE: Dmax
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1505.ts
-#EXTINF:-1,DE: ARTE
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1506.ts
-#EXTINF:-1,DE: Sat 1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/819.ts
-#EXTINF:-1,DE: Vox HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/818.ts
-#EXTINF:-1,DE: Rtl-2 DE
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/822.ts
-#EXTINF:-1,DE: Rtl
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/821.ts
-#EXTINF:-1,DE: Pro 7
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/820.ts
-#EXTINF:-1,DE: ARD 1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/827.ts
-#EXTINF:-1,DE: Kabel 1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/824.ts
-#EXTINF:-1,------- Sky Cinema -------
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2002.ts
-#EXTINF:-1,DE - DE: AXN HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2016.ts
-#EXTINF:-1,DE - DE: SKY Atlantic
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2022.ts
-#EXTINF:-1,DE - DE: Universal Channel HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2013.ts
-#EXTINF:-1,DE - DE: SKY Nostalgie
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2017.ts
-#EXTINF:-1,DE - DE: SKY Action HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2023.ts
-#EXTINF:-1,DE - DE: Kabel eins Classics
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2015.ts
-#EXTINF:-1,DE - DE: Deluxe Music HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2014.ts
-#EXTINF:-1,DE - DE: SKY Hits HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2018.ts
-#EXTINF:-1,DE - DE: SKY Cinema HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2019.ts
-#EXTINF:-1,DE - DE: SKY Cinema  24 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2021.ts
-#EXTINF:-1,DE - DE: SKY Cinema  1 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2020.ts
-#EXTINF:-1,DE: Sky_Hits
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1511.ts
-#EXTINF:-1,DE: SKY_EMOTION
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1513.ts
-#EXTINF:-1,DE: sky_cinema_HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1508.ts
-#EXTINF:-1,DE: Sky Action
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/807.ts
-#EXTINF:-1,DE: Sky Krimi
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/811.ts
-#EXTINF:-1,DE: Sky Comedy
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/810.ts
-#EXTINF:-1,DE: Sky Cinema-24
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/809.ts
-#EXTINF:-1,DE: Sky Cinema
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/808.ts
-#EXTINF:-1,DE: Sky MGM HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/813.ts
-#EXTINF:-1,DE: Sky_Germany_Cinema_1_HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1512.ts
-#EXTINF:-1,------- Sky Sport -------
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2006.ts
-#EXTINF:-1,DE - DE: Eurosport HD1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2034.ts
-#EXTINF:-1,DE - DE: Sportdigital HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2035.ts
-#EXTINF:-1,DE - DE: SKY Sport 2
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2033.ts
-#EXTINF:-1,DE - DE: SKY Sport 1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2032.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/143.ts
-#EXTINF:-1,DE: SKY SPORTS 2 HD ( DE )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/620.ts
-#EXTINF:-1,DE: Sky Sports HD 1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/154.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/156.ts
-#EXTINF:-1,DE: Eurosport
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1526.ts
-#EXTINF:-1,DE: SKY_SPORT_NEWS
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1516.ts
-#EXTINF:-1,------- SKY Kinder --------
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2003.ts
-#EXTINF:-1,DE - DE: Boomerang
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2024.ts
-#EXTINF:-1,DE - DE: ANIXE
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2025.ts
-#EXTINF:-1,DE - DE: Disney XD HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2026.ts
-#EXTINF:-1,DE: Disney_Channel
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1514.ts
-#EXTINF:-1,DE: Disney JR
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1530.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1529.ts
-#EXTINF:-1,------- SKY Welt -------
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2004.ts
-#EXTINF:-1,DE - DE: Motorvision
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2031.ts
-#EXTINF:-1,DE - DE: Spiegel Geschichte
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2028.ts
-#EXTINF:-1,DE - DE: National Geographic
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2030.ts
-#EXTINF:-1,DE - DE: RTL Crime HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2029.ts
-#EXTINF:-1,DE - DE: Heimat kanal
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2027.ts
-#EXTINF:-1,DE: DISCOVERY
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1519.ts
-#EXTINF:-1,DE: Nat_Geo_Wild
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1517.ts
-#EXTINF:-1,DE: HISTORY_CHANNEL
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1518.ts
-#EXTINF:-1,DE: Sky_National_Geographic_HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1520.ts
-#EXTINF:-1,DE: Sky_Discovery_Channel_HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1521.ts
-#EXTINF:-1,DE: RTL_Nitro
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1495.ts
-#EXTINF:-1,------- SKY Serien -------
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2005.ts
-#EXTINF:-1,DE: FOX
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1504.ts
-#EXTINF:-1,de: Sky TNT Serie
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/50.ts
-#EXTINF:-1,DE: Sky_AtlanticHD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1509.ts
-#EXTINF:-1,DE: SyFy
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/1528.ts
-#EXTINF:-1,DE: Sky Germany Atlantic
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/814.ts
-#EXTINF:-1,DE: Sky 13 Street HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/816.ts
-#EXTINF:-1,DE: Sky Fox HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/815.ts
-#EXTINF:-1,------- SKY Select -------
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2007.ts
-#EXTINF:-1,DE: SKY SELECT 1
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/613.ts
-#EXTINF:-1,DE: SKY SELECT 2
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/614.ts
-#EXTINF:-1,DE: SKY SELECT 3
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/615.ts
-#EXTINF:-1,DE: SKY SELECT 4
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/616.ts
-#EXTINF:-1,DE: SKY SELECT 5
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/617.ts
-#EXTINF:-1,DE: SKY SELECT 6
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/618.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2045.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2046.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2047.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2048.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2049.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2050.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2051.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2053.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2052.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2054.ts
-#EXTINF:-1,------- Sky Bundesliga -------
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2055.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/621.ts
-#EXTINF:-1,DE - DE: SKY Bundesliga HD2
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2036.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2037.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2038.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2039.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2040.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2041.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2042.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2043.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://s1.ukhdtv.com:7860/live/ml2new/1234560azesAq/2044.ts
+#EXTINF:-1 tvg-id="" tvg-name="===== + GERMAM SKYDE +=====" tvg-logo="" group-title="SKY DE",===== + GERMAM SKYDE +=====
+http://orbit-iptv.com:2500/live/adnan/adnan/2297.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports News HD" tvg-logo="" group-title="SKY DE",DE: Sky Sports News HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2823.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport digital HD" tvg-logo="" group-title="SKY DE",DE: Sport digital HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2821.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports 1 HD" tvg-logo="" group-title="SKY DE",DE: Sky Sports 1 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/976.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports 2 HD" tvg-logo="" group-title="SKY DE",DE: Sky Sports 2 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/975.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:FOX SPORTS 1" tvg-logo="" group-title="SKY DE",DE:FOX SPORTS 1
+http://orbit-iptv.com:2500/live/adnan/adnan/1047.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:FOX SPORTS 2" tvg-logo="" group-title="SKY DE",DE:FOX SPORTS 2
+http://orbit-iptv.com:2500/live/adnan/adnan/1046.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 HD" tvg-logo="" group-title="SKY DE",DE: SPORT 1 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2822.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT SKY" tvg-logo="" group-title="SKY DE",DE: EUROSPORT SKY
+http://orbit-iptv.com:2500/live/adnan/adnan/2382.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:CANAL GOLF HD" tvg-logo="" group-title="SKY DE",DE:CANAL GOLF HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1044.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga 1 HD" tvg-logo="" group-title="SKY DE",DE:Sky Bundesliga 1 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2386.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD" tvg-logo="" group-title="ITALIAN",Canale 5 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1609.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD" tvg-logo="" group-title="SKY DE",DE: ARD
+http://orbit-iptv.com:2500/live/adnan/adnan/1868.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery HD" tvg-logo="" group-title="SKY DE",DE: Discovery HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1999.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel" tvg-logo="" group-title="SKY DE",DE: Disney Channel
+http://orbit-iptv.com:2500/live/adnan/adnan/1998.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOX HD" tvg-logo="" group-title="SKY DE",DE: FOX HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1048.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 1 HD" tvg-logo="" group-title="SKY DE",DE: ORF 1 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1262.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 2 HD" tvg-logo="" group-title="SKY DE",DE: ORF 2 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1263.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT_SERIE" tvg-logo="" group-title="SKY DE",DE: TNT_SERIE
+http://orbit-iptv.com:2500/live/adnan/adnan/2780.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT_FILM" tvg-logo="" group-title="SKY DE",DE: TNT_FILM
+http://orbit-iptv.com:2500/live/adnan/adnan/2781.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="" group-title="SKY DE",DE: SYFY HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2782.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="" group-title="SKY DE",DE: SWR HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2783.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF_2" tvg-logo="" group-title="SKY DE",DE: SRF_2
+http://orbit-iptv.com:2500/live/adnan/adnan/2779.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF_1" tvg-logo="" group-title="SKY DE",DE: SRF_1
+http://orbit-iptv.com:2500/live/adnan/adnan/2778.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 HD" tvg-logo="" group-title="SKY DE",DE: SAT 1 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2788.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EURONEWS" tvg-logo="" group-title="SKY DE",DE: EURONEWS
+http://orbit-iptv.com:2500/live/adnan/adnan/2785.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO MAX 7" tvg-logo="" group-title="SKY DE",DE: PRO MAX 7
+http://orbit-iptv.com:2500/live/adnan/adnan/1866.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2" tvg-logo="" group-title="SKY DE",DE: RTL 2
+http://orbit-iptv.com:2500/live/adnan/adnan/1865.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA" tvg-logo="" group-title="SKY DE",DE: KIKA
+http://orbit-iptv.com:2500/live/adnan/adnan/2391.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI" tvg-logo="" group-title="SKY DE",DE: SKY KRIMI
+http://orbit-iptv.com:2500/live/adnan/adnan/2389.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title="SKY DE",DE: WDR HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2393.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL" tvg-logo="" group-title="SKY DE",DE: SUPER RTL
+http://orbit-iptv.com:2500/live/adnan/adnan/1867.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="" group-title="SKY DE",DE: DMAX
+http://orbit-iptv.com:2500/live/adnan/adnan/2387.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL" tvg-logo="" group-title="SKY DE",DE: RTL
+http://orbit-iptv.com:2500/live/adnan/adnan/2379.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rtl Nitro" tvg-logo="" group-title="SKY DE",DE: Rtl Nitro
+http://orbit-iptv.com:2500/live/adnan/adnan/2378.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX HD" tvg-logo="" group-title="SKY DE",DE: SIXX HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2380.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="" group-title="SKY DE",DE: VOX HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1874.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="" group-title="SKY DE",DE: ZDF HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1869.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: A$E TV" tvg-logo="" group-title="SKY DE",DE: A$E TV
+http://orbit-iptv.com:2500/live/adnan/adnan/2410.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD HD" tvg-logo="" group-title="SKY DE",DE: ARD HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2409.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE" tvg-logo="" group-title="SKY DE",DE: ARTE
+http://orbit-iptv.com:2500/live/adnan/adnan/2408.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 3 HD" tvg-logo="" group-title="SKY DE",DE: SAT 3 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2775.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA HD" tvg-logo="" group-title="SKY DE",DE: KIKA HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2400.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 HD" tvg-logo="" group-title="SKY DE",DE: N24 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2398.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title="SKY DE",DE: NDR HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2397.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 HD" tvg-logo="" group-title="SKY DE",DE: PRO 7 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2396.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VEVO" tvg-logo="" group-title="SKY DE",DE: VEVO
+http://orbit-iptv.com:2500/live/adnan/adnan/2421.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VEVO 4" tvg-logo="" group-title="SKY DE",DE: VEVO 4
+http://orbit-iptv.com:2500/live/adnan/adnan/2420.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VEVO EU" tvg-logo="" group-title="SKY DE",DE: VEVO EU
+http://orbit-iptv.com:2500/live/adnan/adnan/2419.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SONY HD" tvg-logo="" group-title="SKY DE",DE: SONY HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2820.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Classica" tvg-logo="" group-title="SKY DE",DE: Classica
+http://orbit-iptv.com:2500/live/adnan/adnan/2829.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:MGM HD" tvg-logo="" group-title="SKY DE",DE:MGM HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2000.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 1" tvg-logo="" group-title="SKY DE",DE: Movies 1
+http://orbit-iptv.com:2500/live/adnan/adnan/2061.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 2" tvg-logo="" group-title="SKY DE",DE: Movies 2
+http://orbit-iptv.com:2500/live/adnan/adnan/2062.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 3" tvg-logo="" group-title="SKY DE",DE: Movies 3
+http://orbit-iptv.com:2500/live/adnan/adnan/2063.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 4" tvg-logo="" group-title="SKY DE",DE: Movies 4
+http://orbit-iptv.com:2500/live/adnan/adnan/2064.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 5" tvg-logo="" group-title="SKY DE",DE: Movies 5
+http://orbit-iptv.com:2500/live/adnan/adnan/2065.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 6" tvg-logo="" group-title="SKY DE",DE: Movies 6
+http://orbit-iptv.com:2500/live/adnan/adnan/2066.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 7" tvg-logo="" group-title="SKY DE",DE: Movies 7
+http://orbit-iptv.com:2500/live/adnan/adnan/2067.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Movies 8" tvg-logo="" group-title="SKY DE",DE: Movies 8
+http://orbit-iptv.com:2500/live/adnan/adnan/2068.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 HD" tvg-logo="" group-title="SKY DE",DE: KABEL 1 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2402.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL_PASSION" tvg-logo="" group-title="SKY DE",DE: RTL_PASSION
+http://orbit-iptv.com:2500/live/adnan/adnan/2777.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music" tvg-logo="" group-title="SKY DE",DE: Deluxe Music
+http://orbit-iptv.com:2500/live/adnan/adnan/2381.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: LIGT CHANNEL" tvg-logo="" group-title="SKY DE",DE: LIGT CHANNEL
+http://orbit-iptv.com:2500/live/adnan/adnan/2399.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 MAXX" tvg-logo="" group-title="SKY DE",DE: PRO 7 MAXX
+http://orbit-iptv.com:2500/live/adnan/adnan/2395.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE BAERN" tvg-logo="" group-title="SKY DE",DE: TELE BAERN
+http://orbit-iptv.com:2500/live/adnan/adnan/2425.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE BASEL" tvg-logo="" group-title="SKY DE",DE: TELE BASEL
+http://orbit-iptv.com:2500/live/adnan/adnan/2424.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV TORING" tvg-logo="" group-title="SKY DE",DE: TV TORING
+http://orbit-iptv.com:2500/live/adnan/adnan/2422.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben Max" tvg-logo="" group-title="SKY DE",DE: ProSieben Max
+http://orbit-iptv.com:2500/live/adnan/adnan/2390.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EINS_FESTIVAL" tvg-logo="" group-title="SKY DE",DE: EINS_FESTIVAL
+http://orbit-iptv.com:2500/live/adnan/adnan/2784.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL LIVING HD" tvg-logo="" group-title="SKY DE",DE: RTL LIVING HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2774.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICKLODEON HD" tvg-logo="" group-title="SKY DE",DE: NICKLODEON HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2776.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HD" tvg-logo="" group-title="SKY DE",DE: DAS ERSTE HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2406.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CINEMAGIC" tvg-logo="" group-title="SKY DE",DE: DISNEY CINEMAGIC
+http://orbit-iptv.com:2500/live/adnan/adnan/2405.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RIC KINDER KANAL" tvg-logo="" group-title="SKY DE",DE: RIC KINDER KANAL
+http://orbit-iptv.com:2500/live/adnan/adnan/2394.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV OBERFRANKEN" tvg-logo="" group-title="SKY DE",DE: TV OBERFRANKEN
+http://orbit-iptv.com:2500/live/adnan/adnan/2423.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY EMOTION HD" tvg-logo="" group-title="SKY DE",DE: SKY EMOTION HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2819.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:Ligacampeones HD" tvg-logo="" group-title="SKY DE",DE:Ligacampeones HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1040.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NationalGeographyHD" tvg-logo="" group-title="SKY DE",DE: NationalGeographyHD
+http://orbit-iptv.com:2500/live/adnan/adnan/2787.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY_CHANNEL" tvg-logo="" group-title="SKY DE",DE: HISTORY_CHANNEL
+http://orbit-iptv.com:2500/live/adnan/adnan/2786.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:CANAL DEPORTES HD" tvg-logo="" group-title="SKY DE",DE:CANAL DEPORTES HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1043.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BundesLiga HD" tvg-logo="" group-title="SKY DE",DE: Sky BundesLiga HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1873.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany 13 Street HD" tvg-logo="" group-title="SKY DE",DE: Sky Germany 13 Street HD
+http://orbit-iptv.com:2500/live/adnan/adnan/987.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Action" tvg-logo="" group-title="SKY DE",DE: Sky Germany Action
+http://orbit-iptv.com:2500/live/adnan/adnan/986.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Atlantic" tvg-logo="" group-title="SKY DE",DE: Sky Germany Atlantic
+http://orbit-iptv.com:2500/live/adnan/adnan/985.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Cinema  1" tvg-logo="" group-title="SKY DE",DE: Sky Germany Cinema  1
+http://orbit-iptv.com:2500/live/adnan/adnan/984.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Cinema  24" tvg-logo="" group-title="SKY DE",DE: Sky Germany Cinema  24
+http://orbit-iptv.com:2500/live/adnan/adnan/982.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Comedy" tvg-logo="" group-title="SKY DE",DE: Sky Germany Comedy
+http://orbit-iptv.com:2500/live/adnan/adnan/981.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Comedy HD" tvg-logo="" group-title="SKY DE",DE: Sky Germany Comedy HD
+http://orbit-iptv.com:2500/live/adnan/adnan/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 2 HD" tvg-logo="" group-title="SKY DE",DE: SKY SELECT 2 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/979.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 HD" tvg-logo="" group-title="SKY DE",DE: Sky Select 4 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1133.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 HD" tvg-logo="" group-title="SKY DE",DE: Sky Select 5 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1134.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 HD" tvg-logo="" group-title="SKY DE",DE: Sky Select 8 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1135.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 HD" tvg-logo="" group-title="SKY DE",DE: Sky Select 9 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/1136.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select HD 1" tvg-logo="" group-title="SKY DE",DE: Sky Select HD 1
+http://orbit-iptv.com:2500/live/adnan/adnan/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Time TV1 HD Ddeutchland" tvg-logo="" group-title="SKY DE",DE: Sport Time TV1 HD Ddeutchland
+http://orbit-iptv.com:2500/live/adnan/adnan/1266.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Time TV2 HD Deutchland" tvg-logo="" group-title="SKY DE",DE: Sport Time TV2 HD Deutchland
+http://orbit-iptv.com:2500/live/adnan/adnan/1267.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Time TV3 HQ Deutchland" tvg-logo="" group-title="SKY DE",DE: Sport Time TV3 HQ Deutchland
+http://orbit-iptv.com:2500/live/adnan/adnan/1268.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Time TV4 HD Deutchland" tvg-logo="" group-title="SKY DE",DE: Sport Time TV4 HD Deutchland
+http://orbit-iptv.com:2500/live/adnan/adnan/1269.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Time TV5 HD Deutchland" tvg-logo="" group-title="SKY DE",DE: Sport Time TV5 HD Deutchland
+http://orbit-iptv.com:2500/live/adnan/adnan/1270.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Time TV 6 HD Deuchland" tvg-logo="" group-title="SKY DE",DE: Sport Time TV 6 HD Deuchland
+http://orbit-iptv.com:2500/live/adnan/adnan/1271.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Time TV 7 HD Deutchland" tvg-logo="" group-title="SKY DE",DE: Sport Time TV 7 HD Deutchland
+http://orbit-iptv.com:2500/live/adnan/adnan/1272.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Disney Cinemagic HD" tvg-logo="" group-title="SKY DE",DE: Sky Disney Cinemagic HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2392.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Gemany Cinema" tvg-logo="" group-title="SKY DE",DE: Sky Gemany Cinema
+http://orbit-iptv.com:2500/live/adnan/adnan/988.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 2 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2418.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 3 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 3 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2417.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 4 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 4 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2416.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 5 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 5 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2415.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 6 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 6 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2414.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 7 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 7 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2413.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 8 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 8 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2412.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="" group-title="SKY DE",DE: SKY BUNDESLIGA 1 HD
+http://orbit-iptv.com:2500/live/adnan/adnan/2411.ts
