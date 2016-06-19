@@ -108,8 +108,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/22362356/streams/live/playlist.m
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iOy0jOsEr8s/AAAAAAAAAAI/AAAAAAAAAAA/tQ6zjwS9r6g/s900-c-k-no-rj-c0xffffff/photo.jpg" , Houna Bagdad
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iOy0jOsEr8s/AAAAAAAAAAI/AAAAAAAAAAA/tQ6zjwS9r6g/s900-c-k-no-rj-c0xffffff/photo.jpg" , Houna Bagdad TV
 http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" , Al Aan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
 
 
