@@ -104,6 +104,8 @@ http://176.31.46.168/osltv/arablive-tv.m3u8?channel=national-geographic-abu-dhab
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
 http://iphone-streaming.ustream.tv/ustreamVideo/22362356/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/alhurra_big.jpg" , Al Hurra Iraq
+rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
@@ -112,26 +114,32 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" , Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/sat.jpg" , Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/drama.jpg" , Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+
+
 
 
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://orbit-iptv.com:2500/live/adnan/adnan/3232.m3u8
+http://195.12.170.154:8002/play/armbc1hd
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1 (BUP)
 http://176.31.46.168/osltv/arablive-tv.m3u8?channel=mbc-1&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
-http://orbit-iptv.com:2500/live/adnan/adnan/1643.m3u8
+http://195.12.170.154:8002/play/armbc2hd
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
-http://orbit-iptv.com:2500/live/adnan/adnan/1642.m3u8
+http://195.12.170.154:8002/play/armbc3hd
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
-http://orbit-iptv.com:2500/live/adnan/adnan/1641.m3u8
+http://195.12.170.154:8002/play/armbc4hd
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
 http://orbit-iptv.com:2500/live/adnan/adnan/1640.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
-http://orbit-iptv.com:2500/live/adnan/adnan/1909.m3u8
+http://195.12.170.154:8002/play/armbcmaxhd
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://orbit-iptv.com:2500/live/adnan/adnan/1644.m3u8
+http://195.12.170.154:8002/play/armbcdrama
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
 http://orbit-iptv.com:2500/live/adnan/adnan/1907.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
