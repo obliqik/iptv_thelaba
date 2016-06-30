@@ -53,9 +53,9 @@ http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-http://178.33.61.33:1936/13/stream/playlist.m3u8
+http://178.33.61.33:1936/13/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
-http://5.135.134.25:1936/14/stream/playlist.m3u8
+http://5.135.134.25:1936/14/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
 http://fluplus1.giniko.com/ciratv/ciratv/index.m3u8?token=01d6f79e4a60d39e0fb5271412d48c6c86400
 #EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
@@ -63,7 +63,7 @@ http://live.karwan.tv/karwan.tv/lalish-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
 http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
-http://178.33.63.44:1936/13/stream/playlist.m3u8
+http://178.33.63.44:1936/13/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
 http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/26-02-2016-591560ce-denge-tv.png" , Denge TV
