@@ -13,7 +13,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistantv.png", Kurdistan TV
 rtmp://84.244.187.12/live/livestream
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsatnews.png", KurdSat News
-http://198.100.158.231:1935/kanal28/_definst_/kurdsatnews/playlist.m3u8
+http://stream-07.vty.dailymotion.com/19/dm/1/x4jhdkf/live.isml/events(live-9999999999)/live-audio=128000-video=2000000.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
@@ -21,29 +21,21 @@ http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://198.100.158.231:1935/kanal7/_definst_/livestream/playlist.m3u8
+http://stream-07.vty.dailymotion.com/15/dm/1/x4hxz7v/live.isml/events(live-9999999999)/live-audio=128000-video=1200000.m3u8
 #EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
-http://war471.srfms.com:2253/live//livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/Kanal4tv.png" , Kanal 4
-http://live.karwan.tv/karwan.tv/kanal4/chunks.m3u8
+http://avenuewtv.srfms.com:2219/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/vintv.png", Vin TV
 http://95.170.203.140:1213/hls/vinlive.m3u8
-#EXTINF:-1 tvg-logo="http://www.prosave.tv/imagestore/haber/ref-delmedto6k4kjnf87yxv3z5r4a941uqgt52600t7ae51om52oq.png", Korek
-http://live.karwan.tv/karwan.tv/korek-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdmax.png", Kurdmax TV HD
 http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.duhoktv.net/images/logo.gif" , Duhok TV
-http://live.karwan.tv/karwan.tv/duhok-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/cihantv.png", Cihan TV HD
 http://kurd-live.com:1935/live/cihan/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newline.png", Newline HD
 http://kurd-live.com:1935/live/new/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rojikurd.png" , Roji Kurd
 http://87.81.198.172/hls/mystream.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--rObrTJftaE/Vd0bYfb8noI/AAAAAAAAD6E/9K0WNSsmSQo/s1600/1522758_223190081203856_1479619578_o.png", Falcon Eye HD
-http://live.karwan.tv/karwan.tv/falcon-eye-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.altkia.com/wp-content/uploads/2015/04/R%C3%AAga-TV-550x367.png", Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/01-03-2016-a865207c-gemkurdtv.jpg", Gem Kurd
@@ -53,13 +45,11 @@ http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-http://178.33.61.33:1936/13/Stream/playlist.m3u8
+http://198.100.158.231:1935/kanal6/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
 http://fluplus1.giniko.com/ciratv/ciratv/index.m3u8?token=5fa4262207aefb2b675c93712100b85486400
-#EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
-http://live.karwan.tv/karwan.tv/lalish-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
 http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
@@ -155,10 +145,6 @@ http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oul
 http://topiptv.net:5890/live/tarik1/tarik1/1129.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png" , Abu Dhabi Emarat
 rtmp://www.teledunet.net:1935/live?idu=tounesna_ww2hulbh2b/abu_dhabi_emarat
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sporm3u8-1_o.jpg" , Abu Dhabi Sport
-http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1543.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sporm3u8-2_o.jpg" , Abu Dhabi Sport
-http://37.187.24.177:80/mans24/mans24/734.ch
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Sama.png" , Sama Dubai
