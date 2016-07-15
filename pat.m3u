@@ -119,8 +119,6 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
 http://195.12.170.154:8002/play/armbc1hd
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1 (BUP)
-http://176.31.46.168/osltv/arablive-tv.m3u8?channel=mbc-1&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
 http://195.12.170.154:8002/play/armbc2hd
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
@@ -178,12 +176,11 @@ http://195.12.170.154:8002/play/arrotanaclassichd
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-EgZReWZV3aM/AAAAAAAAAAI/AAAAAAAAAAA/_g9T0AwMQvk/s100-c-k-no-rj-c0xffffff/photo.jpg" , CBC
-https://www.youtube.com/get_video_info?&video_id=1yEMLzYzE1g&el=info&ps=default&eurl=&gl=US&hl=en
+https://www.youtube.com/watch?v=1yEMLzYzE1g
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-tDe3PyadQnQ/AAAAAAAAAAI/AAAAAAAAAAA/rBmsY_5xshg/s100-c-k-no-rj-c0xffffff/photo.jpg" , CBC Drama
-https://www.youtube.com/get_video_info?&video_id=uMvhnVugCjo&el=info&ps=default&eurl=&gl=US&hl=en
+https://www.youtube.com/watch?v=uMvhnVugCjo
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-01YF5Z5-iko/AAAAAAAAAAI/AAAAAAAAAAA/lo6d1n4uaAg/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" , CBC extra
-https://www.youtube.com/get_video_info?&video_id=r7ammFV2blg&el=info&ps=default&eurl=&gl=US&hl=en
-
+https://www.youtube.com/watch?v=r7ammFV2blg
 
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/eg/nileFamily_95x95.gif" , Nile family
@@ -194,6 +191,8 @@ http://195.12.170.154:8002/play/arniledrama
 http://195.12.170.154:8002/play/arnilecomedy
 
 
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1 LQ
+http://176.31.46.168/osltv/arablive-tv.m3u8?channel=mbc-1&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2 LQ
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 LQ
