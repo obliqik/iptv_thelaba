@@ -74,6 +74,10 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1 tvg-logo="http://images.huffingtonpost.com/2010-02-13-1RussiaTodaylogo.jpg" , RT Arabic
 http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Euronews-pure.svg/2000px-Euronews-pure.svg.png" , euronews Arabic
+https://www.youtube.com/watch?v=vFgvp3GQgkU
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/france24_arabic.jpg" , France 24 Arabic
+https://www.youtube.com/watch?v=55IL8QtH0Ao
 #EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/wp-content/uploads/2015/08/albaghdadia_logo_b1.png" , Al Baghdadia
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
 #EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/bag2/sites/all/themes/B2/logo.png" , Al Baghdadia 2
@@ -137,7 +141,8 @@ http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
-http://topiptv.net:5890/live/tarik1/tarik1/1129.m3u8
+http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/320.ts
+
 
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
