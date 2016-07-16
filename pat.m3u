@@ -130,18 +130,23 @@ http://195.12.170.154:8002/play/armbc3hd
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
 http://195.12.170.154:8002/play/armbc4hd
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
-http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/122.ts
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
 http://195.12.170.154:8002/play/armbcmaxhd
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
 http://195.12.170.154:8002/play/armbcdrama
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/61.ts
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/128.ts
+#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/129.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
-http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/320.ts
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/326.ts
 
 
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
@@ -208,3 +213,92 @@ http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD LQ
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+
+
+#EXTINF:-1,Bein Movies 1 HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/105.ts
+#EXTINF:-1,Bein Movies 2 HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/104.ts
+#EXTINF:-1,Bein Movies 3 HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/106.ts
+#EXTINF:-1,Bein Movies 4 HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/157.ts
+#EXTINF:-1,OSN Cinema 1 HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/289.ts
+#EXTINF:-1,OSN Cinema 2 HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/288.ts
+#EXTINF:-1,OSN AL Youm HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/18.ts
+#EXTINF:-1,OSN Al Youm SD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/309.ts
+#EXTINF:-1,OSN AL Youm Low
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/25.ts
+#EXTINF:-1,OSN YA HALA
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/308.ts
+#EXTINF:-1,OSN Yahlaa HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
+#EXTINF:-1,OSN YA HALA SHABAB HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/26.ts
+#EXTINF:-1,OSN Yahala Shabab
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/310.ts
+#EXTINF:-1,OSN YA HALA DRAMA HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/29.ts
+#EXTINF:-1,Osn Movies HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/27.ts
+#EXTINF:-1,Osn Movies Action
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/28.ts
+#EXTINF:-1,Osn Movies Action +2
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/1.ts
+#EXTINF:-1,Osn Movies Drama
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/282.ts
+#EXTINF:-1,OSN First HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/163.ts
+#EXTINF:-1,OSN First Comedy
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/164.ts
+#EXTINF:-1,OSN Movies Premiere
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/162.ts
+#EXTINF:-1,AR: Osn Movies Premier  + 2
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/156.ts
+#EXTINF:-1,OSN Movies Festival
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/159.ts
+#EXTINF:-1,Osn Animal Planet
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/160.ts
+#EXTINF:-1,OSN Movies Kids
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/161.ts
+#EXTINF:-1,Osn Dinsey Junior
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/165.ts
+#EXTINF:-1,AR: Osn Box Offiec 1
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/168.ts
+#EXTINF:-1,AR: Osn Box Offiec 3
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/167.ts
+#EXTINF:-1,AR: Osn sport 3 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/144.ts
+#EXTINF:-1,AR: Osn sport 5 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/143.ts
+#EXTINF:-1,AR: Osn sport 6 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/142.ts
+#EXTINF:-1,AR: Osn sport 9 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/141.ts
+#EXTINF:-1,OSN Discovery ID
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/154.ts
+#EXTINF:-1,OSN On Demand
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/155.ts
+#EXTINF:-1,OSN History HD
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/153.ts
+#EXTINF:-1,OSN Movies Comedy
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/152.ts
+#EXTINF:-1,OSN ON DEMAND EXTRA
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/151.ts
+#EXTINF:-1,AR: Osn sport 18 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/150.ts
+#EXTINF:-1,AR: Osn sport 19 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/149.ts
+#EXTINF:-1,AR: Osn sport 20 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/148.ts
+#EXTINF:-1,AR: Osn sport 21 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/147.ts
+#EXTINF:-1,AR: Osn sport 23 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/146.ts
+#EXTINF:-1,AR: Osn sport 24 wwe
+http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/145.ts
