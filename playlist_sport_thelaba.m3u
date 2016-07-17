@@ -1,224 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT" tvg-logo="http://i65.tinypic.com/2q19ylh.png" group-title="BEINSPORT HD",BEINSPORT
-http://orbit-iptv.com:2500/live/adnan/adnan/2280.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD1" tvg-logo="http://i67.tinypic.com/x5bbj9.png" group-title="BEINSPORT HD",BEIN SPORT HD1
-http://orbit-iptv.com:2500/live/adnan/adnan/1064.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD2" tvg-logo="http://i67.tinypic.com/6hkydf.png" group-title="BEINSPORT HD",BEIN SPORT HD2
-http://orbit-iptv.com:2500/live/adnan/adnan/1057.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD3" tvg-logo="http://i67.tinypic.com/2rxtmwj.png" group-title="BEINSPORT HD",BEIN SPORT HD3
-http://orbit-iptv.com:2500/live/adnan/adnan/1056.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD4" tvg-logo="http://i66.tinypic.com/fck2rl.png" group-title="BEINSPORT HD",BEIN SPORT HD4
-http://orbit-iptv.com:2500/live/adnan/adnan/1055.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD5" tvg-logo="http://i66.tinypic.com/vcyqyq.png" group-title="BEINSPORT HD",BEIN SPORT HD5
-http://orbit-iptv.com:2500/live/adnan/adnan/1054.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD6" tvg-logo="http://i64.tinypic.com/33yotbk.png" group-title="BEINSPORT HD",BEIN SPORT HD6
-http://orbit-iptv.com:2500/live/adnan/adnan/1053.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD7" tvg-logo="http://i66.tinypic.com/8x1l05.png" group-title="BEINSPORT HD",BEIN SPORT HD7
-http://orbit-iptv.com:2500/live/adnan/adnan/1052.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD8" tvg-logo="http://i68.tinypic.com/28hiw5s.png" group-title="BEINSPORT HD",BEIN SPORT HD8
-http://orbit-iptv.com:2500/live/adnan/adnan/1051.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD9" tvg-logo="http://i65.tinypic.com/se7os8.png" group-title="BEINSPORT HD",BEIN SPORT HD9
-http://orbit-iptv.com:2500/live/adnan/adnan/1050.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD10" tvg-logo="http://i66.tinypic.com/2l94jev.png" group-title="BEINSPORT HD",BEIN SPORT HD10
-http://orbit-iptv.com:2500/live/adnan/adnan/1063.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD11" tvg-logo="http://i67.tinypic.com/dxo49f.png" group-title="BEINSPORT HD",BEIN SPORT HD11
-http://orbit-iptv.com:2500/live/adnan/adnan/1062.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD12" tvg-logo="http://i63.tinypic.com/x25gmg.png" group-title="BEINSPORT HD",BEIN SPORT HD12
-http://orbit-iptv.com:2500/live/adnan/adnan/1061.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS-13HD" tvg-logo="http://i65.tinypic.com/2lmqr7o.png" group-title="AC. ARABIC",AR: BEINSPORTS-13HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2069.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS14HD" tvg-logo="http://i63.tinypic.com/33xir0y.png" group-title="AC. ARABIC",AR: BEINSPORTS14HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2070.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS15HD" tvg-logo="" group-title="AC. ARABIC",AR: BEINSPORTS15HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2071.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORTS16HD" tvg-logo="http://i68.tinypic.com/2rmnz1i.png" group-title="AC. ARABIC",AR: BEINSPORTS16HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2072.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_1HD" tvg-logo="http://i67.tinypic.com/x5bbj9.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_1HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2627.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_2HD" tvg-logo="http://i67.tinypic.com/6hkydf.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_2HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2628.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_3HD" tvg-logo="http://i67.tinypic.com/2rxtmwj.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_3HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2629.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_4HD" tvg-logo="http://i66.tinypic.com/fck2rl.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_4HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2630.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_5HD" tvg-logo="http://i66.tinypic.com/vcyqyq.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_5HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2631.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_6HD" tvg-logo="http://i64.tinypic.com/33yotbk.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_6HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2632.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_7HD" tvg-logo="http://i66.tinypic.com/8x1l05.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_7HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2633.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_8HD" tvg-logo="http://i68.tinypic.com/28hiw5s.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_8HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2634.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_9HD" tvg-logo="http://i65.tinypic.com/se7os8.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_9HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2635.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_10HD" tvg-logo="http://i66.tinypic.com/2l94jev.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_10HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2636.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_11HD" tvg-logo="http://i67.tinypic.com/dxo49f.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_11HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2637.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_12HD" tvg-logo="http://i63.tinypic.com/x25gmg.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_12HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2638.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_13HD" tvg-logo="http://i65.tinypic.com/2lmqr7o.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_13HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2639.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_14HD" tvg-logo="http://i63.tinypic.com/33xir0y.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_14HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2640.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_15HD" tvg-logo="" group-title="BEINSPORT HD",AR_BEIN_SPORTS_15HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2641.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR_BEIN_SPORTS_16HD" tvg-logo="http://i68.tinypic.com/2rmnz1i.png" group-title="BEINSPORT HD",AR_BEIN_SPORTS_16HD
-http://orbit-iptv.com:2500/live/adnan/adnan/2642.ts
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , bein Sport 1 HD
+http://176.31.46.168/osltv/bein.m3u8?id=1&type=.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , bein Sport 2 HD
+http://176.31.46.168/osltv/bein.m3u8?id=2&type=.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E5gGBwecb5U/VTEpJgDBB5I/AAAAAAAABDQ/oWWCY_GK50o/s1600/3.png" , bein Sport 3 HD
+http://176.31.46.168/osltv/bein.m3u8?id=3&type=.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-sLSEBgQwOLY/VTEpJ2-K4ZI/AAAAAAAABDU/o1GxWSzMdzA/s1600/4.png" , bein Sport 4 HD
+http://176.31.46.168/osltv/bein.m3u8?id=4&type=.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png" , bein Sport 5 HD
+http://176.31.46.168/osltv/bein.m3u8?id=5&type=.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KFIrJx8Gw30/VTEpUV5LN6I/AAAAAAAABDw/o8Q5kr9GZCs/s1600/6.png" , bein Sport 6 HD
+http://176.31.46.168/osltv/bein.m3u8?id=6&type=.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png" , bein Sport 7 HD
+http://176.31.46.168/osltv/bein.m3u8?id=7&type=.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" , bein Sport 8 HD
+http://176.31.46.168/osltv/bein.m3u8?id=8&type=.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YjffVzTg904/VTEpb52ZnQI/AAAAAAAABEI/RosIkm4Yps4/s1600/9.png" , bein Sport 9 HD
+http://176.31.46.168/osltv/bein.m3u8?id=9&type=.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png" , bein Sport 10 HD
+http://176.31.46.168/osltv/bein.m3u8?id=10&type=.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4QWLfWPRYAw/VTEo1i7U-uI/AAAAAAAABCs/17zUVybCwyA/s1600/11.png" , bein Sport 11 HD [EN]
+http://176.31.46.168/osltv/bein.m3u8?id=11&type=.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Fuj_8acwr4g/VTEo8VaTcFI/AAAAAAAABC0/Dpz2FhLJ3rc/s1600/12.png" , bein Sport 12 HD [EN]
+http://176.31.46.168/osltv/bein.m3u8?id=12&type=.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png" ,bein Sport 1 HD [FR]
+http://176.31.46.168/osltv/bein.m3u8?id=14&type=.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s1600/BeinSportHD2fr.png" ,bein Sport 2 HD [FR]
+http://176.31.46.168/osltv/bein.m3u8?id=15&type=.m3u8
 
-#EXTINF:-1,Arena Sport1 [JUG]
-http://79.124.59.218:1935/live/898953arenasport.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport2 [JUG]
-http://79.124.59.218:1935/live/898953arenasport2.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport3 [JUG]
-http://79.124.59.218:1935/live/898953arenasport3.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 1 HD [FR]
-http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 2 HD [FR]
-http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/Eurosport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , Eurosport ENG
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/EuroSport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , EuroSport ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/Eurosport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , Eurosport FR
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/EuroSport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , EuroSport FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1,Euro Sport 2 HD
-http://188.165.46.79:1935/live/898953eurosport22.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.cyfrowypolsat.pl/img/homepage/logo/big/eurosport.jpg" , EuroSport [PL]
-http://cdn.castto.me/live/N8zIFWU1YMbnamUIm1Pi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cyfrowypolsat.pl/img/homepage/logo/big/eurosport-2.jpg" , EuroSport 2 [PL]
-http://cdn.castto.me/live/iycnJ2MGXbR2kwPaacxe/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/200?cb=20100605113205" , Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/FS1_New_Logo.png" , FOX Sports 1
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.locatetv.com/blog/wp-content/uploads/2011/09/NFL-logo.png" , NFL
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/62/ESPN_HD.png" , ESPN HD
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/72/ESPN_LA.svg/revision/latest?cb=20160308001536" , ESPN ES
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Espn2.png" , ESPN 2 ES
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/dc/Sky_Sports_1_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211005" , Sky Sport 1 ENG
-http://osltv.zackapps.com/apps/best_app/sky.php?id=1&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/dc/Sky_Sports_1_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211005" , Sky Sport 1 LQ
-http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
+http://176.31.46.168/osltv/sky.m3u8?id=1&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e3/Sky_Sports_2_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211419" , Sky Sport 2 ENG
-http://osltv.zackapps.com/apps/best_app/sky.php?id=2&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e3/Sky_Sports_2_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211419" , Sky Sport 2 LQ
-http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
+http://176.31.46.168/osltv/sky.m3u8?id=2&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Sky_Sports_3_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211527" , Sky Sport 3 ENG
-http://osltv.zackapps.com/apps/best_app/sky.php?id=3&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Sky_Sports_3_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211527" , Sky Sport 3 LQ
-http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
+http://176.31.46.168/osltv/sky.m3u8?id=3&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c4/Sky_Sports_4_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211645" , Sky Sport 4 ENG
-http://osltv.zackapps.com/apps/best_app/sky.php?id=4&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c4/Sky_Sports_4_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211645" , Sky Sport 4 LQ
-http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
+http://176.31.46.168/osltv/sky.m3u8?id=4&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Sky_Sports_5_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211733" , Sky Sport 5 ENG
-http://osltv.zackapps.com/apps/best_app/sky.php?id=5&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Sky_Sports_5_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211733" , Sky Sport 5 LQ
-http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
+http://176.31.46.168/osltv/sky.m3u8?id=5&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/89/Sky_Sports_F1_2015.svg/revision/latest/scale-to-width-down/350?cb=20150828211952" , Sky Sport F1 ENG
-http://osltv.zackapps.com/apps/best_app/sky.php?id=f1&type=.m3u8
-#EXTINF:-1,Sky Sports 1 
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
-#EXTINF:-1,Sky Sports 2 
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
-#EXTINF:-1,Sky Sports 3 
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
-#EXTINF:-1,Sky Sports 4 
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
-#EXTINF:-1,Sky Sports 5 
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
+http://176.31.46.168/osltv/sky.m3u8?id=f1&type=.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_bundesliga_hd.jpg" , Sky Bundesliga 1 HD
-http://51.255.81.190:8080/DE:Sky-Bundesliga-1-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_1_hd.jpg" , Sky Sport 1 HD
-http://51.255.81.190:8080/DE-Sky-Sport-1HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://unitymedia-helpdesk.de/logos/sky_sport_news_hd.jpg" , Sky Sport News HD
-http://5.63.151.68:8088/live/tvlive0006/playlist.m3u8?id=243384&pk=a56e183dcd48f1c0bc3482704dbdf5e13870a9684eb58eb3d182cad07aa6eb27
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/BT_Sport_1.svg/revision/latest/scale-to-width-down/300?cb=20130806194205" , BT Sport 1 ENG
-http://osltv.zackapps.com/apps/best_app/bt.php?id=1&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/BT_Sport_1.svg/revision/latest/scale-to-width-down/300?cb=20130806194205" , BT Sport 1 HD
-http://51.255.81.190:8080/UK-BT-Sport-1/mono.m3u8
+http://176.31.46.168/osltv/bt.m3u8?id=1&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/51/BT_Sport_2.svg/revision/latest/scale-to-width-down/300?cb=20130806194148" , BT Sport 2 ENG
-http://osltv.zackapps.com/apps/best_app/bt.php?id=2&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/51/BT_Sport_2.svg/revision/latest/scale-to-width-down/300?cb=20130806194148" , BT Sport 2 HD
-http://51.255.81.190:8080/UK-BT-Sport-2/mono.m3u8
+http://176.31.46.168/osltv/bt.m3u8?id=2&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5d/BT_Sport_ESPN.png/revision/latest/scale-to-width-down/300?cb=20150609115556" , BT Sport ESPN ENG
-http://osltv.zackapps.com/apps/best_app/bt.php?id=espn&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sport Europe ENG
-http://osltv.zackapps.com/apps/best_app/bt.php?id=europe&type=.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sport Europe
-rtmp://lb.miplayer.net/goLive/_definst_/ibrodtvbteu_5msgj44x
+http://176.31.46.168/osltv/bt.m3u8?id=espn&type=.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-Sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sport Europe ENG
+http://176.31.46.168/osltv/bt.m3u8?id=europe&type=.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/71/Versus_HD.png/revision/latest/scale-to-width-down/200?cb=20110408205402" , Versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-15.55.04/1732346661ff44c6abc382c2072b9edd.png" , TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/buyuk_ligtv_hd-son.png" , Lig TV [TR]
-http://51.255.81.190:8080/TR-NTV-Spor/mono.m3u8
-#EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.15.21/2ce9a2d5890b44c5908c389567fb2182.png" , TRT SPORT HD
-http://51.255.81.190:8080/TR-TRT-Sport/mono.m3u8?token=3uvk_1xf83
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" ,  CANAL+ Futbol [SP]
-http://51.255.81.190:8080/SP-CANAL-Futbol/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal%2B_Liga.svg/150px-Canal%2B_Liga.svg.png" , CANAL+ LIGA [SP]
-http://51.255.81.190:8080/SP-CANAL-LIGA/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/08/Canal%2B_HD_Sport_Logo_2013.png" , CANAL+ Sport [FR]
-http://51.255.81.190:8080/FR-Canal-Sport/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.cyfrowypolsat.pl/img/homepage/logo/big/canal-plus-sport.jpg" , CANAL+ Sport [PL]
-http://cdn.castto.me/live/Z7Uvlz4bRsQbHliCnRtp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-b1DIhcf6JEg/VOvFI7NKYjI/AAAAAAAAAnk/QLDqKawYhyQ/s320/SPT1HD.png" , Sport TV 1 [PT]
-http://51.255.81.190:8080/PT:SPORT.TV1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png" , Sport TV 2 [PT]
-http://51.255.81.190:8080/PT:SPORT.TV2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" , FOX Sports 1 [NL]
-http://51.255.81.190:8080/NL:Fox.Sports.1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Fox_Sports_2_Logo.jpg" , FOX Sports 2 [NL]
-http://51.255.81.190:8080/NL:Fox.Sports.2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/be/Sky_Sport_1_HD_Italy_2010.png" , SKY Sport 1 [IT]
-http://51.255.81.190:8080/IT-SKYSPORT1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/09/Sky_Sport_2_HD_Italy_2010.png" , SKY Sport 2 [IT]
-http://51.255.81.190:8080/IT-SKYSPORT2/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , bein Sport 1 HD
-http://51.255.81.190:8080/BEINSPORT-1-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , bein Sport 1 LQ
-http://51.255.81.190:8080/BeinSport-1-low/mono.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , bein Sport 2 HD
-http://51.255.81.190:8080/BEINSPORT-2-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E5gGBwecb5U/VTEpJgDBB5I/AAAAAAAABDQ/oWWCY_GK50o/s1600/3.png" , bein Sport 3 HD
-http://51.255.81.190:8080/BEINSPORT-3-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-sLSEBgQwOLY/VTEpJ2-K4ZI/AAAAAAAABDU/o1GxWSzMdzA/s1600/4.png" , bein Sport 4 HD
-http://51.255.81.190:8080/BEINSPORT-4-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png" , bein Sport 5 HD
-http://51.255.81.190:8080/BEINSPORT-5-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KFIrJx8Gw30/VTEpUV5LN6I/AAAAAAAABDw/o8Q5kr9GZCs/s1600/6.png" , bein Sport 6 HD
-http://51.255.81.190:8080/BEINSPORT-6-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png" , bein Sport 7 HD
-http://51.255.81.190:8080/BEINSPORT-7-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" , bein Sport 8 HD
-http://51.255.81.190:8080/BEINSPORT-8-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YjffVzTg904/VTEpb52ZnQI/AAAAAAAABEI/RosIkm4Yps4/s1600/9.png" , bein Sport 9 HD
-http://51.255.81.190:8080/BEINSPORT-9-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png" , bein Sport 10 HD
-http://51.255.81.190:8080/BEINSPORT-10-HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s200/BeinSportHD1fr.png" , bein Sport FR 1 HD
-http://51.255.81.190:8080/FR-BEINSPORT-1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s200/BeinSportHD2fr.png" , bein Sport FR 2 HD
-http://51.255.81.190:8080/FR-BEINSPORT-2/mono.m3u8
-
