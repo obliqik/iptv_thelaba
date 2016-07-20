@@ -13,7 +13,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistantv.png", Kurdistan TV
 rtmp://84.244.187.12/live/livestream
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsatnews.png", KurdSat News
-http://stream-06.vty.dailymotion.com/43/dm/1/x4jhdkf/live.isml/events(live-9999999999)/live-audio=128000-video=2000000.m3u8
+http://stream-06.vty.dailymotion.com/38/dm/1/x4jhdkf/live.isml/events(live-9999999999)/live-audio=128000-video=2000000.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
@@ -21,7 +21,7 @@ http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://stream-07.vty.dailymotion.com/36/dm/1/x4hxz7v/live.isml/events(live-9999999999)/live-audio=128000-video=1200000.m3u8
+http://stream-07.vty.dailymotion.com/47/dm/1/x4hxz7v/live.isml/events(live-9999999999)/live-audio=128000-video=1200000.m3u8
 #EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
@@ -45,7 +45,7 @@ http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/sterk.png", Sterk TV
-http://198.100.158.231:1935/kanal6/_definst_/livestream/playlist.m3u8
+http://178.33.61.33:1936/13/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
@@ -53,11 +53,9 @@ http://fluplus1.giniko.com/ciratv/ciratv/index.m3u8?token=8ed9f9a558946b00b9238b
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
 http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
-http://178.33.63.44:1936/13/Stream/playlist.m3u8
+http://178.33.63.44:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
 http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u
-#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/26-02-2016-591560ce-denge-tv.png" , Denge TV
-http://yayin3.canlitv.com:1935/live/dengetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/pelistank.png" , Pelistank TV 
 http://198.100.158.231:1935/kanal18/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zaroktv.png" , Zarok TV
@@ -78,6 +76,8 @@ http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
 https://www.youtube.com/watch?v=vFgvp3GQgkU
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/france24_arabic.jpg" , France 24 Arabic
 https://www.youtube.com/watch?v=55IL8QtH0Ao
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/120px-CNBC_Arabiya.svg.png" , CNBC Arabia
+http://api.new.livestream.com/accounts/3102016/events/1914609/videos/130262675.m3u8
 #EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/wp-content/uploads/2015/08/albaghdadia_logo_b1.png" , Al Baghdadia
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
 #EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/bag2/sites/all/themes/B2/logo.png" , Al Baghdadia 2
@@ -122,31 +122,31 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://195.12.170.154:8002/play/armbc1hd
+http://38.99.146.36:7777/MBC1_HD.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
-http://195.12.170.154:8002/play/armbc2hd
+http://38.99.146.36:7777/MBC2_HD.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
-http://195.12.170.154:8002/play/armbc3hd
+http://38.99.146.36:7777/MBC3_HD.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 
-http://195.12.170.154:8002/play/armbc4hd
+http://38.99.146.36:7777/MBC4_HD.m3u8
 #EXTINF:-1 tvg-logo="http://persianplay.net/wp-content/uploads/2014/12/mbcaction.jpg" ,MBC ACTION
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/122.ts
+http://38.99.146.36:7777/MBCAction_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
-http://195.12.170.154:8002/play/armbcmaxhd
+http://38.99.146.36:7777/MBCMax_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://195.12.170.154:8002/play/armbcdrama
+http://38.99.146.36:7777/MBCDrama_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/61.ts
+http://38.99.146.36:7777/MBCBollywood_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/128.ts
+http://38.99.146.36:7777/MBCMaser_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" ,MBC MASR 2
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/129.ts
+http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/326.ts
+http://38.99.146.36:7777/ADDrama_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
@@ -170,19 +170,19 @@ http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/playlist.m3
 
  
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel4.png" , Rotana Aflem
-http://195.12.170.154:8002/play/arrotanaaflem
+http://38.99.146.36:7777/RotanaAflam_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel2.png" , Rotana CLIP
 http://195.12.170.154:8002/play/arrotanaclip
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel6.png" , Rotana Massrya HD
-http://195.12.170.154:8002/play/arrotanamassryahd
+http://38.99.146.36:7777/RotanaMasriya_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel3.png" ,  Rotana Music HD
-http://195.12.170.154:8002/play/arrotanamusichd
+http://38.99.146.36:7777/RotanaMusic_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel7.png" , Rotana Cinema HD
-http://195.12.170.154:8002/play/arrotanacinemahd
+http://38.99.146.36:7777/RotanaCinema_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel5.png" , Rotana Khaliji HD
-http://195.12.170.154:8002/play/arrotanakhalijihd
-#EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel1.png" , Rotana classic HD
-http://195.12.170.154:8002/play/arrotanaclassichd 
+http://38.99.146.36:7777/RotanaKhalijiah_HD.m3u8
+#EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel1.png" , Rotana Classic HD
+http://38.99.146.36:7777/RotanaZaman_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-EgZReWZV3aM/AAAAAAAAAAI/AAAAAAAAAAA/_g9T0AwMQvk/s100-c-k-no-rj-c0xffffff/photo.jpg" , CBC
@@ -192,13 +192,17 @@ https://www.youtube.com/watch?v=uMvhnVugCjo
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-01YF5Z5-iko/AAAAAAAAAAI/AAAAAAAAAAA/lo6d1n4uaAg/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" , CBC extra
 https://www.youtube.com/watch?v=r7ammFV2blg
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Zeealwanlogo.jpeg" , Zee Alwen
+http://38.99.146.36:7777/ZeeAlwan_HD.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lYbNgCH-M290SYSI7uc01ihlXX6aJCkoZJShKK3cgNlQ3B_Zq9WB84J5rmPc6Gb-7d2A=w300" , Zee Aflam
+http://38.99.146.36:7777/ZeeAflam_HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/eg/nileFamily_95x95.gif" , Nile family
-http://195.12.170.154:8002/play/arnilefamily
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/eg/nileFamily_95x95.gif" , Nile Family
+rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/livestream
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/eg/nileDrama_95x95.gif" , Nile Drama
-http://195.12.170.154:8002/play/arniledrama
+rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama/livestream
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/eg/nileComedy_95x95.gif" , Nile Comedy
-http://195.12.170.154:8002/play/arnilecomedy
+rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/livestream
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1 LQ
@@ -213,92 +217,3 @@ http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD LQ
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-
-
-#EXTINF:-1,Bein Movies 1 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/105.ts
-#EXTINF:-1,Bein Movies 2 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/104.ts
-#EXTINF:-1,Bein Movies 3 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/106.ts
-#EXTINF:-1,Bein Movies 4 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/157.ts
-#EXTINF:-1,OSN Cinema 1 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/289.ts
-#EXTINF:-1,OSN Cinema 2 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/288.ts
-#EXTINF:-1,OSN AL Youm HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/18.ts
-#EXTINF:-1,OSN Al Youm SD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/309.ts
-#EXTINF:-1,OSN AL Youm Low
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/25.ts
-#EXTINF:-1,OSN YA HALA
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/308.ts
-#EXTINF:-1,OSN Yahlaa HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
-#EXTINF:-1,OSN YA HALA SHABAB HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/26.ts
-#EXTINF:-1,OSN Yahala Shabab
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/310.ts
-#EXTINF:-1,OSN YA HALA DRAMA HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/29.ts
-#EXTINF:-1,Osn Movies HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/27.ts
-#EXTINF:-1,Osn Movies Action
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/28.ts
-#EXTINF:-1,Osn Movies Action +2
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/1.ts
-#EXTINF:-1,Osn Movies Drama
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/282.ts
-#EXTINF:-1,OSN First HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/163.ts
-#EXTINF:-1,OSN First Comedy
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/164.ts
-#EXTINF:-1,OSN Movies Premiere
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/162.ts
-#EXTINF:-1,AR: Osn Movies Premier  + 2
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/156.ts
-#EXTINF:-1,OSN Movies Festival
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/159.ts
-#EXTINF:-1,Osn Animal Planet
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/160.ts
-#EXTINF:-1,OSN Movies Kids
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/161.ts
-#EXTINF:-1,Osn Dinsey Junior
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/165.ts
-#EXTINF:-1,AR: Osn Box Offiec 1
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/168.ts
-#EXTINF:-1,AR: Osn Box Offiec 3
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/167.ts
-#EXTINF:-1,AR: Osn sport 3 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/144.ts
-#EXTINF:-1,AR: Osn sport 5 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/143.ts
-#EXTINF:-1,AR: Osn sport 6 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/142.ts
-#EXTINF:-1,AR: Osn sport 9 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/141.ts
-#EXTINF:-1,OSN Discovery ID
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/154.ts
-#EXTINF:-1,OSN On Demand
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/155.ts
-#EXTINF:-1,OSN History HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/153.ts
-#EXTINF:-1,OSN Movies Comedy
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/152.ts
-#EXTINF:-1,OSN ON DEMAND EXTRA
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/151.ts
-#EXTINF:-1,AR: Osn sport 18 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/150.ts
-#EXTINF:-1,AR: Osn sport 19 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/149.ts
-#EXTINF:-1,AR: Osn sport 20 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/148.ts
-#EXTINF:-1,AR: Osn sport 21 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/147.ts
-#EXTINF:-1,AR: Osn sport 23 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/146.ts
-#EXTINF:-1,AR: Osn sport 24 wwe
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/145.ts
