@@ -158,6 +158,13 @@ http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Zaman.png" , Dubai Zaman
 http://dmi.mangomolo.com:1935/dubaizaman/_definst_/dubaizaman/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_1HD.png" , bein Movies 1
+http://thelaba.square7.ch/Streams/beinmovies1.m3u8
+#EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_2HD.png" , bein Movies 2
+http://thelaba.square7.ch/Streams/beinmovies2.m3u8
+#EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_3HD.png" , bein Movies 3
+http://thelaba.square7.ch/Streams/beinmovies3.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://al-nahar.tv/streams/images/alnahar.png" , Al Nahar TV
 http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
