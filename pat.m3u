@@ -224,3 +224,7 @@ http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD LQ
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+
+EXTINF:-1 , K24
+http://stream-k24.rhcloud.com/K24/K24
