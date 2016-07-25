@@ -226,5 +226,5 @@ http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 
-#EXTINF:-1 , K24
+#EXTINF:-1 tvg-logo="" , K24
 http://stream-k24.rhcloud.com/K24/K24
