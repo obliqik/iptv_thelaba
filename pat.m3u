@@ -85,7 +85,7 @@ rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" , Al Jazeera Mubasher
-http://195.12.170.154:8002/play/araljazeeramubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" , Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
 #EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" , DW Arabia
@@ -93,7 +93,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1cFdX8HimnU/VjkqY45HTJI/AAAAAAAAAWM/HwgvmK-1IVw/s1600/_beIN_Sport_News.png" , Bein Sport News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
-http://176.31.46.168/osltv/arablive-tv.m3u8?channel=national-geographic-abu-dhabi&type=.m3u8
+http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
@@ -115,7 +115,7 @@ http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/sat.jpg" , Syria
 http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/drama.jpg" , Syria Drama
-http://195.12.170.154:8002/play/arsyriadrama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:-1 tvg.logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" , Sama Syria TV
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
@@ -159,7 +159,7 @@ http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaizaman/_definst_/dubaizaman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_1HD.png" , bein Movies 1
-http://stream-k24.rhcloud.com/BeinMovies1/BeinMovies1
+http://stream-k24.rhcloud.com/BeinMovies1/BeinMovies1|COMPONENT=HLS
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_2HD.png" , bein Movies 2
 http://stream-k24.rhcloud.com/BeinMovies2/BeinMovies2
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_3HD.png" , bein Movies 3
