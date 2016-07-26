@@ -49,7 +49,7 @@ http://178.33.61.33:1936/13/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
-http://stream-k24.rhcloud.com/CiraTV/CiraTV
+http://live-k24.rhcloud.com/CiraTV/CiraTV.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
 http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
@@ -159,11 +159,11 @@ http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaizaman/_definst_/dubaizaman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_1HD.png" , bein Movies 1
-http://stream-k24.rhcloud.com/BeinMovies1/BeinMovies1
+http://live-k24.rhcloud.com/BeinMovies1/BeinMovies1.m3u8
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_2HD.png" , bein Movies 2
-http://stream-k24.rhcloud.com/BeinMovies2/BeinMovies2
+http://live-k24.rhcloud.com/BeinMovies2/BeinMovies2.m3u8
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_3HD.png" , bein Movies 3
-http://stream-k24.rhcloud.com/BeinMovies3/BeinMovies3
+http://live-k24.rhcloud.com/BeinMovies3/BeinMovies3.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://al-nahar.tv/streams/images/alnahar.png" , Al Nahar TV
@@ -227,4 +227,4 @@ http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 
 #EXTINF:-1 tvg-logo="" , K24
-http://stream-k24.rhcloud.com/K24/K24
+http://live-k24.rhcloud.com/K24/K24.m3u8
