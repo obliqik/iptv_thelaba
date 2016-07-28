@@ -13,7 +13,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistantv.png", Kurdistan TV
 rtmp://84.244.187.12/live/livestream
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsatnews.png", KurdSat News
-http://stream-06.vty.dailymotion.com/38/dm/1/x4jhdkf/live.isml/events(live-9999999999)/live-audio=128000-video=2000000.m3u8
+http://stream-06.vty.dailymotion.com/33/dm/1/x4jhdkf/live.isml/events(live-9999999999)/live-audio=128000-video=2000000.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
@@ -21,7 +21,7 @@ http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://stream-07.vty.dailymotion.com/47/dm/1/x4hxz7v/live.isml/events(live-9999999999)/live-audio=128000-video=1200000.m3u8
+http://stream-07.vty.dailymotion.com/44/dm/1/x4hxz7v/live.isml/events(live-9999999999)/live-audio=128000-video=1200000.m3u8
 #EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
@@ -159,11 +159,11 @@ http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaizaman/_definst_/dubaizaman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_1HD.png" , bein Movies 1
-http://live-k24.rhcloud.com/BeinMovies1/BeinMovies1.m3u8
+http://live-k24.rhcloud.com/BeinMovies/BeinMovies.m3u8?ch=1
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_2HD.png" , bein Movies 2
-http://live-k24.rhcloud.com/BeinMovies2/BeinMovies2.m3u8
+http://live-k24.rhcloud.com/BeinMovies/BeinMovies.m3u8?ch=2
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_3HD.png" , bein Movies 3
-http://live-k24.rhcloud.com/BeinMovies3/BeinMovies3.m3u8
+http://live-k24.rhcloud.com/BeinMovies/BeinMovies.m3u8?ch=3
 
 
 #EXTINF:-1 tvg-logo="http://al-nahar.tv/streams/images/alnahar.png" , Al Nahar TV
