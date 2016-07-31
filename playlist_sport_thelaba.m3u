@@ -26,12 +26,14 @@ http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=11
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Fuj_8acwr4g/VTEo8VaTcFI/AAAAAAAABC0/Dpz2FhLJ3rc/s1600/12.png" , bein Sport 12 HD [EN]
 http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=12
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png" ,bein Sport 1 HD [FR]
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=fr1
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=13
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s1600/BeinSportHD2fr.png" ,bein Sport 2 HD [FR]
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=fr2
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=14
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/EuroSport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , EuroSport ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="" , EuroSport 2 ENG
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=eurosport2
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/EuroSport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , EuroSport FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
@@ -45,28 +47,28 @@ http://80.80.160.168/live/6/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/dc/Sky_Sports_1_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211005" , Sky Sport 1 ENG
-http://188.165.35.160/osltv/sky.m3u8?id=1&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=sky1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e3/Sky_Sports_2_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211419" , Sky Sport 2 ENG
-http://188.165.35.160/osltv/sky.m3u8?id=2&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=sky2
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Sky_Sports_3_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211527" , Sky Sport 3 ENG
-http://188.165.35.160/osltv/sky.m3u8?id=3&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=sky3
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c4/Sky_Sports_4_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211645" , Sky Sport 4 ENG
-http://188.165.35.160/osltv/sky.m3u8?id=4&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=sky4
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Sky_Sports_5_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211733" , Sky Sport 5 ENG
-http://188.165.35.160/osltv/sky.m3u8?id=5&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=sky5
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/89/Sky_Sports_F1_2015.svg/revision/latest/scale-to-width-down/350?cb=20150828211952" , Sky Sport F1 ENG
-http://188.165.35.160/osltv/sky.m3u8?id=f1&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=skyf1
 
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/BT_Sport_1.svg/revision/latest/scale-to-width-down/300?cb=20130806194205" , BT Sport 1 ENG
-http://188.165.35.160/osltv/bt.m3u8?id=1&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=bts1
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/51/BT_Sport_2.svg/revision/latest/scale-to-width-down/300?cb=20130806194148" , BT Sport 2 ENG
-http://188.165.35.160/osltv/bt.m3u8?id=2&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=bts2
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5d/BT_Sport_ESPN.png/revision/latest/scale-to-width-down/300?cb=20150609115556" , BT Sport ESPN ENG
-http://188.165.35.160/osltv/bt.m3u8?id=espn&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=espn
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-Sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sport Europe ENG
-http://188.165.35.160/osltv/bt.m3u8?id=europe&type=.m3u8
+http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=btseu
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/71/Versus_HD.png/revision/latest/scale-to-width-down/200?cb=20110408205402" , Versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-15.55.04/1732346661ff44c6abc382c2072b9edd.png" , TRT 1 HD
