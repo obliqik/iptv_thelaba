@@ -13,19 +13,23 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistantv.png", Kurdistan TV
 rtmp://84.244.187.12/live/livestream
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsatnews.png", KurdSat News
-http://stream-ec2.vty.dailymotion.com/33/dm/1/x4jhdkf/live.isml/events(live-9999999999)/live-audio=128000-video=2000000.m3u8
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=ksatnews
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=kurdsattv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
 http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
-http://stream-ec2.vty.dailymotion.com/44/dm/1/x4hxz7v/live.isml/events(live-9999999999)/live-audio=128000-video=1200000.m3u8
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=gktv
 #EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
 rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
-http://avenuewtv.srfms.com:2219/live/livestream/playlist.m3u8
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=waartv
+#EXTINF:-1 tvg-logo="http://www.prosave.tv/imagestore/haber/ref-delmedto6k4kjnf87yxv3z5r4a941uqgt52600t7ae51om52oq.png", Korek TV
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=korektv
+#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/Kanal4tv.png" , Kanal4
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=kanal4
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/vintv.png", Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdmax.png", Kurdmax TV HD
@@ -49,7 +53,9 @@ http://178.33.61.33:1936/13/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
-http://live-k24.rhcloud.com/CiraTV/CiraTV.m3u8
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=ciratv
+#EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=lalishtv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
 http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
@@ -67,11 +73,11 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w170" , Al Arabiya Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png" , BBC Arabic
-https://www.youtube.com/watch?v=m0RMXgxMhs8
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" , Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1 tvg-logo="http://images.huffingtonpost.com/2010-02-13-1RussiaTodaylogo.jpg" , RT Arabic
-http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
+http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Euronews-pure.svg/2000px-Euronews-pure.svg.png" , euronews Arabic
 https://www.youtube.com/watch?v=vFgvp3GQgkU
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/france24_arabic.jpg" , France 24 Arabic
@@ -227,4 +233,4 @@ http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 
 #EXTINF:-1 tvg-logo="" , K24
-http://live-k24.rhcloud.com/K24/K24.m3u8
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=k24tv
