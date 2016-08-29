@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rudawhd.png", Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistan24.png", Kurdistan24
-http://198.100.158.231:1935/kanal30/_definst_/livestream/playlist.m3u8
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=k24tv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/nrttvhd.png", NRT HD
 http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/23-04-2016-c02c9b27-nrt2-hd-live-kurdtvs.png", NRT2 HD
@@ -22,8 +22,10 @@ http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
 http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=gktv
-#EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
-rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
+#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=ciratv
+#EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
+http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=lalishtv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/25-02-2016-6b2f13a2-waartv.png", WAAR TV
 http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=waartv
 #EXTINF:-1 tvg-logo="http://www.prosave.tv/imagestore/haber/ref-delmedto6k4kjnf87yxv3z5r4a941uqgt52600t7ae51om52oq.png", Korek TV
@@ -52,16 +54,14 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 http://178.33.61.33:1936/13/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ronahi.png", Ronahi TV
 http://5.135.134.25:1936/14/Stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/ciratv.png", Cira TV
-http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=ciratv
-#EXTINF:-1 tvg-logo="http://ezidipress.com/ru/wp-content/uploads/sites/2/12045505_1681425322097709_8271208688366923079_o.jpg" , Lalish TV
-http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=lalishtv
+#EXTINF:-1 tvg-logo="http://canlitvkanali.com/wp-content/uploads/2015/11/komala-tv-150x150.jpg" , Komala TV
+rtmp://194.237.202.7:1938/live/KomalaTV_KurdChannel
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/newroztv.png", Newroz
 http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/mednuce.png", MED NUCE TV
 http://178.33.63.44:1936/13/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/medmuzik.png", MED MUZIK TV
-http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u
+http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/pelistank.png" , Pelistank TV 
 http://198.100.158.231:1935/kanal18/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zaroktv.png" , Zarok TV
@@ -101,9 +101,9 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
 http://live-k24.rhcloud.com/ArabTV/ArabTV.m3u8?ch=nat_geo
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
-http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
-http://iphone-streaming.ustream.tv/ustreamVideo/22362356/streams/live/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/22362356/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/alhurra_big.jpg" , Al Hurra Iraq
 rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
