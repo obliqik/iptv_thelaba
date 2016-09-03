@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rudawhd.png", Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistan24.png", Kurdistan24
-http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=k24tv
+http://198.100.158.231:1935/kanal30/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/nrttvhd.png", NRT HD
 http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/23-04-2016-c02c9b27-nrt2-hd-live-kurdtvs.png", NRT2 HD
@@ -99,7 +99,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1cFdX8HimnU/VjkqY45HTJI/AAAAAAAAAWM/HwgvmK-1IVw/s1600/_beIN_Sport_News.png" , Bein Sport News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
-http://live-k24.rhcloud.com/ArabTV/ArabTV.m3u8?ch=nat_geo
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/651.ts
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
@@ -128,7 +128,7 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1
-http://live-k24.rhcloud.com/ArabTV/ArabTV.m3u8?ch=mbc1
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/633.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2
 http://38.99.146.36:7777/MBC2_HD.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Img316_1.jpg" ,MBC 3
@@ -140,7 +140,7 @@ http://38.99.146.36:7777/MBCAction_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052010/MBC-MAX.png" ,MBC MAX 
 http://38.99.146.36:7777/MBCMax_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" ,MBC DRAMA
-http://live-k24.rhcloud.com/ArabTV/ArabTV.m3u8?ch=mbcdrama
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/639.ts
 #EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/october/week-3/13-10-2013/Untitled-4/original/f7e4bb5ab4e1338f3e88c883e6df1586e4ea0c77/Untitled-1.jpg" ,MBC BOLLYWOOD
 http://live-k24.rhcloud.com/ArabTV/ArabTV.m3u8?ch=mbcbollywood
 #EXTINF:-1 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" ,MBC MASR
@@ -205,10 +205,12 @@ https://www.youtube.com/watch?v=uMvhnVugCjo
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-01YF5Z5-iko/AAAAAAAAAAI/AAAAAAAAAAA/lo6d1n4uaAg/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" , CBC extra
 https://www.youtube.com/watch?v=r7ammFV2blg
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Zeealwanlogo.jpeg" , Zee Alwen
-http://38.99.146.36:7777/ZeeAlwan_HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Zeealwanlogo.jpeg" , Zee Alwan
+http://109.69.217.2:4284/bysid/4711
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lYbNgCH-M290SYSI7uc01ihlXX6aJCkoZJShKK3cgNlQ3B_Zq9WB84J5rmPc6Gb-7d2A=w300" , Zee Aflam
 http://38.99.146.36:7777/ZeeAflam_HD.m3u8
+#EXTINF:-1 tvg-logo="" , Zee Living
+http://109.69.217.2:4284/bysid/4724
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/eg/nileFamily_95x95.gif" , Nile Family
 rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/livestream
@@ -232,5 +234,9 @@ http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 
-#EXTINF:-1 tvg-logo="" , K24
-http://live-k24.rhcloud.com/KurdTV/KurdTV.m3u8?ch=k24tv
+#EXTINF:-1,K24 SD
+http://109.69.217.2:4283/bysid/1009
+#EXTINF:-1,CIRA TV
+http://109.69.217.2:4283/bysid/1010
+#EXTINF:-1,Ronahi TV
+http://109.69.217.2:4283/bysid/1011
