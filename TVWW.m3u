@@ -1,12 +1,283 @@
 #EXTM3U
 
-#EXTINF:0,ORF Eins (geo)
-http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0,ORF Zwei
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0,ORF Drei
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0,ORF Sport +
+
+
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █SKY-DE █ ▇ ▆ ▅ ▄ ▃
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1648.ts
+#EXTINF:-1,DE: Sky Sport HD 1 Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1610.ts
+#EXTINF:-1,DE: Sky Sport HD 2 Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1611.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1613.ts
+#EXTINF:-1,DE: Eurosport 2 HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1614.ts
+#EXTINF:-1,DE: Motorvision
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1618.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1609.ts
+#EXTINF:-1,DE: SKY SELECT-1
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1710.ts
+#EXTINF:-1,DE: SKY SELECT-2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1711.ts
+#EXTINF:-1,DE: SKY SELECT-3
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1712.ts
+#EXTINF:-1,DE: SKY SELECT-4
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1713.ts
+#EXTINF:-1,DE: SKY SELECT-5
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1714.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1715.ts
+#EXTINF:-1,DE: ZDF HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1577.ts
+#EXTINF:-1,DE: VOX HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1583.ts
+#EXTINF:-1,DE: Universal HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1628.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1625.ts
+#EXTINF:-1,DE: TNT Glitz HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1626.ts
+#EXTINF:-1,DE: TNT Film TCM
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1627.ts
+#EXTINF:-1,DE: TLC HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1586.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1587.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1597.ts
+#EXTINF:-1,DE: Super RTL HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1639.ts
+#EXTINF:-1,DE: Sport1 HD (Germany)
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1615.ts
+#EXTINF:-1,DE: Sport1  US HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1617.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1606.ts
+#EXTINF:-1,DE: Sky Nostalgie Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1600.ts
+#EXTINF:-1,DE: Sky Krimi
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1601.ts
+#EXTINF:-1,DE: Sky Hits HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1594.ts
+#EXTINF:-1,DE: Sky Emotion Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1602.ts
+#EXTINF:-1,DE: Sky Comedy Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1599.ts
+#EXTINF:-1,DE: Sky Cinema HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1590.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1592.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1591.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1612.ts
+#EXTINF:-1,DE: Sky Atlantic HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1595.ts
+#EXTINF:-1,DE: Sky Atlantic  1 HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1596.ts
+#EXTINF:-1,DE: Sky Action HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1593.ts
+#EXTINF:-1,DE: Sixx HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1585.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1581.ts
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1582.ts
+#EXTINF:-1,DE: RTL Passion Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1632.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1580.ts
+#EXTINF:-1,DE: RTL Living
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1631.ts
+#EXTINF:-1,DE: RTL HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1578.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1622.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1579.ts
+#EXTINF:-1,DE: Romance TV
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1633.ts
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1589.ts
+#EXTINF:-1,DE: Prosieben HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1588.ts
+#EXTINF:-1,DE: Nick HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1638.ts
+#EXTINF:-1,DE: National Geographic HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1603.ts
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1604.ts
+#EXTINF:-1,DE: MTV HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1644.ts
+#EXTINF:-1,DE: MGM HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1598.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1623.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1584.ts
+#EXTINF:-1,DE: Jukebox
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1646.ts
+#EXTINF:-1,DE: History Channel HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1605.ts
+#EXTINF:-1,DE: Heimatkanal
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1624.ts
+#EXTINF:-1,DE: Goldstar TV
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1645.ts
+#EXTINF:-1,DE: Fox HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1619.ts
+#EXTINF:-1,DE: E! HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1621.ts
+#EXTINF:-1,DE: DMAX HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1608.ts
+#EXTINF:-1,DE: Disney XD Deutschland
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1637.ts
+#EXTINF:-1,DE: Disney Junior HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1636.ts
+#EXTINF:-1,DE: Disney Cinemagic HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1635.ts
+#EXTINF:-1,DE: Disney Channel HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1634.ts
+#EXTINF:-1,DE: Discovery HD Deutschland
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1607.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1643.ts
+#EXTINF:-1,DE: Das Erste HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1576.ts
+#EXTINF:-1,DE: Classica
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1647.ts
+#EXTINF:-1,DE: Cartoon Network Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1641.ts
+#EXTINF:-1,DE: Boomerang Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1642.ts
+#EXTINF:-1,DE: AXN HD Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1630.ts
+#EXTINF:-1,DE: A-E Germany
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1620.ts
+#EXTINF:-1,DE: 13th Street HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1629.ts
+
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BEINsports █ ▇ ▆ ▅ ▄ ▃
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1207.ts
+#EXTINF:-1,beinsports-1HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/520.ts
+#EXTINF:-1,AR_Bein_Sports_1_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1455.ts
+#EXTINF:-1,beinsports-2HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/521.ts
+#EXTINF:-1,AR_Bein_Sports_2_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1456.ts
+#EXTINF:-1,beinsports-3HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/522.ts
+#EXTINF:-1,AR_Bein_Sports_3_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1457.ts
+#EXTINF:-1,beinsports-4HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/523.ts
+#EXTINF:-1,AR_Bein_Sports_4_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1458.ts
+#EXTINF:-1,beinsports-5HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/524.ts
+#EXTINF:-1,AR_Bein_Sports_5_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1459.ts
+#EXTINF:-1,beinsports-6HDbackup
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/525.ts
+#EXTINF:-1,AR_Bein_Sports_6_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1460.ts
+#EXTINF:-1,beinsports-7HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/526.ts
+#EXTINF:-1,AR_Bein_SportS_7_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1461.ts
+#EXTINF:-1,beinsports-8HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/527.ts
+#EXTINF:-1,AR_Bein_Sports_8_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1462.ts
+#EXTINF:-1,beinsports-9HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/528.ts
+#EXTINF:-1,AR_Bein_Sports_9_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1463.ts
+#EXTINF:-1,beinsports-10HDex
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/529.ts
+#EXTINF:-1,AR_Bein_Sports_10_HD-backup2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1464.ts
+#EXTINF:-1,AR_beIN_Sports_11HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1353.ts
+#EXTINF:-1,AR_beIN_Sports_12HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1354.ts
+#EXTINF:-1,AR_BEIN_SPORTS_13HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1355.ts
+#EXTINF:-1,AR_BEIN_SPORTS_14HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1356.ts
+#EXTINF:-1,AR_BEIN_SPORTS_15HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1357.ts
+#EXTINF:-1,AR_BEIN_SPORTS_16HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1358.ts
+#EXTINF:-1,AR_BEIN_SPORTS_17HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1359.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ OSN_SHOWTIME █ ▇ ▆ ▅ ▄ ▃
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1199.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-1HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/996.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-2HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/995.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-3HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/994.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-1HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/999.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-2HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/998.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-3HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/997.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-1HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1002.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-2HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1001.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-3HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1000.ts
+#EXTINF:-1,OSN-Star-Movies-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1285.ts
+#EXTINF:-1,AR_OSN.Movies.Premiere.plus.2
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1084.ts
+#EXTINF:-1,AR_OSN.MOVIE.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1092.ts
+#EXTINF:-1,OSN-Movies-2-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1287.ts
+#EXTINF:-1,AR_OSN.Movies.Premiere.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1085.ts
+#EXTINF:-1,OSN-Movies-Premiere-2-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1286.ts
+#EXTINF:-1,AR_OSN_Movies.Action.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1087.ts
+#EXTINF:-1,AR_OSN.Movies.Action2.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1086.ts
+#EXTINF:-1,AR_OSN.Movies.Festival.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1089.ts
+#EXTINF:-1,AR_OSN.Movies.Drama.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1090.ts
+#EXTINF:-1,AR_OSN.Movies.Comedy.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1091.ts
+#EXTINF:-1,AR_OSN.Movies.Comedy.Plus2.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/993.ts
+#EXTINF:-1,AR_OSN_Star_Movies_HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1083.ts
+#EXTINF:-1,OSN-Movies-AMC-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1716.ts
+#EXTINF:-1,OSN-First-Comedy-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1717.ts
+#EXTINF:-1,OSN-Star-World-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1718.ts
+#EXTINF:-1,OSN-Discovery-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1288.ts
+#EXTINF:-1,OSN-Discovery-Science-HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1289.ts
+#EXTINF:-1,AR_OSN.Movies.Kids.HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1088.ts
+#EXTINF:-1,AR: OSN YAHALA HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1283.ts
+#EXTINF:-1,AR: OSN YAHALA DRAMA HD
+http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1284.ts
+
+
+
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png", Animal Planet
 http://80.80.160.168/live/1/live.m3u8
@@ -26,10 +297,8 @@ http://80.80.160.168/live/8/live.m3u8
 http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png", HISTORY Channel HD
 http://over.ddns.net:65205
-#EXTINF:-1 tvg-logo="http://mms.businesswire.com/media/20160307006388/en/447793/5/NatGeoWild_RGB_black.jpg" , NATIONAL GEOGRAPHY WILD – UK
-http://51.255.81.190:8080/UK-Nat-Geo-Wild/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" , ANIMAL PLANET – UK
-http://51.255.81.190:8080/UK-Animal-Planet/mono.m3u8
+#EXTINF:-1 tvg-logo="http://mms.businesswire.com/media/20160307006388/en/447793/5/NatGeoWild_RGB_black.jpg" , NATIONAL GEOGRAPHY WILD
+http://95.170.203.140:1213/hls/vinlive.m3u8
 #EXTINF:-1 tvg-logo="http://themusicuniverse.com/wp-content/uploads/2013/03/vevo-tv-logo-new.png" , VEVO HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0, VEVO 2 HD
@@ -47,144 +316,17 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:0,NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-
-#EXTINF:-1,DE: VOX HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/213.ts
-#EXTINF:-1,DE: Universal HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/257.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/254.ts
-#EXTINF:-1,DE: TNT Glitz HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/255.ts
-#EXTINF:-1,DE: TNT Film TCM
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/256.ts
-#EXTINF:-1,DE: TLC HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/216.ts
-#EXTINF:-1,DE: Tele 5 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/217.ts
-#EXTINF:-1,DE: SyFy HD Deutschland
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/227.ts
-#EXTINF:-1,DE: Super RTL HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/268.ts
-#EXTINF:-1,DE: Sport1 HD (Germany)
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/244.ts
-#EXTINF:-1,DE: Sport1  US HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/246.ts
-#EXTINF:-1,DE: Sport1  HD (Germany)
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/245.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/234.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/238.ts
-#EXTINF:-1,DE: Sky Sport HD 2 Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/240.ts
-#EXTINF:-1,DE: Sky Sport HD 1 Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/239.ts
-#EXTINF:-1,DE: Sky Nostalgie Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/230.ts
-#EXTINF:-1,DE: Sky Krimi
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/231.ts
-#EXTINF:-1,DE: Sky Hits HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/224.ts
-#EXTINF:-1,DE: Sky Emotion Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/232.ts
-#EXTINF:-1,DE: Sky Comedy Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/229.ts
-#EXTINF:-1,DE: Sky Cinema HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/220.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/222.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/221.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/241.ts
-#EXTINF:-1,DE: Sky Atlantic HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/225.ts
-#EXTINF:-1,DE: Sky Atlantic  1 HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/226.ts
-#EXTINF:-1,DE: Sky Action HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/223.ts
-#EXTINF:-1,DE: Sixx HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/215.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/211.ts
-#EXTINF:-1,DE: Sat 1 Gold HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/212.ts
-#EXTINF:-1,DE: RTL Passion Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/261.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/210.ts
-#EXTINF:-1,DE: RTL Living
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/260.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/251.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/209.ts
-#EXTINF:-1,DE: Romance TV
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/262.ts
-#EXTINF:-1,DE: ProSieben MAXX HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/219.ts
-#EXTINF:-1,DE: Prosieben HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/218.ts
-#EXTINF:-1,DE: Nick HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/267.ts
-#EXTINF:-1,DE: MTV HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/275.ts
-#EXTINF:-1,DE: Motorvision
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/247.ts
-#EXTINF:-1,DE: MGM HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/228.ts
-#EXTINF:-1,DE: Kinowelt TV
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/252.ts
-#EXTINF:-1,DE: Kika HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/269.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/214.ts
-#EXTINF:-1,DE: Junior
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/273.ts
-#EXTINF:-1,DE: Jukebox
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/277.ts
-#EXTINF:-1,DE: History Channel HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/233.ts
-#EXTINF:-1,DE: Heimatkanal
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/253.ts
-#EXTINF:-1,DE: Goldstar TV
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/276.ts
-#EXTINF:-1,DE: Fox HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/248.ts
-#EXTINF:-1,DE: Eurosport 2 HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/243.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/242.ts
-#EXTINF:-1,DE: E! HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/250.ts
-#EXTINF:-1,DE: DMAX HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/236.ts
-#EXTINF:-1,DE: Disney XD Deutschland
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/266.ts
-#EXTINF:-1,DE: Disney Cinemagic HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/264.ts
-#EXTINF:-1,DE: Disney Channel HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/263.ts
-#EXTINF:-1,DE: Discovery HD Deutschland
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/235.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/274.ts
-#EXTINF:-1,DE: Classica
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/278.ts
-#EXTINF:-1,DE: Cartoon Network Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/270.ts
-#EXTINF:-1,DE: Boomerang Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/271.ts
-#EXTINF:-1,DE: AXN HD Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/259.ts
-#EXTINF:-1,DE: A-E Germany
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/249.ts
-#EXTINF:-1,DE: 13th Street HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/258.ts
-#EXTINF:-1,DE: ZDF HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/136.ts
-#EXTINF:-1,DE: RTL HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/139.ts
-#EXTINF:-1,DE: Das Erste HD
-http://3rabsat.com:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/135.ts
+#EXTINF:-1,ITV
+http://109.69.217.2:4274/bysid/10060
+#EXTINF:-1,ITV2
+http://109.69.217.2:4274/bysid/10070
+#EXTINF:-1,ITV4
+http://109.69.217.2:4274/bysid/10072
+#EXTINF:-1,ITV +1
+http://109.69.217.2:4274/bysid/10101
+#EXTINF:-1,ITVBe
+http://109.69.217.2:4274/bysid/10075
+#EXTINF:-1,CBS Drama
+http://109.69.217.2:4275/bysid/50903
+#EXTINF:-1,CBS Action
+http://109.69.217.2:4275/bysid/55209
