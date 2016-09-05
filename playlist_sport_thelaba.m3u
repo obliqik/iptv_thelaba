@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , bein Sport 1 HD
 http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=1
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , bein Sport 2 HD
@@ -29,6 +28,32 @@ http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=12
 http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=13
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s1600/BeinSportHD2fr.png" ,bein Sport 2 HD [FR]
 http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=14
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" , Bein Sport HD1
+http://teledunet.tv:8888/bein_sport_1.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_2_HD_2013.jpg" , Bein Sport HD2
+http://teledunet.tv:8888/bein_sport_2.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" , Bein Sport HD3
+http://teledunet.tv:8888/bein_sport_3.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" , Bein Sport HD4
+http://teledunet.tv:8888/bein_sport_4.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" , Bein Sport HD5
+http://teledunet.tv:8888/bein_sport_5.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" , Bein Sport HD6
+http://teledunet.tv:8888/bein_sport_6.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" , Bein Sport HD7
+http://teledunet.tv:8888/bein_sport_7.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" , Bein Sport HD8
+http://teledunet.tv:8888/bein_sport_8.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" , Bein Sport HD9
+http://teledunet.tv:8888/bein_sport_9.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Bein_10.png" , Bein Sport HD10
+http://teledunet.tv:8888/bein_sport_10.m3u8?idu=hmemar_68112242640
+
+  
+  
+#EXTINF:-1 tvg-logo="https://skyticket.sky.de/scrm/cms/static/img/sky_16-08_senderlogos_sky-bundesliga1.png" , Sky Sport Bundesliga 1
+http://54.247.34.239/streams/erde/playlist1.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/EuroSport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , EuroSport ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
@@ -65,6 +90,8 @@ http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=skyf1
 http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=bts1
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/51/BT_Sport_2.svg/revision/latest/scale-to-width-down/300?cb=20130806194148" , BT Sport 2 ENG
 http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=bts2
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/51/BT_Sport_2.svg/revision/latest/scale-to-width-down/300?cb=20130806194148" , BT Sport 2 BCK
+http://54.247.34.239/streams/himmel/playlist1.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5d/BT_Sport_ESPN.png/revision/latest/scale-to-width-down/300?cb=20150609115556" , BT Sport ESPN ENG
 http://live-k24.rhcloud.com/Sport/Sport.m3u8?ch=espn
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-Sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sport Europe ENG
