@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, Sky bundliga
-http://195.154.179.167/hls/pub1/0037.m3u8?tok=C915SMr3OWsqE4shxipPdQ
+http://213.152.168.44:8081/live/Chs1.m3u8?e=1474997814&st=pNRLws92U58D6w1y8vJyIA
 #EXTINF:-1,Sky Cinema +1 HD
 rtmp://stream-3.net-service.cc:22544/live/cinemapiu1hdde
 #EXTINF:-1,Sky Cinema +24 HD
