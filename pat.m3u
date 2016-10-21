@@ -101,7 +101,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1cFdX8HimnU/VjkqY45HTJI/AAAAAAAAAWM/HwgvmK-1IVw/s1600/_beIN_Sport_News.png" , Bein Sport News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
-rtmp://149.202.206.50:1935/myapp/970?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+rtmp://185.27.116.54:1935/live?hghpl=1340921489/geo.flv
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
