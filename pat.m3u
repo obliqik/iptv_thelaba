@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/rudawhd.png", Rudaw HD
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=rudawtv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdistan24.png", Kurdistan24
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=k24tv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/nrttvhd.png", NRT HD
@@ -17,7 +17,7 @@ http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=ksatnews
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kurdsat.png", KurdSat
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kurdsattv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/zagros.png", Zagros
-http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
+http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=zagrostv
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/kelikurdistan.png", Gali Kurdistan
@@ -47,7 +47,7 @@ http://87.81.198.172/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://www.altkia.com/wp-content/uploads/2015/04/R%C3%AAga-TV-550x367.png", Rega TV
 http://162.244.81.103:1935/RegaTV/myStream/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/files/01-03-2016-a865207c-gemkurdtv.jpg", Gem Kurd
-http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
+http://192.168.2.108:8080/Giniko/Giniko.m3u8?ch=gemkurd
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/spedatv.png", Speda TV
 http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="http://kurdtvs.com/uploads/trtkurdi.png", TRT Kurdi
@@ -154,8 +154,7 @@ http://teledunet.tv:8888/mbc_masr_2.m3u8?idu=hmemar_68112242640
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
-rtmp://149.202.206.50:1935/myapp/979?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://dcn.ae/images/logos-new/Dubai-Youla.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
