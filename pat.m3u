@@ -80,16 +80,10 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1 tvg-logo="http://images.huffingtonpost.com/2010-02-13-1RussiaTodaylogo.jpg" , RT Arabic
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/xFIOPLqlTerLbbOZPumqAciUf8lHinLMhBVUjySW7oftse_TUUJlE3rmiH3Zhb1KD9g=w300" , Al Sumaria
+http://192.168.2.108:8080/alsumaria/alsumaria.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Euronews-pure.svg/2000px-Euronews-pure.svg.png" , euronews Arabic
 https://www.youtube.com/watch?v=vFgvp3GQgkU
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/france24_arabic.jpg" , France 24 Arabic
-https://www.youtube.com/watch?v=55IL8QtH0Ao
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/120px-CNBC_Arabiya.svg.png" , CNBC Arabia
-http://api.new.livestream.com/accounts/3102016/events/1914609/videos/130262675.m3u8
-#EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/wp-content/uploads/2015/08/albaghdadia_logo_b1.png" , Al Baghdadia
-rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
-#EXTINF:-1 tvg-logo="http://albaghdadiagroup.com/bag2/sites/all/themes/B2/logo.png" , Al Baghdadia 2
-rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" , Al Jazeera Mubasher
