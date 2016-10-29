@@ -234,4 +234,4 @@ http://109.69.217.2:4283/bysid/1009
 #EXTINF:-1,CIRA TV
 http://109.69.217.2:4283/bysid/1010
 #EXTINF:-1,Ronahi TV
-http://109.69.217.2:4283/bysid/1011
+http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ciratv
