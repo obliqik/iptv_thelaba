@@ -92,14 +92,12 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
 #EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1cFdX8HimnU/VjkqY45HTJI/AAAAAAAAAWM/HwgvmK-1IVw/s1600/_beIN_Sport_News.png" , Bein Sport News
-http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
 rtmp://185.27.116.54:1935/live?hghpl=1340921489/geo.flv
 #EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
-http://iphone-streaming.ustream.tv/uhls/22362356/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/22169553/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/alhurra_big.jpg" , Al Hurra Iraq
 rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
@@ -177,28 +175,27 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/playlist.m3u8
 
  
-#EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel4.png" , Rotana Aflem
-http://teledunet.tv:8888/rotana_aflam.m3u8?idu=hmemar_68112242640
+
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel2.png" , Rotana CLIP
-http://teledunet.tv:8888/rotana_clip.m3u8?idu=hmemar_68112242640
+http://185.5.222.227:4242/bysid/5602
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel6.png" , Rotana Massrya HD
-http://teledunet.tv:8888/rotana_masriya.m3u8?idu=hmemar_68112242640
+http://185.5.222.227:4242/bysid/5606
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel3.png" ,  Rotana Music HD
-http://teledunet.tv:8888/rotana_music.m3u8?idu=hmemar_68112242640
+http://185.5.222.227:4242/bysid/5601
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel7.png" , Rotana Cinema HD
-http://teledunet.tv:8888/rotana_cinema.m3u8?idu=hmemar_68112242640
+http://185.5.222.227:4242/bysid/5609
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel5.png" , Rotana Khaliji HD
-http://teledunet.tv:8888/rotana_khaligi.m3u8?idu=hmemar_68112242640
+http://185.5.222.227:4242/bysid/5604
 #EXTINF:-1 tvg-logo="http://www.rotana.net/assets/themes/rotana/images/footer_channel1.png" , Rotana Classic HD
-http://teledunet.tv:8888/rotana_classic.m3u8?idu=hmemar_68112242640
+http://185.5.222.227:4242/bysid/5605
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-EgZReWZV3aM/AAAAAAAAAAI/AAAAAAAAAAA/_g9T0AwMQvk/s100-c-k-no-rj-c0xffffff/photo.jpg" , CBC
-https://www.youtube.com/watch?v=1yEMLzYzE1g
+https://www.youtube.com/watch?v=erciKOiWxJE
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-tDe3PyadQnQ/AAAAAAAAAAI/AAAAAAAAAAA/rBmsY_5xshg/s100-c-k-no-rj-c0xffffff/photo.jpg" , CBC Drama
-https://www.youtube.com/watch?v=uMvhnVugCjo
+https://www.youtube.com/watch?v=R4SQIu-aUgE
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-01YF5Z5-iko/AAAAAAAAAAI/AAAAAAAAAAA/lo6d1n4uaAg/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" , CBC extra
-https://www.youtube.com/watch?v=r7ammFV2blg
+https://www.youtube.com/watch?v=z71ruG2RFqM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Zeealwanlogo.jpeg" , Zee Alwan
 http://109.69.217.2:4284/bysid/4711
@@ -216,7 +213,7 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/livestream
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" ,MBC 1 LQ
-http://live-k24.rhcloud.com/ArabTV/ArabTV.m3u8?ch=mbc1
+http://188.165.35.160/sniffs-s/mbc1.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" ,MBC 2 LQ
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c9/Mbc4.jpg" ,MBC 4 LQ
@@ -234,4 +231,4 @@ http://109.69.217.2:4283/bysid/1009
 #EXTINF:-1,CIRA TV
 http://109.69.217.2:4283/bysid/1010
 #EXTINF:-1,Ronahi TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ciratv
+http://109.69.217.2:4283/bysid/1011
