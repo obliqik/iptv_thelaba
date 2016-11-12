@@ -100,6 +100,10 @@ http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22169553/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/alhurra_big.jpg" , Al Hurra Iraq
 rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xPgQkSVIfTo/hqdefault.jpg" , Iraq Future TV
+http://70.25.55.38:1935/live//aljaleyatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/alhadath-tv.jpg" , Al-Hadath Iraq TV
+http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
@@ -158,11 +162,11 @@ http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaizaman/_definst_/dubaizaman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_1HD.png" , bein Movies 1
-http://live-k24.rhcloud.com/BeinMovies/BeinMovies.m3u8?ch=1
+http://192.168.2.108:8080/BeinMovies/BeinMovies.m3u8?ch=1
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_2HD.png" , bein Movies 2
-http://live-k24.rhcloud.com/BeinMovies/BeinMovies.m3u8?ch=2
+http://192.168.2.108:8080/BeinMovies/BeinMovies.m3u8?ch=2
 #EXTINF:-1 tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/beINMOVIES_3HD.png" , bein Movies 3
-http://live-k24.rhcloud.com/BeinMovies/BeinMovies.m3u8?ch=3
+http://192.168.2.108:8080/BeinMovies/BeinMovies.m3u8?ch=3
 
 
 #EXTINF:-1 tvg-logo="http://al-nahar.tv/streams/images/alnahar.png" , Al Nahar TV
