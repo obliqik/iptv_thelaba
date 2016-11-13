@@ -51,11 +51,14 @@ http://teledunet.tv:8888/bein_sport_9.m3u8?idu=toufikmora_89621209080
 http://teledunet.tv:8888/bein_sport_10.m3u8?idu=toufikmora_89621209080
 
   
-  
-#EXTINF:-1 tvg-logo="https://skyticket.sky.de/scrm/cms/static/img/sky_16-08_senderlogos_sky-bundesliga1.png" , Sky Sport Bundesliga 1
-http://54.247.34.239/streams/erde/playlist1.m3u8
-#EXTINF:-1 tvg-logo="http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-Sport-Logo-Lizenzfreie-Bilder.jpg" , Sport
-http://54.247.34.239/streams/himmel/playlist1.m3u8
+#EXTINF:-1 tvg-logo="" , SportTV 1
+http://cdn.movcast.tv:1935/coolkora/server1_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" , SportTV 2
+http://cdn.movcast.tv:1935/coolkora/server2_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" , SportTV 3
+http://cdn.movcast.tv:1935/coolkora/server3_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" , SportTV 4
+http://cdn.movcast.tv:1935/coolkora/server4_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/EuroSport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , EuroSport ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
