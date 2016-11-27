@@ -1,72 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1, Sky bundliga
-http://195.154.179.174/hls/pub1/0007.m3u8?tok=C915SMr3OWsqE4shxipPdQ
 #EXTINF:-1,Sky Cinema +1 HD
-rtmp://stream-3.net-service.cc:22544/live/cinemapiu1hdde
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-cinema-1
 #EXTINF:-1,Sky Cinema +24 HD
-rtmp://stream-3.net-service.cc:22544/live/cinemapiu24hdde
-#EXTINF:-1,Sky Emotion
-rtmp://stream-3.net-service.cc:22544/live/skycinemaemotionde
-#EXTINF:-1,Sky Nostalgie
-rtmp://stream-3.net-service.cc:22544/live/skycinemanostalgiede
-#EXTINF:-1,Sky Cinema Action
-rtmp://stream-3.net-service.cc:22544/live/skyactionde
-#EXTINF:-1,Sky Cinema Hits
-rtmp://stream-3.net-service.cc:22544/live/sky007de
-#EXTINF:-1,TNT Serie
-rtmp://stream-3.net-service.cc:22544/live/skytntseriede
-#EXTINF:-1,Discovery HD
-rtmp://stream-3.net-service.cc:22544/live/discoveryhdde
-#EXTINF:-1,Discovery
-rtmp://stream-3.net-service.cc:22544/live/skydiscoveryde
-#EXTINF:-1,Disney XD
-rtmp://stream-3.net-service.cc:22544/live/skydisneyxdde
-#EXTINF:-1,MGM
-rtmp://stream-3.net-service.cc:22544/live/mgm
-#EXTINF:-1,Fox
-rtmp://stream-3.net-service.cc:22544/live/skyfoxde
-#EXTINF:-1,Heimakanal
-rtmp://stream-3.net-service.cc:22544/live/skyheimakanalde
-#EXTINF:-1,Sky Krimi
-rtmp://stream-3.net-service.cc:22544/live/skykrimide
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-cinema24-hd
+#EXTINF:-1,Sky Emotion HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-emotion
+#EXTINF:-1,Sky Atlantic HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-atlantic-hd
+#EXTINF:-1,Sky Action HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-action-hd
+#EXTINF:-1,Sky Comedy HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-comedy
+#EXTINF:-1,TNT Serie HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-tnt-serie-hd
+#EXTINF:-1,TNT Film HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-tnt-film-hd
+#EXTINF:-1,Syfy
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-syfy
 #EXTINF:-1,Nat Geo HD
-rtmp://stream-3.net-service.cc:22544/live/natgeohdde
-#EXTINF:-1,Nat Geo
-rtmp://stream-3.net-service.cc:22544/live/skynatgeode
-#EXTINF:-1,Nat Geo Wild HD
-rtmp://stream-3.net-service.cc:22544/live/natgeowildhdde
-#EXTINF:-1,Nat Geo Wild
-rtmp://stream-3.net-service.cc:22544/live/skynatgeowildde
-#EXTINF:-1,RTL Passion
-rtmp://stream-3.net-service.cc:22544/live/rtlpassionde
-#EXTINF:-1,RTL Crime
-rtmp://stream-3.net-service.cc:22544/live/rtlcrimede
-#EXTINF:-1,RTL 2
-rtmp://stream-3.net-service.cc:22544/live/rtl2
-#EXTINF:-1,RTL Nitro
-rtmp://stream-3.net-service.cc:22544/live/rtlnitro
-#EXTINF:-1,RTL Living
-rtmp://stream-3.net-service.cc:22544/live/rtlliving
-#EXTINF:-1,Super RTL
-rtmp://stream-3.net-service.cc:22544/live/superrtl
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-national-geographic-hd
 #EXTINF:-1,Sky Sport 1 HD
-rtmp://stream-3.net-service.cc:22544/live/sport1hdde
-#EXTINF:-1,Sky Sport 1
-rtmp://stream-3.net-service.cc:22544/live/skysport1de
-#EXTINF:-1,Sky Sport 2
-rtmp://stream-3.net-service.cc:22544/live/skysport2de
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport1-hd
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-bundesliga1-hd
+#EXTINF:-1,Sky Sport 2 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport2-hd
 #EXTINF:-1,Sky Sport Austria
-rtmp://stream-3.net-service.cc:22544/live/skysportaustriade
-#EXTINF:-1,Sky SyFy
-rtmp://stream-3.net-service.cc:22544/live/skysyfyde
-#EXTINF:-1,Disneycinemagic
-rtmp://stream-3.net-service.cc:22544/live/disneycinemagic
-#EXTINF:-1,Junior
-rtmp://stream-3.net-service.cc:22544/live/skyjuniorde
-#EXTINF:-1,Nick Jr
-rtmp://stream-3.net-service.cc:22544/live/nickjrde
-
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sports-austria
+#EXTINF:-1,Sky Sport News 24
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport-news24
+#EXTINF:-1,Sky Sport Digital HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sport-digital-hd
+#EXTINF:-1,Super RTL HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-super-rtl
+#EXTINF:-1,Nickelodeon HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-nickeleodeon-hd
 
 
 #EXTINF:-1,DW (Deutsch)
