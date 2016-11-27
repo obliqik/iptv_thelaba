@@ -1,69 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , beIN Sports 1 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=1
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , beIN Sports 2 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=2
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E5gGBwecb5U/VTEpJgDBB5I/AAAAAAAABDQ/oWWCY_GK50o/s1600/3.png" , beIN Sports 3 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=3
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-sLSEBgQwOLY/VTEpJ2-K4ZI/AAAAAAAABDU/o1GxWSzMdzA/s1600/4.png" , beIN Sports 4 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png" , beIN Sports 5 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=5
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KFIrJx8Gw30/VTEpUV5LN6I/AAAAAAAABDw/o8Q5kr9GZCs/s1600/6.png" , beIN Sports 6 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=6
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png" , beIN Sports 7 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=7
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" , beIN Sports 8 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YjffVzTg904/VTEpb52ZnQI/AAAAAAAABEI/RosIkm4Yps4/s1600/9.png" , beIN Sports 9 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=9
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png" , beIN Sports 10 HD
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=10
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4QWLfWPRYAw/VTEo1i7U-uI/AAAAAAAABCs/17zUVybCwyA/s1600/11.png" , beIN Sports 11 HD [EN]
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=11
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Fuj_8acwr4g/VTEo8VaTcFI/AAAAAAAABC0/Dpz2FhLJ3rc/s1600/12.png" , beIN Sports 12 HD [EN]
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=12
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png" ,beIN Sports  Sport 1 HD [FR]
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=13
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s1600/BeinSportHD2fr.png" ,beIN Sports 2 HD [FR]
-#EXTSIZE: Small
-http://192.168.2.108:8080/BeinSport/BeinSport.m3u8?ch=14
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" , Bein Sport HD1
-http://teledunet.tv:8888/bein_sport_1.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_2_HD_2013.jpg" , Bein Sport HD2
-http://teledunet.tv:8888/bein_sport_2.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" , Bein Sport HD3
-http://teledunet.tv:8888/bein_sport_3.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" , Bein Sport HD4
-http://teledunet.tv:8888/bein_sport_4.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" , Bein Sport HD5
-http://teledunet.tv:8888/bein_sport_5.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" , Bein Sport HD6
-http://teledunet.tv:8888/bein_sport_6.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" , Bein Sport HD7
-http://teledunet.tv:8888/bein_sport_7.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" , Bein Sport HD8
-http://teledunet.tv:8888/bein_sport_8.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" , Bein Sport HD9
-http://teledunet.tv:8888/bein_sport_9.m3u8?idu=toufikmora_89621209080
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Bein_10.png" , Bein Sport HD10
-http://teledunet.tv:8888/bein_sport_10.m3u8?idu=toufikmora_89621209080
-
+#EXTINF:0 tvg-logo="http://assets.beinsports.com/2.5.11/images/logo-header__us.png" , beIN Sports
+https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/beIN-Sports.m3u8
+#EXTINF:0 tvg-logo="http://s.bundesliga.de/assets/img/620000/617495_original.jpg" , Bundesliga/Fußball
+https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/BuLi.m3u
   
 #EXTINF:-1 tvg-logo="" , SportTV 1
 http://cdn.movcast.tv:1935/coolkora/server1_480p/playlist.m3u8
