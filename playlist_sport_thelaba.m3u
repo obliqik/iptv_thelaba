@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="http://assets.beinsports.com/2.5.11/images/logo-header__us.png" , beIN Sports
-https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/beIN-Sports.m3u8
+https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/beIN-Sports.m3u
 #EXTINF:0 tvg-logo="http://s.bundesliga.de/assets/img/620000/617495_original.jpg" , Bundesliga/Fußball
 https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/BuLi.m3u
   
