@@ -16,8 +16,8 @@ http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-comedy
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-tnt-serie-hd
 #EXTINF:-1,TNT Film HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-tnt-film-hd
-#EXTINF:-1,Syfy
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-syfy
+#EXTINF:-1,el classice
+http://nsn_live-lh.akamaihd.net/i/clasiv1_1@300461/master.m3u8
 #EXTINF:-1,Nat Geo HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-national-geographic-hd
 #EXTINF:-1,Sky Sport 1 HD
