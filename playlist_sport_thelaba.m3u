@@ -5,6 +5,9 @@ https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/beIN-Sports.m3u
 #EXTINF:0 tvg-logo="http://s.bundesliga.de/assets/img/620000/617495_original.jpg" , Bundesliga/Fußball
 https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/BuLi.m3u
   
+#EXTINF:-1 , Sky Sport 1 HD  
+http://iptvthebest.ddns.net:15000/live/calatafimi1/calatafimi1/8922.m3u8
+
 #EXTINF:-1 tvg-logo="" , CoolKora 1
 http://cdn.movcast.tv:1935/coolkora/server1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" , CoolKora 2
