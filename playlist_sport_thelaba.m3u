@@ -1,20 +1,20 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="http://assets.beinsports.com/2.5.11/images/logo-header__us.png" , beIN Sports
+#EXTSIZE: Medium
 https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/beIN-Sports.m3u
 #EXTINF:0 tvg-logo="http://s.bundesliga.de/assets/img/620000/617495_original.jpg" , Bundesliga/Fußball
+#EXTSIZE: Medium
 https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/BuLi.m3u
   
-#EXTINF:-1 , Sky Sport 1 HD  
-http://iptvthebest.ddns.net:15000/live/calatafimi1/calatafimi1/8922.m3u8
 
-#EXTINF:-1 tvg-logo="" , CoolKora 1
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 1
 http://cdn.movcast.tv:1935/coolkora/server1_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" , CoolKora 2
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 2
 http://cdn.movcast.tv:1935/coolkora/server2_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" , CoolKora 3
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 3
 http://cdn.movcast.tv:1935/coolkora/server3_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" , CoolKora 4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 4
 http://cdn.movcast.tv:1935/coolkora/server4_360p/playlist.m3u8
 
 
@@ -28,8 +28,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/200?cb=20100605113205" , Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.locatetv.com/blog/wp-content/uploads/2011/09/NFL-logo.png" , NFL
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/62/ESPN_HD.png" , ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 
