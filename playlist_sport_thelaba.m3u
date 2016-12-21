@@ -16,6 +16,18 @@ http://cdn.movcast.tv:1935/coolkora/server2_360p/playlist.m3u8
 http://cdn.movcast.tv:1935/coolkora/server3_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 4
 http://cdn.movcast.tv:1935/coolkora/server4_360p/playlist.m3u8
+#EXTINF:-1,Sport TV1 HD
+http://gochannelstv.dyndns.tv:80/p83sporttv1hd/index.m3u8
+#EXTINF:-1,Sport TV2 HD
+http://gochannelstv.dyndns.tv:80/p84sporttv2hd/index.m3u8
+#EXTINF:-1,Sport TV3 HD
+http://gochannelstv.dyndns.tv:80/p85sporttv3hd/index.m3u8
+#EXTINF:-1,Sport TV4 HD
+http://gochannelstv.dyndns.tv:80/p86sporttv4hd/index.m3u8
+#EXTINF:-1,Sport TV5 HD
+http://gochannelstv.dyndns.tv:80/p87sporttv5hd/index.m3u8
+#EXTINF:-1,Sporting TV HD
+http://gochannelstv.dyndns.tv:80/p88sportingtvhd/index.m3u8
 
 
 #EXTINF:-1 country="en" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/EuroSport1.svg/revision/latest/scale-to-width-down/200?cb=20151113171333" , EuroSport 
