@@ -16,7 +16,7 @@ rtmp://84.244.187.12/live/livestream
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kurdsat-news-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdsat.png", KurdSat
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kurdsat-tv
-#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/zagros.png", Zagros
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/zagros.png", Zagros
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=zagros-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
