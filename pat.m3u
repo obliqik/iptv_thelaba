@@ -126,16 +126,16 @@ http://9882.akamai.live.selevision.com/live/9882/98829/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" , Abu Dhabi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/abudhabitv.png" , Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
-#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" , Abu Dhabi Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/abudhabidrama.png" , Abu Dhabi Drama
 http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos/logo-new/Dubai-Youla.png" , Dubai TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/dubai/dubaitv.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos/logo-new/Sama.png" , Sama Dubai
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/dubai/samadubai.png" , Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/_definst_/samadubai/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dcn.ae/images/logos/logo-new/OneTV.png" , Dubai ONE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/dubai/dubaione.png" , Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/movies/bm1hd.png" , bein Movies 1
