@@ -56,51 +56,51 @@ http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ronahi
 http://192.168.2.108:8080/Besta/Besta.m3u8?ch=MedMuzik
 
 
-#EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" , Al Arabiya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_hd_tv.png" , Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w170" , Al Arabiya Al Hadath
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_al_hadath.png" , Al Arabiya Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png" , BBC Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/bbc_ar.png" , BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" , Sky News Arabia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/sky_news_ar.png" , Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1 tvg-logo="http://images.huffingtonpost.com/2010-02-13-1RussiaTodaylogo.jpg" , RT Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/rt_ar.png" , RT Arabic
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/xFIOPLqlTerLbbOZPumqAciUf8lHinLMhBVUjySW7oftse_TUUJlE3rmiH3Zhb1KD9g=w300" , Al Sumaria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_sumaria.png" , Al Sumaria
 http://192.168.2.108:8080/alsumaria/alsumaria.m3u8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" , Al Jazeera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_jazeera_hd.png" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" , Al Jazeera Mubasher
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_jazeera_mubasher.png" , Al Jazeera Mubasher
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" , Al Jazeera Documentary
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_jazeera_doc.png" , Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
-#EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" , DW Arabia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/dw_ar.png" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
-#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/ng_logo.png" , AD Nat Geo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/ad_nat_geo_tv.png" , AD Nat Geo
 http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/06/Al-Iraqia-TV.jpg" , Al Iraqiya TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_iraqya_tv.png" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2LkYRfL6vSM/ULC72ItfjEI/AAAAAAAAFhw/VTycZVqSvsE/s1600/u7WPmbatyU.jpg" , Al Iraqiya Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_iraqya_sports.png" , Al Iraqiya Sport
 http://iphone-streaming.ustream.tv/uhls/22169553/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/alhurra_big.jpg" , Al Hurra Iraq
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_hurra_iq.png" , Al Hurra Iraq
 rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/alhadath-tv.jpg" , Al-Hadath Iraq TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_hadath_news.png" , Al Hadath TV
 http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" , Alsharqiya TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_sharqiya_tv.png" , Al Sharqiya TV
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.alsharqiyatv.com/images/png-4.png" , Alsharqiya News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_sharqiya_news.png" , Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iOy0jOsEr8s/AAAAAAAAAAI/AAAAAAAAAAA/tQ6zjwS9r6g/s900-c-k-no-rj-c0xffffff/photo.jpg" , Houna Bagdad TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/hona_baghdad.png" , Hona Bagdad TV
 http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" , Al Aan TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_aan_tv.png" , Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 tvg.logo="https://lh3.googleusercontent.com/67ffEkVAA1PGTCIBPEm6F73amaEIUxRSaVblLsJvuZ6I6gje55KO09gB3KvWey0vKA=w170" , Al Rasheed
+#EXTINF:-1 tvg.logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_rasheed_tv.png" , Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg.logo="http://live.rtv.gov.sy/images/Aloula.jpg" , Syria Al Oula
+#EXTINF:-1 tvg.logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_1.png" , Syria Al Oula
 http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/sat.jpg" , Syria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_tv.png , Syria
 http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/drama.jpg" , Syria Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_drama.png" , Syria Drama
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 
