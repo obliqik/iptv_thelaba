@@ -74,7 +74,7 @@ http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_jazeera_doc.png" , Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/dw_ar.png" , DW Arabia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/dw.png" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/ad_nat_geo_tv.png" , AD Nat Geo
 http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
@@ -98,7 +98,7 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg.logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_1.png" , Syria Al Oula
 http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_tv.png , Syria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_tv.png" , Syria
 http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_drama.png" , Syria Drama
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
