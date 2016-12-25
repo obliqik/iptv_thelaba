@@ -106,9 +106,9 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png" ,MBC 1
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_1&t=ar
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png" ,MBC 2
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_1&t=ar
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_2&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_3&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png" ,MBC 4 
