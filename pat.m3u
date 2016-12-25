@@ -139,11 +139,11 @@ http://dmi.mangomolo.com:1935/samadubai/_definst_/samadubai/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaione/_definst_/dubaione/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/movies/bm1hd.png" , bein Movies 1
-http://192.168.2.108:8080/BeinMovies/BeinMovies.m3u8?ch=1
+http://192.168.2.108:8080/lotv/lotv.m3u8?ch=beinmovies1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/movies/bm2hd.png" , bein Movies 2
-http://192.168.2.108:8080/BeinMovies/BeinMovies.m3u8?ch=2
+http://192.168.2.108:8080/lotv/lotv.m3u8?ch=beinmovies2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/movies/bm3hd.png" , bein Movies 3
-http://192.168.2.108:8080/BeinMovies/BeinMovies.m3u8?ch=3
+http://192.168.2.108:8080/lotv/lotv.m3u8?ch=beinmovies3
 
  
 
