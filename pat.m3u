@@ -32,12 +32,14 @@ http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=lalish-tv
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=waar-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/duhoktv.png" , Duhok TV
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=duhok-tv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/korektv.png", Korek TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/korektv.png" , Korek TV
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=korek-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/Kanal4tv.png" , Kanal4
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kanal4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/vintv.png", Vin TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/vintv.png" , Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kingfashionkurdish.png", King Fashion Kurdish
+http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=king-fashion-kurdish
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdmax.png", Kurdmax TV HD
 http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/cihantv.png", Cihan TV HD
