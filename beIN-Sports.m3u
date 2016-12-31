@@ -64,3 +64,27 @@ rtmp://149.202.206.50/myapp//933?token=2186805261
 rtmp://149.202.206.50:1935/myapp/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs8hd.png" , Bein Sports 8 SD
 rtmp://149.202.206.50/myapp//934?token=2186805261
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs1hd.png" , beIN Sports 1 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-1hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs2hd.png" , beIN Sports 2 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-2hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs3hd.png" , beIN Sports 3 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-3hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs4hd.png" , beIN Sports 4 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-4hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs5hd.png" , beIN Sports 5 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-5hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs6hd.png" , beIN Sports 6 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-6hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs7hd.png" , beIN Sports 7 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-7hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs8hd.png" , beIN Sports 8 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-8hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs9hd.png" , beIN Sports 9 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-9hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs10hd.png" , beIN Sports 10 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-10hd
+
