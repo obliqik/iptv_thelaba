@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Cinema +1 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-cinema-1
-#EXTINF:-1,Sky Cinema +24 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-cinema24-hd
+#EXTINF:-1,Cinema HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-cinema-hd
 #EXTINF:-1,Sky Emotion HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-emotion
 #EXTINF:-1,Sky Atlantic HD
@@ -16,26 +14,25 @@ http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-comedy
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-tnt-serie-hd
 #EXTINF:-1,TNT Film HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-tnt-film-hd
-#EXTINF:-1,el classice
-http://nsn_live-lh.akamaihd.net/i/clasiv1_1@300461/master.m3u8
-#EXTINF:-1,Nat Geo HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-national-geographic-hd
-#EXTINF:-1,Sky Sport 1 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport1-hd
+#EXTINF:-1,Syfy
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-syfy
+#EXTINF:-1,Discovery HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-discovery-hd
+#EXTINF:-1,Nat Geo Wild HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-national-geo-wid
+#EXTINF:-1,History HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-history-hd
 #EXTINF:-1,Sky Bundesliga 1 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-bundesliga1-hd
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-bundesliga-hd-1
+#EXTINF:-1,Sky Sport 1 HD
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport-hd-1
 #EXTINF:-1,Sky Sport 2 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport2-hd
-#EXTINF:-1,Sky Sport Austria
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sports-austria
-#EXTINF:-1,Sky Sport News 24
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport-news24
-#EXTINF:-1,Sky Sport Digital HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sport-digital-hd
-#EXTINF:-1,Super RTL HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-super-rtl
-#EXTINF:-1,Nickelodeon HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-nickeleodeon-hd
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-sport-hd-2
+#EXTINF:-1,RTL Passion
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=de-sky-rtl-passion
+#EXTINF:-1,Sky Select 1
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=dde-sky-select-1
+
 
 
 #EXTINF:-1,DW (Deutsch)
