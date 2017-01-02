@@ -1,0 +1,119 @@
+Bein Sport News
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
+AD Nat Geo
+http://5.196.86.70:8888/nat_geo_ad.m3u8?idu=hmemar_68112242640
+Al Iraqiya TV
+http://teledunet.tv:8888/al_iraqiya.m3u8?idu=hmemar_68112242640
+SKY SPORT 1
+http://50.97.49.87:1935/apqq2/sky1delsh/playlist.m3u8
+SKY SPORT 2
+http://50.97.49.87:1935/apqq2/sky2delsh/playlist.m3u8
+SKY SPORT NEWS
+http://109.123.117.212:8088/live/tvlive0006/playlist.m3u8?id=243384&pk=3e3ee8c790bc5163e90ec0112e287b947d9200cdada614664f48310a63ab4a7c
+
+
+bt sport europe
+rtmp://lb.miplayer.net/goLive/_definst_/ibrodtvbteu_5msgj44x
+
+rtmp://lb.miplayer.net:1935/goLive/_definst_/cw
+sky sport news hd
+http://5.63.151.68:8088/live/tvlive0006/playlist.m3u8?id=243384&pk=a56e183dcd48f1c0bc3482704dbdf5e13870a9684eb58eb3d182cad07aa6eb27
+
+rtmp://31.220.2.148:1935/live/_definst_/fox1ree
+
+
+
+http://fluplus1.giniko.com/ciratv/ciratv/index.m3u8?token=3f4e3bab0d896c0378658ac39161af1686400
+
+
+http://cdn.arablive-tv.com/adnatgeo/index.m3u8?token=HOe6qJAdGAU97-R1AM77IQ..
+http://cdn.arablive-tv.com/adnatgeo/index.m3u8?token=HOe6qJAdGAU97-R1AM77IQ..
+
+http://163.172.16.246:9998/live/mile/skype/13.m3u8
+
+Sky sport UK HD
+SKY SPORTS 1 – UK :
+ http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
+SKY SPORTS 2 – UK : 
+http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
+SKY SPORTS 3 – UK :
+ http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
+SKY SPORTS 4 – UK :
+ http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
+SKY SPORTS 5 – UK :
+ http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
+Bt Sport 1 hd
+http://77.95.226.11:1935/live/gO0yRBsBvEFw/chunklist.m3u8
+Bt Sport 2 hd
+http://77.95.226.11:1935/live/hlVOBZby8n8/chunklist.m3u8
+VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+http://188.165.12.93:8000/live/jay/jay/4273.m3u8
+ESPN
+http://80.80.160.168/live/6/live.m3u8
+ESPN 2 SP
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+ESPN SP
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+Fox Sports
+
+http://188.165.12.93:8000/live/jay/jay/1703.m3u8
+
+
+
+NATIONAL GEOGRAPHY WILD – UK
+http://51.255.81.190:8080/UK-Nat-Geo-Wild/mono.m3u8?token=3uvk_1xf83
+ANIMAL PLANET – UK
+http://51.255.81.190:8080/UK-Animal-Planet/mono.m3u8?token=3uvk_1xf83
+
+TRT SPORT HD – TURKISH
+http://51.255.81.190:8080/TR-TRT-Sport/mono.m3u8?token=3uvk_1xf83
+
+
+
+
+
+http://51.255.81.190:8080/DE:SKY-Action-HD/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/DE-Sky-Sport-1HD/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/DE:Sky-Cinema-HD/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/DE:SKY-Emotion-HD/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/DE:Sky-Bundesliga-1-HD/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/DE-SKY-SELECT1/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/DE-SKY-SELECT2/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/MBC-Action/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/MBC-2/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/Bein-MOVIES-1/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/MBC-Bollywood/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/IT-SKYSPORT1/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/IT-SKYSPORT2/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/SP-CANAL-LIGA/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/OSN_MOVIES_ACTION/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/OSN_MOVIES/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/NL:Fox.Sports.1/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/NL:Fox.Sports.2/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/PT:SPORT.TV1/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/PT:SPORT.TV2/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/FR-Canal-Sport/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/SP-CANAL-Futbol/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/UK-BT-Sport-1/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/UK-BT-Sport-2/mono.m3u8?token=3uvk_1xf83
+http://51.255.81.190:8080/TR-NTV-Spor/mono.m3u8?token=3uvk_1xf83
+
+
+
+http://51.255.81.190:8080/BEINSPORT-1-HD/mono.m3u8
+http://51.255.81.190:8080/BeinSport-1-low/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-2-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-3-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-4-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-5-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-6-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-7-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-8-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-9-HD/mono.m3u8
+http://51.255.81.190:8080/BEINSPORT-10-HD/mono.m3u8
+http://51.255.81.190:8080/FR-BEINSPORT-1/mono.m3u8
+http://51.255.81.190:8080/FR-BEINSPORT-2/mono.m3u8
