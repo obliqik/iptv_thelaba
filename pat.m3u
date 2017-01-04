@@ -79,7 +79,7 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/dw.png" , DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/ad_nat_geo_tv.png" , AD Nat Geo
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=nat_geo_ad&t=ar
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_iraqya_tv.png" , Al Iraqiya TV
 http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_iraqya_sports.png" , Al Iraqiya Sport
@@ -114,7 +114,7 @@ http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_2&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3 HD
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_3&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png" ,MBC 4 HD
-http://9879.akamai.live.selevision.com/live/9879/98790/master.m3u8
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_4&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png" ,MBC ACTION HD
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_action&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png" ,MBC MAX HD
@@ -126,14 +126,14 @@ http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_bollywood&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png" ,MBC MASR
-http://9882.akamai.live.selevision.com/live/9882/98829/master.m3u8
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_masr&t=ar
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/abudhabitv.png" , Abu Dhabi TV
-http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
+http://adtv.ercdn.net/adaloula/adaloula.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/abudhabidrama.png" , Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+http://adtv.ercdn.net/addrama/addrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/dubai/dubaitv.png" , Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/_definst_/dubaitv/playlist.m3u8
