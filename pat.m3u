@@ -120,7 +120,7 @@ http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_action&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png" ,MBC MAX HD
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_max&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcdramahd.png" ,MBC DRAMA HD
-http://9879.akamai.live.selevision.com/live/9879/98792/master.m3u8
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png" ,MBC+ DRAMA HD
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD
