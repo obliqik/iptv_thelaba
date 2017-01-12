@@ -19,7 +19,7 @@ http://cdn.movcast.tv:1935/coolkora/server4_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga1.png" , Yariga 1
 http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga2.png" , Yariga 2
-http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv1
+http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv2
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads1.png" , AD Sports 1 HD
