@@ -1,16 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs1hd.png" , beIN Sports 1 HD
-http://mcdn-play-759.5centscdn.net/hd1bein1/live.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs2hd.png" , beIN Sports 2 HD
-http://mcdn-play-759.5centscdn.net/hd2bein2/live.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs3hd.png" , beIN Sports 3 HD
-http://mcdn-play-759.5centscdn.net/hd3bein3/live.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs4hd.png" , beIN Sports 4 HD
-http://mcdn-play-759.5centscdn.net/hd4bein4/live.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs5hd.png" , beIN Sports 5 HD
-http://mcdn-play-759.5centscdn.net/hd5bein5/live.stream/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs1hd.png" , Bein Sport 1
+http://192.168.2.108:8080/fl365/fl365.m3u8?ch=44
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs2hd.png" , Bein Sport 2
+http://192.168.2.108:8080/fl365/fl365.m3u8?ch=45
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs3hd.png" , Bein Sport 3
+http://192.168.2.108:8080/fl365/fl365.m3u8?ch=46
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs1hd.png" , beIN Sports 1 HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-1hd
@@ -27,7 +22,7 @@ http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-6hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs7hd.png" , beIN Sports 7 HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-7hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs8hd.png" , beIN Sports 8 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-8hd
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-88hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs9hd.png" , beIN Sports 9 HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-9hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs10hd.png" , beIN Sports 10 HD
@@ -48,7 +43,7 @@ http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-bein-sport-6-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs7hd.png" , beIN Sports 7 HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-bein-sport-7-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs8hd.png" , beIN Sports 8 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-bein-sport-8-hd
+http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-bein-sport-88-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs9hd.png" , beIN Sports 9 HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-bein-sport-9-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs10hd.png" , beIN Sports 10 HD
