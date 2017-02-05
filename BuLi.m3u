@@ -1,10 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 , EuroSport  PL
-http://185.63.252.132:1935/live/_definst_/spstreameurosport1x/playlist.m3u8?token=%Zrey(nKa@#Z
-#EXTINF:-1 , EuroSport 2 PL
-http://185.63.252.132:1935/live/_definst_/spstreameurosport2x/playlist.m3u8?token=%Zrey(nKa@#Z
+#EXTINF:-1 , Sky Bundesliga 1
+http://192.168.2.108:8080/fl365/fl365.m3u8?ch=66
+#EXTINF:-1 , Sky Sport 1
+http://192.168.2.108:8080/fl365/fl365.m3u8?ch=67
+#EXTINF:-1 , Sky Sport 2
+http://192.168.2.108:8080/fl365/fl365.m3u8?ch=68
+
 
 #EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 1
 http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch1
