@@ -123,6 +123,8 @@ http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_max&t=ar
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png" ,MBC+ DRAMA HD
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama&t=ar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcvarietyhd.png" , MBC Variety HD
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_variety&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD
 http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_bollywood&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png" ,MBC MASR
