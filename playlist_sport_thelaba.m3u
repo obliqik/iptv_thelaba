@@ -6,16 +6,12 @@ https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/beIN-Sports.m3u
 #EXTINF:0 tvg-logo="http://s.bundesliga.de/assets/img/620000/617495_original.jpg" , Bundesliga/Fußball
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/BuLi.m3u
+#EXTINF:0 tvg-logo="http://kora-online.tv/img/4b3ec2f16f05d44f0971ced2fba1c7ba.png" , Kora
+#EXTSIZE: Medium 
+http://192.168.2.108:8080/Kora/Kora.m3u
   
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 1
-http://cdn.movcast.tv:1935/coolkora/server1_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 2
-http://cdn.movcast.tv:1935/coolkora/server2_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 3
-http://cdn.movcast.tv:1935/coolkora/server3_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WUvyD2KYKoE/UsgnsmcSuvI/AAAAAAAAH8E/e3la-OvEJA4/s1600/Cool%2BKora%2BLive.png" , CoolKora 4
-http://cdn.movcast.tv:1935/coolkora/server4_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga1.png" , Yariga 1
 http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga2.png" , Yariga 2
