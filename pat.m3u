@@ -85,7 +85,7 @@ http://iphone-streaming.ustream.tv/uhls/21791994/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_iraqya_sports.png" , Al Iraqiya Sport
 http://iphone-streaming.ustream.tv/uhls/22169553/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_hurra_iq.png" , Al Hurra Iraq
-rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
+http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_hadath_news.png" , Al Hadath TV
 http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_sharqiya_tv.png" , Al Sharqiya TV
