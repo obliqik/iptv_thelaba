@@ -1,44 +1,25 @@
 #EXTM3U
 
-
-#EXTINF:-1 , Sky Bundesliga 1
-http://192.168.2.108:8080/fl365/fl365.m3u8?ch=66
-#EXTINF:-1 , Sky Sport 1
-http://192.168.2.108:8080/fl365/fl365.m3u8?ch=67
-#EXTINF:-1 , Sky Sport 2
-http://192.168.2.108:8080/fl365/fl365.m3u8?ch=68
-
-
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 1
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch1
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 2
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch2
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 3
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch3
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 4
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch4
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 5
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch5
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 6
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch6
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 7
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch7
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 8
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch8
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 9
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch9
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 10
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch10
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 11
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch11
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 12
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch12
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 13
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch13
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 14
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch14
-#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball C 15
-http://192.168.2.108:8080/Cast4u/Cast4u.m3u8?ch=hdch15
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 1
+http://192.168.2.108:8080/epl/epl.m3u8?ch=1
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 2
+http://192.168.2.108:8080/epl/epl.m3u8?ch=2
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 3
+http://192.168.2.108:8080/epl/epl.m3u8?ch=3
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 4
+http://192.168.2.108:8080/epl/epl.m3u8?ch=4
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 5
+http://192.168.2.108:8080/epl/epl.m3u8?ch=5
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 6
+http://192.168.2.108:8080/epl/epl.m3u8?ch=6
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 7
+http://192.168.2.108:8080/epl/epl.m3u8?ch=7
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 8
+http://192.168.2.108:8080/epl/epl.m3u8?ch=8
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 9
+http://192.168.2.108:8080/epl/epl.m3u8?ch=9
+#EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball EPL 10
+http://192.168.2.108:8080/epl/epl.m3u8?ch=10
 
 #EXTINF:-1 tvg-logo="https://kabel-internet-telefon.de/inhalte/2011/12/fussball-em-2012-tv-uebertragungszeiten-europameisterschaft-2012.jpg" , Fußball X 1
 http://192.168.2.108:8080/BuLi/BuLi.m3u8?ch=0001
