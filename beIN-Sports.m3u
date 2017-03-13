@@ -75,19 +75,18 @@ http://192.168.2.108:8080/lotv/lotv.m3u8?ch=beinsports3france
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs1hd.png" , beIN Sports 1 HD
-rtmp://151.80.21.128:1935/myapp/941?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+http://ustream.live-plus.tv:1935/live/bein1_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs2hd.png" , bEIN Sports 2 HD
-rtmp://151.80.21.128:1935/myapp/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+http://ustream.live-plus.tv:1935/live/bein2_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs3hd.png" , beIN Sports 3 HD
-rtmp://151.80.21.128:1935/myapp/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+http://ustream.live-plus.tv:1935/live/bein3_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs4hd.png" , beIN Sports 4 HD
-rtmp://151.80.21.128:1935/myapp/930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+http://ustream.live-plus.tv:1935/live/bein4_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs5hd.png" , beIN Sports 5 HD
-rtmp://151.80.21.128:1935/myapp/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+http://ustream.live-plus.tv:1935/live/bein5_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs6hd.png" , beIN Sports 6 HD
-rtmp://151.80.21.128:1935/myapp/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+http://ustream.live-plus.tv:1935/live/bein6_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs7hd.png" , beIN Sports 7 HD
-rtmp://151.80.21.128:1935/myapp/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+http://ustream.live-plus.tv:1935/live/bein7_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs8hd.png" , beIN Sports 8 HD
-rtmp://151.80.21.128:1935/myapp/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-
+http://ustream.live-plus.tv:1935/live/bein8_480p/playlist.m3u8
