@@ -90,3 +90,32 @@ http://ustream.live-plus.tv:1935/live/bein6_480p/playlist.m3u8
 http://ustream.live-plus.tv:1935/live/bein7_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs8hd.png" , beIN Sports 8 HD
 http://ustream.live-plus.tv:1935/live/bein8_480p/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 1
+http://149.202.208.85:8080/mystreambhenssp-1/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://149.202.208.85:8080/mystreambhenssp-2/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://149.202.208.85:8080/mystreambhenssp-3/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://149.202.208.85:8080/mystreambhenssp-4/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://149.202.208.85:8080/mystreambhenssp-5/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://149.202.208.85:8080/mystreambhenssp-6/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 7
+http://149.202.208.85:8080/mystreambhenssp-7/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://149.202.208.85:8080/mystreambhenssp-8/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://149.202.208.85:8080/mystreambhenssp-9/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 10
+http://149.202.208.85:8080/mystreambhenssp-10/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 11
+http://149.202.208.85:8080/mystreambhenssp-11/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT FRANCE 1
+http://149.202.208.85:8080/mystreambhenssfn-1/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT FRANCE 2
+http://149.202.208.85:8080/mystreambhenssfn-2/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT FRANCE 3
+http://149.202.208.85:8080/mystreambhenssfn-3/Strm/tracks-v1a1/index.m3u8
