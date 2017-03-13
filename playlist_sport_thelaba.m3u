@@ -63,6 +63,8 @@ http://192.168.2.108:8080/lotv/lotv.m3u8?ch=skysportsf1
 http://192.168.2.108:8080/lotv/lotv.m3u8?ch=btsport1
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/51/BT_Sport_2.svg/revision/latest/scale-to-width-down/300?cb=20130806194148" , BT Sports 2 HD
 http://192.168.2.108:8080/lotv/lotv.m3u8?ch=btsport2
+#EXTINF:-1,BT SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBeeT3yy-U/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5d/BT_Sport_ESPN.png/revision/latest/scale-to-width-down/300?cb=20150609115556" , BT Sports ESPN
 http://192.168.2.108:8080/lotv/lotv.m3u8?ch=btsportespn
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sports Europe 
@@ -71,3 +73,55 @@ http://192.168.2.108:8080/lotv/lotv.m3u8?ch=btsporteurope
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-15.55.04/1732346661ff44c6abc382c2072b9edd.png" , TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png",TSN SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
+#EXTINF:-1 tvg-logo="http://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png",TSN SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png",TSN SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png",TSN SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
+
+#EXTINF:-1, WWE
+http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8
+#EXTINF:-1,NL: FOX SPORT 6
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8
+#EXTINF:-1,US:FOX SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
+#EXTINF:-1,US:FOX SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-4/index.m3u8
+#EXTINF:-1,Premier Sports
+http://149.202.207.8:8080/kuLlieenuBEerr0Nepeemrie/Strm/index.m3u8 
