@@ -16,6 +16,8 @@ http://192.168.2.108:8080/Kora/Kora.m3u
 http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga2.png" , Yariga 2
 http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga3.png" , Yariga 3
+http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv3
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads1.png" , AD Sports 1 HD
@@ -39,7 +41,11 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/200?cb=20100605113205" , Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/62/ESPN_HD.png" , ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 
