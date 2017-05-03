@@ -38,8 +38,6 @@ http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=korek-tv
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kanal4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/vintv.png" , Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kingfashionkurdish.png", King Fashion Kurdish
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=king-fashion-kurdish
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdmax.png", Kurdmax TV HD
 http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdmaxshow.png", Kurdmax Show TV HD
@@ -53,11 +51,11 @@ http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/spedatv.png", Speda TV
 http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/sterk.png", Sterk TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=sterk-tv-zindi-canli-izle
+http://192.168.2.108:8080/Besta/Besta.m3u8?ch=sterk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/ronahi.png", Ronahi TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ronahi-tv-zindi-canli-izle
+http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ronahi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/medmuziktv.png", MED MUZIK TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=med-muzik-tv-zindi-canli-izle
+http://192.168.2.108:8080/Besta/Besta.m3u8?ch=MedMuzik
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_hd_tv.png" , Al Arabiya
@@ -100,8 +98,6 @@ http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg.logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_rasheed_tv.png" , Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg.logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_1.png" , Syria Al Oula
-http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_tv.png" , Syria
 http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_drama.png" , Syria Drama
@@ -109,28 +105,29 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png" ,MBC 1 HD
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_1&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png" ,MBC 2 HD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_2&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_2&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3 HD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_3&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_3&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png" ,MBC 4 HD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_4&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_4&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png" ,MBC ACTION HD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_action&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_action&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png" ,MBC MAX HD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_max&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_max&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcdramahd.png" ,MBC DRAMA HD
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png" ,MBC+ DRAMA HD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_drama&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcvarietyhd.png" , MBC Variety HD
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_variety&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_bollywood&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_bollywood&t=ar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png" ,MBC MASR
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=mbc_masr&t=ar
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_masr&t=ar
 
 
 
@@ -187,72 +184,3 @@ http://109.69.217.2:4283/bysid/1010
 http://109.69.217.2:4283/bysid/1011
 
 
-
-#EXTINF:-1,VIP: OSN Sports CRICKET HD
-http://9893.akamai.live.selevision.com/live/9893/98934/master.m3u8
-#EXTINF:-1,VIP: OSN Sports 1 HD
-http://9896.akamai.live.selevision.com/live/9896/98965/master.m3u8
-#EXTINF:-1,VIP: OSN Sports 2 HD
-http://9896.akamai.live.selevision.com/live/9896/98966/master.m3u8
-#EXTINF:-1,VIP: OSN Sports 3 HD
-http://9896.akamai.live.selevision.com/live/9896/98975/master.m3u8
-#EXTINF:-1,VIP: OSN Sports 4 HD
-http://9896.akamai.live.selevision.com/live/9896/98968/master.m3u8
-#EXTINF:-1,VIP : AD Sports 3 HD
-http://9884.akamai.live.selevision.com/live/9884/98849/master.m3u8
-#EXTINF:-1,VIP OSN: WWE Network HD
-http://9893.akamai.live.selevision.com/live/9893/98933/master.m3u8
-#EXTINF:-1,VIP OSN: Nat Geo Wild HD
-http://9894.akamai.live.selevision.com/live/9894/98944/master.m3u8
-#EXTINF:-1,VIP OSN: Nat Geo People HD
-http://9891.akamai.live.selevision.com/live/9891/98915/master.m3u8
-#EXTINF:-1,VIP OSN: Discovery HD
-http://9890.akamai.live.selevision.com/live/9890/98903/master.m3u8
-#EXTINF:-1,VIP OSN: Discovery Sc HD
-http://9890.akamai.live.selevision.com/live/9890/98905/master.m3u8
-#EXTINF:-1,VIP OSN: DISCOVERY FAMILY HD
-http://9890.akamai.live.selevision.com/live/9890/98902/master.m3u8
-#EXTINF:-1,VIP OSN: Animal Planet HD
-http://9887.akamai.live.selevision.com/live/9887/98879/master.m3u8
-#EXTINF:-1,VIP OSN: History HD
-http://9892.akamai.live.selevision.com/live/9892/98925/master.m3u8
-#EXTINF:-1,VIP OSN: H2
-http://9883.akamai.live.selevision.com/live/9883/98833/master.m3u8
-#EXTINF:-1,VIP OSN: TLC HD
-http://9899.akamai.live.selevision.com/live/9899/98995/master.m3u8
-#EXTINF:-1,VIP OSN: ID_X HD
-http://9895.akamai.live.selevision.com/live/9895/98951/master.m3u8
-#EXTINF:-1,VIP OSN: Outdoor HD
-http://9893.akamai.live.selevision.com/live/9893/98930/master.m3u8
-#EXTINF:-1,VIP OSN: Travel Channel HD
-http://9899.akamai.live.selevision.com/live/9899/98998/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Yahala Cinema HD
-http://9894.akamai.live.selevision.com/live/9894/98941/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Yahala HD
-http://9897.akamai.live.selevision.com/live/9897/98970/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Yahala +2
-http://9878.akamai.live.selevision.com/live/9878/98784/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Yahala Drama HD
-http://9896.akamai.live.selevision.com/live/9896/98969/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies HD
-http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies +2 HD
-http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Premiere HD
-http://9896.akamai.live.selevision.com/live/9896/98960/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Festival HD
-http://9895.akamai.live.selevision.com/live/9895/98967/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Action HD
-http://9896.akamai.live.selevision.com/live/9896/98961/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Action +2 HD
-http://9889.akamai.live.selevision.com/live/9889/98894/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Drama HD
-http://9899.akamai.live.selevision.com/live/9899/98991/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Drama +2
-http://9889.akamai.live.selevision.com/live/9889/98895/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Comedy HD
-http://9896.akamai.live.selevision.com/live/9896/98962/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Family HD
-http://9894.akamai.live.selevision.com/live/9894/98943/master.m3u8
-#EXTINF:-1,VIP OSN: OSN Movies Kids HD
-http://9895.akamai.live.selevision.com/live/9895/98959/master.m3u8
