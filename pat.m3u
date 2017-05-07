@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/rudawhd.png", Rudaw HD
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=rudaw-tv
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdistan24.png", Kurdistan24
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kurdistan24-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/nrttvhd.png", NRT HD
