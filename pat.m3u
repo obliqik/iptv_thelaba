@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/rudawhd.png", Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdistan24.png", Kurdistan24
-http://109.69.217.2:4283/bysid/1009
+http://192.168.2.108:8080/Besta/Besta.m3u8?ch=Kurdistan24TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/nrttvhd.png", NRT HD
 http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/nrt2.png", NRT2 HD
@@ -25,7 +25,7 @@ http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=net-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/gktv.png", Gali Kurdistan
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=geli-kurdistan-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/ciratv.png", Cira TV
-http://109.69.217.2:4283/bysid/1010
+http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ciratv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/lalishtv.png" , Lalish TV
 http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=lalish-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/waartv.png", WAAR TV
