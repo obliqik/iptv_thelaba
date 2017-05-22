@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/320px-BeIN_Sports.png" , beIN Sports
+#EXTSIZE: Medium
+http://192.168.2.108:8080/docs/m3u/bein.m3u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs1hd.png" , beIN Sports 1 HD
 http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-beinsport-1hd/embed
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/sports/bs2hd.png" , beIN Sports 2 HD
