@@ -107,27 +107,27 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png" ,MBC 1 HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_1&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbc1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png" ,MBC 2 HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_2&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbc2hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3 HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_3&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbc3hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png" ,MBC 4 HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_4&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbc4hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png" ,MBC ACTION HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_action&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbcactionhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png" ,MBC MAX HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_max&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbcmaxhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcdramahd.png" ,MBC DRAMA HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbcdramahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png" ,MBC+ DRAMA HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbcdramaplushd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcvarietyhd.png" , MBC Variety HD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_variety&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbcvarietyhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_bollywood&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbcbollywoodhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png" ,MBC MASR
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_masr&t=ar
+http://192.168.2.108:8080/docs/m3u8/mbcmasrhd.m3u8
 
 
 
