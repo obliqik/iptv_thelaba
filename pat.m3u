@@ -59,9 +59,9 @@ http://192.168.2.108:8080/Besta/Besta.m3u8?ch=MedMuzik
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_hd_tv.png" , Al Arabiya
-http://live.alarabiya.net/alarabiya/myStream/playlist.m3u8
+http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_al_hadath.png" , Al Arabiya Al Hadath
-http://live.alhadath.net/hadath/myStream/playlist.m3u8
+http://live.alhadath.net/hadath/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/bbc_ar.png" , BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/sky_news_ar.png" , Sky News Arabia
