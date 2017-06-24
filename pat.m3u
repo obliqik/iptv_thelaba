@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/rudawhd.png", Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdistan24.png", Kurdistan24
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=Kurdistan24TV
+http://192.168.2.113:8080/Besta/Besta.m3u8?ch=Kurdistan24TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/nrttvhd.png", NRT HD
 http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/nrt2.png", NRT2 HD
@@ -13,35 +13,35 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdistantv.png", Kurdistan TV
 rtmp://84.244.187.12/live/livestream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdsatnews.png", KurdSat News
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=KurdsatNewsTV
+http://192.168.2.113:8080/Besta/Besta.m3u8?ch=KurdsatNewsTV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdsat.png", KurdSat
 http://213.115.236.35:25461/live/STCOM-RS40/C4u23AfsGG/13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/zagros.png", Zagros
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=zagros-tv
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=zagros-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/knn.png", KKN Channel
 http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/nettv.png" , net TV
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=net-tv
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=net-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/gktv.png", Gali Kurdistan
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=geli-kurdistan-tv
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=geli-kurdistan-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/ciratv.png", Cira TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ciratv
+http://192.168.2.113:8080/Besta/Besta.m3u8?ch=ciratv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/lalishtv.png" , Lalish TV
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=lalish-tv
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=lalish-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/waartv.png", WAAR TV
 http://213.115.236.35:25461/live/STCOM-RS40/C4u23AfsGG/7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/duhoktv.png" , Duhok TV
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=duhok-tv
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=duhok-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/korektv.png" , Korek TV
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=korek-tv
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=korek-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/Kanal4tv.png" , Kanal4
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kanal4
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=kanal4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/vintv.png" , Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdmax.png", Kurdmax TV HD
 http://live.kurdstream.net:1935/liveTrans//myStream_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdmaxshow.png", Kurdmax Show TV HD
-http://192.168.2.108:8080/KurdTV/KurdTV.m3u8?ch=kurdmax-show-tv
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=kurdmax-show-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/cihantv.png", Cihan TV HD
 http://kurd-live.com:1935/live/cihan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/newline.png", Newline HD
@@ -51,11 +51,11 @@ http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/spedatv.png", Speda TV
 http://kurd-live.com:1935/live/speda/list.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/sterk.png", Sterk TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=sterk
+http://192.168.2.113:8080/Besta/Besta.m3u8?ch=sterk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/ronahi.png", Ronahi TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=ronahi
+http://192.168.2.113:8080/Besta/Besta.m3u8?ch=ronahi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/medmuziktv.png", MED MUZIK TV
-http://192.168.2.108:8080/Besta/Besta.m3u8?ch=MedMuzik
+http://192.168.2.113:8080/Besta/Besta.m3u8?ch=MedMuzik
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_hd_tv.png" , Al Arabiya
@@ -69,7 +69,7 @@ http://stream.skynewsarabia.com/stream/snahls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/rt_ar.png" , RT Arabic
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_sumaria.png" , Al Sumaria
-http://192.168.2.108:8080/alsumaria/alsumaria.m3u8
+http://192.168.2.113:8080/alsumaria/alsumaria.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_jazeera_hd.png" , Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_jazeera_mubasher.png" , Al Jazeera Mubasher
@@ -103,27 +103,27 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc1hd.png" ,MBC 1 HD
-http://192.168.2.108:8080/docs/m3u8/mbc1hd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbc1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc2hd.png" ,MBC 2 HD
-http://192.168.2.108:8080/docs/m3u8/mbc2hd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbc2hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc3hd.png" ,MBC 3 HD
-http://192.168.2.108:8080/docs/m3u8/mbc3hd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbc3hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc4hd.png" ,MBC 4 HD
-http://192.168.2.108:8080/docs/m3u8/mbc4hd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbc4hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcactionhd.png" ,MBC ACTION HD
-http://192.168.2.108:8080/docs/m3u8/mbcactionhd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbcactionhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmaxhd.png" ,MBC MAX HD
-http://192.168.2.108:8080/docs/m3u8/mbcmaxhd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbcmaxhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcdramahd.png" ,MBC DRAMA HD
-http://192.168.2.108:8080/docs/m3u8/mbcdramahd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbcdramahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbc%2Bdramahd.png" ,MBC+ DRAMA HD
-http://192.168.2.108:8080/docs/m3u8/mbcdramaplushd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbcdramaplushd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcvarietyhd.png" , MBC Variety HD
-http://192.168.2.108:8080/docs/m3u8/mbcvarietyhd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbcvarietyhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcbollywood.png" ,MBC BOLLYWOOD
-http://192.168.2.108:8080/docs/m3u8/mbcbollywoodhd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbcbollywoodhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/mbc/mbcmasr.png" ,MBC MASR
-http://192.168.2.108:8080/docs/m3u8/mbcmasrhd.m3u8
+http://192.168.2.113:8080/docs/m3u8/mbcmasrhd.m3u8
 
 
 
@@ -146,7 +146,7 @@ http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/977.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/movies/bm3hd.png" , bein Movies 3 HD
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/978.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/bein/movies/bm4hd.png" , bein Movies 4 HD
-http://192.168.2.108:8080/urhdtv/urhdtv.m3u8?ch=ar-bein-movie-4-hd
+http://192.168.2.113:8080/urhdtv/urhdtv.m3u8?ch=ar-bein-movie-4-hd
  
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/rotana/rotanaclip.png" , Rotana CLIP
