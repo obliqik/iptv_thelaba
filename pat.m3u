@@ -59,13 +59,13 @@ http://192.168.2.108:8080/Besta/Besta.m3u8?ch=MedMuzik
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_hd_tv.png" , Al Arabiya
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+https://live.alarabiya.net/alarabiya/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_arabiya_al_hadath.png" , Al Arabiya Al Hadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+https://live.alhadath.net/hadath/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/bbc_ar.png" , BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/sky_news_ar.png" , Sky News Arabia
-http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+http://stream.skynewsarabia.com/stream/snahls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/rt_ar.png" , RT Arabic
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_sumaria.png" , Al Sumaria
@@ -77,7 +77,7 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_jazeera_doc.png" , Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/dw.png" , DW Arabia
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/ad_nat_geo_tv.png" , AD Nat Geo
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_iraqya_tv.png" , Al Iraqiya TV
@@ -98,10 +98,6 @@ http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg.logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/al_rasheed_tv.png" , Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_tv.png" , Syria
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/news/syria_drama.png" , Syria Drama
-http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 
 
@@ -182,25 +178,5 @@ http://109.69.217.2:4283/bysid/1009
 http://109.69.217.2:4283/bysid/1010
 #EXTINF:-1,Ronahi TV
 http://109.69.217.2:4283/bysid/1011
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/OSN_Movies_2013.jpg",Osn Movies HD 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1292.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/500x300/OMK.jpg",Osn Movies Kids HD 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1666.ts
-#EXTINF:-1 tvg-logo="http://www13.0zz0.com/2013/11/28/07/377509834.png",Osn Movies Comedy HD 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1665.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg",Osn Movies Action 2 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1656.ts
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WeasfdZOJj0/maxresdefault.jpg",Osn First Comedy 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1654.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO1.jpg",Osn Box Office 1 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1670.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO2.jpg",Osn Box Office 2 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1671.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO3.jpg",Osn Box Office 3 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1672.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg",Osn Action 2
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1658.ts
-
 
 
