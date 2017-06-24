@@ -8,16 +8,16 @@ https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/beIN-Sports.m3u
 https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/BuLi.m3u
 #EXTINF:0 tvg-logo="http://kora-online.tv/img/4b3ec2f16f05d44f0971ced2fba1c7ba.png" , Kora
 #EXTSIZE: Medium 
-http://192.168.2.108:8080/Kora/Kora.m3u
+http://192.168.2.113:8080/Kora/Kora.m3u
   
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga1.png" , Yariga 1
-http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv1
+http://192.168.2.113:8080/Yariga/Yariga.m3u8?ch=tv1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga2.png" , Yariga 2
-http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv2
+http://192.168.2.113:8080/Yariga/Yariga.m3u8?ch=tv2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/sport/yariga3.png" , Yariga 3
-http://192.168.2.108:8080/Yariga/Yariga.m3u8?ch=tv3
+http://192.168.2.113:8080/Yariga/Yariga.m3u8?ch=tv3
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/abudhabi/adsports/ads1.png" , AD Sports 1 HD
@@ -61,7 +61,7 @@ http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYj
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Sky_Sports_5_2015.svg/revision/latest/scale-to-width-down/300?cb=20150828211733" , Sky Sports 5 
 http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/89/Sky_Sports_F1_2015.svg/revision/latest/scale-to-width-down/350?cb=20150828211952" , Sky Sports F1 
-http://192.168.2.108:8080/lotv/lotv.m3u8?ch=skysportsf1
+http://192.168.2.113:8080/lotv/lotv.m3u8?ch=skysportsf1
 
 
 
@@ -74,7 +74,7 @@ http://149.202.207.8:8080/kuLlieenuBEerr0NeBeeT3yy-U/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5d/BT_Sport_ESPN.png/revision/latest/scale-to-width-down/300?cb=20150609115556" , BT Sports ESPN
 http://185.142.239.164:3135/BT/Espn/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest/scale-to-width-down/350?cb=20150727151842" , BT Sports Europe 
-http://192.168.2.108:8080/lotv/lotv.m3u8?ch=btsporteurope
+http://192.168.2.113:8080/lotv/lotv.m3u8?ch=btsporteurope
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/71/Versus_HD.png/revision/latest/scale-to-width-down/200?cb=20110408205402" , Versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-15.55.04/1732346661ff44c6abc382c2072b9edd.png" , TRT 1 HD
