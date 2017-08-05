@@ -13,7 +13,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdistantv.png", Kurdistan TV
 rtmp://84.244.187.12/live/livestream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdsatnews.png", KurdSat News
-http://192.168.2.113:8080/Besta/Besta.m3u8?ch=KurdsatNewsTV
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=kurdsat-news-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdsat.png", KurdSat
 http://213.115.236.35:25461/live/STCOM-RS40/C4u23AfsGG/13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/zagros.png", Zagros
@@ -39,13 +39,15 @@ http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=kanal4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/vintv.png" , Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdmax.png", Kurdmax TV HD
-http://live.kurdstream.net:1935/liveTrans//myStream_source/playlist.m3u8
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=kurdmax-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/kurdmaxshow.png", Kurdmax Show TV HD
 http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=kurdmax-show-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/cihantv.png", Cihan TV HD
 http://kurd-live.com:1935/live/cihan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/newline.png", Newline HD
 http://kurd-live.com:1935/live/new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/newline.png", Newline 2 HD
+http://192.168.2.113:8080/KurdTV/KurdTV.m3u8?ch=newline-tv-2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/gemkurd.png", Gem Kurd
 http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TheLaba/iptv_thelaba/master/logos/kurd/spedatv.png", Speda TV
